@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 """Write `_stats/cost.json` using the published Muse Spark 1.3 token rates.
 
-The provider response recorded prompt and completion tokens but not cache-hit tokens
-(`prompt_tokens_details` is null). For a reproducible estimate, the first request in each
-trajectory is fully uncached. For every later request whose prompt grew, the previous
-request's prompt is the known shared prefix and is charged at the cached-input rate; newly
-added prompt tokens are charged at the input rate. A shrinking prompt is conservatively
-treated as fully uncached because its prefix cannot be established from token counts alone.
+Only provider-reported cache hits are charged at the cached-input rate. When a response
+does not report cache-hit tokens, all of its prompt tokens are conservatively charged at
+the uncached-input rate; no cache behavior is inferred from prompt growth.
 """
 
 import json
@@ -32,7 +29,6 @@ def cost_from_traj(traj: dict) -> tuple[float, int, int, int] | None:
     uncached_input = 0
     cached_input = 0
     output = 0
-    previous_prompt: int | None = None
     found = False
 
     for msg in traj.get("messages", []):
@@ -48,15 +44,12 @@ def cost_from_traj(traj: dict) -> tuple[float, int, int, int] | None:
         recorded_cached = details.get("cached_tokens")
         if isinstance(recorded_cached, int):
             cached = min(prompt, recorded_cached)
-        elif previous_prompt is not None and prompt >= previous_prompt:
-            cached = previous_prompt
         else:
             cached = 0
 
         uncached_input += prompt - cached
         cached_input += cached
         output += completion
-        previous_prompt = prompt
         found = True
 
     if not found:

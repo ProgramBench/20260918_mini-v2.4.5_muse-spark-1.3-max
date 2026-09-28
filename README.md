@@ -38,7 +38,8 @@ programbench submit verify <submission-dir>
 
 Cost, model-call, and output-token statistics are generated from the published trajectories
 by the scripts under `_scripts/`. Cost uses these per-million-token rates: $0.10 uncached
-input, $0.002 cached input, and $0.20 output.
+input, $0.002 cached input, and $0.20 output. Only provider-reported cache hits receive the
+cached-input rate; no cache behavior is inferred.
 
 ## Links
 
