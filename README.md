@@ -49,7 +49,7 @@ input, $0.002 cached input, and $0.20 output.
 - [x] Ran evaluation and `programbench submit package` to produce this submission
 - [x] Filled in every `submission.yaml` field, including `is_os_model` / `is_os_scaffold`
 - [x] Trajectories (`traj.json`) included for every task
-- [ ] Solutions present — inline `submission.tar.gz`, or a hosted `submission.tar.gz.url` + `.sha256`
+- [x] Solutions present — hosted privately as `submission.tar.gz.url` + `.sha256`
 - [x] Extra stats were produced by trajectory-reading scripts shipped under `_scripts/`
 - [x] Filled in the System overview and Reproducing sections above
 - [x] `programbench submit verify .` passes Tier-0
