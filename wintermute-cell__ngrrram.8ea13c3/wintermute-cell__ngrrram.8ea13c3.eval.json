@@ -1,0 +1,2443 @@
+{
+  "test_results": [
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_shows_defaults",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_wpm_flag_above_max",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_flag_invalid_value",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_flag_file_nonexistent",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_flag_file_empty",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_flag_words",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_layout_emulation.test_emu_both_valid_qwerty_dvorak",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_display_options.test_show_ortho_flag",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_flag_file_valid",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_flag_tetragrams",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_multiple_numeric_flags_one_invalid",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_combi_flag_valid_range",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_multiple_invalid_arguments",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_display_options.test_cat_flag",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_display_options.test_nokb_flag",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_top_flag_negative",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_multiple_numeric_flags_valid",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_display_options.test_show_ortho_and_nokb",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_rep_flag_above_max",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_acc_flag_above_max",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_wpm_flag_valid_range",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_layout_emulation.test_emu_both_valid_qwertz_colemak",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_flag",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_combi_flag_zero",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_display_options.test_display_flags_with_numeric_args",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_layout_emulation.test_emu_empty_strings",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_invalid_flag",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_layout_emulation.test_emu_out_without_emu_in",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_top_flag_above_max",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_contains_all_options",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_display_options.test_cat_with_emulation",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_display_options.test_all_display_flags",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_layout_emulation.test_emu_with_other_flags",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_long_flag",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_acc_flag_negative",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_flag_default_bigrams",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_top_flag_valid_range",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_flag_trigrams",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_top_flag_zero",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_short_flag",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_layout_emulation.test_emu_both_valid_azerty_colemakdh",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_rep_flag_valid_range",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_top_flag_non_numeric",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_display_options.test_all_flags_combined",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_layout_emulation.test_emu_invalid_layout_name",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_layout_emulation.test_emu_both_valid_same_layout",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_flag_bigrams_explicit",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_flag_file_with_newlines",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_layout_emulation.test_emu_case_sensitive",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_display_options.test_nokb_with_emulation",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_wpm_flag_zero",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_display_options.test_show_ortho_with_emulation",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_rep_flag_zero",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_layout_emulation.test_emu_in_without_emu_out",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_combi_flag_above_max",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_numeric_arguments.test_acc_flag_valid_range",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_ngram_selection.test_n_flag_file_no_commas",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_layout_emulation.test_emu_all_valid_layouts",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.039
+      }
+    },
+    {
+      "name": "eval.tests.test_runtime_init.test_init_with_trigrams",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.301
+      }
+    },
+    {
+      "name": "eval.tests.test_runtime_init.test_init_with_tetragrams",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.302
+      }
+    },
+    {
+      "name": "eval.tests.test_runtime_init.test_init_with_all_params",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.302
+      }
+    },
+    {
+      "name": "eval.tests.test_runtime_init.test_init_with_bigrams",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.302
+      }
+    },
+    {
+      "name": "eval.tests.test_runtime_init.test_init_with_custom_file",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.302
+      }
+    },
+    {
+      "name": "eval.tests.test_runtime_init.test_init_with_words",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.301
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_custom_acc",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.515
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_bigrams_shows_content",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.511
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_default_run_shows_lesson",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.512
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_trigrams_shows_content",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.511
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_words_shows_content",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.512
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_custom_rep",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.512
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_emulation_qwerty_dvorak",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.511
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_custom_wpm",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.516
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_combined_flags",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.511
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_tetragrams_shows_content",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.511
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_custom_combi",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.511
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_custom_top",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.511
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_show_ortho",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.511
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_emulation_azerty_qwerty",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.513
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_cat_shows_cat",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.515
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_file_wordlist",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.513
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_emulation_qwerty_colemak",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.511
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_starts_and_quits",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.655
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_with_bigrams",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.655
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_with_all_params",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.655
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_with_nokb_flag",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.656
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_with_emulation",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.655
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_with_tetragrams",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.655
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_show_ortho",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.655
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_with_trigrams",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.655
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_with_cat_flag",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.656
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_ctrl_c_quit",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.655
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_with_words",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.656
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_typing_interaction",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.715
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_lesson_progression",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.875
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_ortho_with_different_layouts",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 0.931
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_nokb_no_keyboard",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.019
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_typing_interaction",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.006
+      }
+    },
+    {
+      "name": "eval.tests.test_runtime_init.test_init_with_emulation_layouts",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.205
+      }
+    },
+    {
+      "name": "eval.tests.test_runtime_init.test_init_all_ngram_types_sequential",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.206
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_all_layouts",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.236
+      }
+    },
+    {
+      "name": "eval.tests.test_runtime_init.test_init_with_display_options",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.405
+      }
+    },
+    {
+      "name": "eval.tests.test_runtime_init.test_init_combinations",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.406
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_combined_display_flags",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.36
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_varied_top_values",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.552
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_all_ngram_types_sequentially",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.643
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_all_layout_outputs",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.859
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interaction.test_run_with_varied_combi_values",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.825
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_all_layout_emulations",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_pexpect.test_tui_multiple_typing_cycles",
+      "branch": "d3e0b8bd2908",
+      "status": "passed",
+      "extra": {
+        "time": 2.78
+      }
+    },
+    {
+      "name": "tests.test_cli.test_wpm_above_maximum",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_validation_order_rep_checked_after_combi",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_cli.test_short_flag_combi_invalid",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_top_below_minimum",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_emu_in_without_emu_out",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_top_boundary_maximum_valid",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combined_flags_all_short_forms",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_cli.test_acc_boundary_zero_valid",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_boolean_flag_show_ortho",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_top_non_numeric",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_extreme_combination_all_max_values",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_validation_order_combi_checked_after_top",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_top_negative_value",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_cli.test_help_short_flag",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_top_boundary_minimum_valid",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_wpm_below_minimum",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_n_file_not_found",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_extreme_combination_all_min_values",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_emu_out_without_emu_in",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_validation_order_acc_checked_after_wpm",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_validation_order_wpm_checked_after_rep",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_top_above_maximum",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_cli.test_acc_above_maximum",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_help_flag",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_n_missing_value",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_short_flag_rep_invalid",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_help_long_flag",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_short_flag_top_invalid",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "tests.test_cli.test_n_flag_bigrams_default",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_rep_above_maximum",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_validation_order_top_checked_first",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_all_boolean_flags_together",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combi_missing_value",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_acc_below_minimum",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_n_flag_tetragrams",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_emulation_all_supported_layouts",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combined_flags_mix_short_and_long",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_unknown_flag",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_acc_boundary_hundred_valid",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combi_above_maximum",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_rep_below_minimum",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_top_float_value",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_multiple_validation_errors_top_first",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_validation_order_emulation_checked_last",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_short_flag_wpm_invalid",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_emu_both_specified_valid",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_file_not_found_error",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_n_flag_wordlist",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_short_flag_acc_invalid",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_boolean_flag_cat",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_invalid_acc_range",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_n_flag_trigrams",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_boolean_flag_nokb",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_n_file_with_absolute_path",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_invalid_top_range",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combi_below_minimum",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_tui_typing.test_tui_custom_thresholds",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 1.975
+      }
+    },
+    {
+      "name": "tests.test_tui_typing.test_tui_initial_screen",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 1.998
+      }
+    },
+    {
+      "name": "tests.test_tui_typing.test_tui_cat_flag",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 1.994
+      }
+    },
+    {
+      "name": "tests.test_tui_typing.test_tui_combined_flags",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.13
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_trailing_comma_in_wordlist",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.227
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_only_commas_results_in_empty_lesson",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.223
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_wordlist_displays_variable_length_words",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.286
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_unicode_characters_in_wordlist",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.27
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_spaces_preserved_in_multi_word_phrases",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.282
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_bigrams_display_two_letter_sequences",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.29
+      }
+    },
+    {
+      "name": "tests.test_tui_typing.test_tui_quit_keybindings",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.332
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_top_parameter_limits_ngram_selection",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.388
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_multiline_wordlist_parses_all_lines",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.381
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_custom_file_displays_exact_wordlist_content",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.404
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_trigrams_display_three_letter_sequences",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.404
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_large_wordlist_handles_many_entries",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.379
+      }
+    },
+    {
+      "name": "tests.test_ngrams.test_tetragrams_display_four_letter_sequences",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 2.453
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_invalid_layout_defaults_to_qwerty",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.077
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_dvorak_distinctive_positions",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.052
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_qwerty_to_azerty_emulation_workflow",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.06
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_qwertz_layout_rendering",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.062
+      }
+    },
+    {
+      "name": "tests.test_tui_typing.test_tui_typing_and_lesson_completion",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.04
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_azerty_layout_rendering",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.196
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_dvorak_to_colemak_alternative_to_alternative",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.21
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_qwerty_layout_rendering",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.187
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_colemakdh_layout_rendering",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.214
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_dvorak_layout_rendering",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.225
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_qwerty_to_qwertz_emulation_workflow",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.231
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_qwertz_distinctive_keys",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.22
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_colemak_to_qwerty_reverse_emulation",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.188
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_colemak_layout_rendering",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.199
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_ortholinear_qwerty_display",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.205
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_azerty_numbers_on_shift_layer",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.196
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_ortholinear_adds_padding_triangles",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.195
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_ortholinear_dvorak_display",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.216
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_ortholinear_with_nokb_suppresses_keyboard",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.205
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_same_input_output_layout",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.213
+      }
+    },
+    {
+      "name": "tests.test_tui_typing.test_tui_different_ngram_sizes",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 3.919
+      }
+    },
+    {
+      "name": "tests.test_tui_typing.test_tui_error_display_and_backspace",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 4.084
+      }
+    },
+    {
+      "name": "tests.test_tui_typing.test_tui_word_delete_alt_backspace",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 4.541
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_colemak_vs_colemakdh_differences",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 6.025
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_mixed_layout_pairs_coverage",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 8.838
+      }
+    },
+    {
+      "name": "tests.test_keyboard_layouts.test_all_layouts_have_spacebar",
+      "branch": "5eb07a00de06",
+      "status": "passed",
+      "extra": {
+        "time": 17.175
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_option_values[args3-a value is required for '--rep <number>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_numeric_range_validation_errors[args0-Invalid argument for top. Use a number between 1 and 200.]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_option_values[args0-a value is required for '--top <1-200>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_invalid_numeric_types_rejected_by_parser[args0-invalid value 'abc' for '--top <1-200>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_numeric_range_validation_errors[args5-Invalid argument for acc. Use a number between 0 and 100.]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_option_values[args6-a value is required for '--emu-in <layout>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_numeric_range_validation_errors[args3-Invalid argument for combi. Use a number between 1 and 200.]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_option_values[args5-a value is required for '--acc <0-100>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_double_dash_does_not_enable_positional_args",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_option_values[args4-a value is required for '--wpm <number>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_option_values[args2-a value is required for '--combi <1-200>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_n_flag_other_values_treated_as_filename",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_invalid_numeric_types_rejected_by_parser[args3-invalid value 'abc' for '--wpm <number>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_option_values[args1-a value is required for '--top <1-200>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_flags_error[badflag2-unexpected argument '-Z']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_duplicate_single_value_flag_is_rejected",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_boolean_flags_reject_explicit_values",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_invalid_numeric_types_rejected_by_parser[args4-invalid value 'abc' for '--acc <0-100>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_invalid_numeric_types_rejected_by_parser[args2-invalid value 'abc' for '--rep <number>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_flags_error[badflag0-unexpected argument '--version']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_numeric_range_validation_errors[args4-unexpected argument '-1']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_n_flag_accepts_words_or_file_and_reaches_runtime[args0-No such device or address]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_invalid_numeric_types_rejected_by_parser[args1-invalid value 'abc' for '--combi <1-200>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_flags_error[badflag1-unexpected argument '--nonexistent-flag']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_n_flag_accepts_words_or_file_and_reaches_runtime[args2-File not found: file]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_numeric_range_validation_errors[args1-Invalid argument for top. Use a number between 1 and 200.]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_option_values[args7-a value is required for '--emu-out <layout>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_numeric_range_validation_errors[args2-Invalid argument for combi. Use a number between 1 and 200.]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_option_values[args8-a value is required for '--n <2|3|4|w|file>']",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_n_flag_accepts_words_or_file_and_reaches_runtime[args1-No such device or address]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_valid_invocations_start_tui[args0]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.22
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_valid_invocations_start_tui[args5]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.219
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_valid_invocations_start_tui[args4]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.219
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_valid_invocations_start_tui[args1]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.218
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_valid_invocations_start_tui[args3]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.217
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_interleaved_flags_after_flags_are_ok",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.216
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_valid_invocations_start_tui[args2]",
+      "branch": "7264c23f9ad3",
+      "status": "passed",
+      "extra": {
+        "time": 0.218
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_documents_each_flag[-a, --acc]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_documents_each_flag[-r, --rep]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_includes_defaults_for_numeric_flags",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_takes_precedence_over_other_valid_flags",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_key_descriptions[the wpm threshold at which the lesson is considered a success.]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_documents_each_flag[--emu-in]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_key_descriptions[disable the keyboard layout display.]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_key_descriptions[use the top X ngrams ordered by usage.]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_key_descriptions[how many different ngrams to use in a single lesson.]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_documents_each_flag[--show-ortho]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_starts_with_usage_line",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_documents_each_flag[-n, --n]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_key_descriptions[the most important flag.]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_key_descriptions[how often to repeat *each* different ngram in a lesson.]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_takes_precedence_over_invalid_flags",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_key_descriptions[your current keyboard layout.]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_mentions_help_flag",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_key_descriptions[the accuracy in percent at which the lesson is considered a success.]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_key_descriptions[show keyboard in ortholinear format]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_key_descriptions[the layout you want to emulate.]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_key_descriptions[use bi-(2), tri-(3), tetragrams(4), (w)ords]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_documents_each_flag[--emu-out]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_documents_each_flag[--nokb]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_documents_each_flag[--cat]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_double_dash_then_help_is_not_treated_as_help",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_documents_each_flag[-w, --wpm]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_documents_each_flag[-c, --combi]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_documents_each_flag[-t, --top]",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_includes_empty_default_for_layouts",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_full_help_matches_fixture_exactly",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_contains_options_header",
+      "branch": "46c007125807",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_validation.test_n_invalid_treated_as_file_path_error[word]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_validation.test_range_rejects_out_of_bounds[--top-201-Invalid argument for top]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_errors.test_unknown_flag_errors[-Z]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_validation.test_n_invalid_treated_as_file_path_error[5]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_validation.test_range_rejects_out_of_bounds[--combi-0-Invalid argument for combi]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_layouts.test_emu_requires_both_in_and_out[colemak-dh]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_validation.test_range_rejects_out_of_bounds[--top-0-Invalid argument for top]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_validation.test_n_invalid_treated_as_file_path_error[]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_errors.test_missing_value_errors[args0]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_layouts.test_emu_requires_both_in_and_out[unknown]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_layouts.test_emu_requires_both_in_and_out[QWERTY]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_errors.test_missing_value_errors[args1]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_validation.test_range_rejects_out_of_bounds[--acc--1-unexpected argument]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_wordlist_file_mode.test_n_file_empty_errors",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_errors.test_missing_value_errors[args2]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_errors.test_unknown_flag_errors[--does-not-exist]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_errors.test_unknown_flag_errors[--version]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_validation.test_n_invalid_treated_as_file_path_error[x]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_validation.test_n_invalid_treated_as_file_path_error[0]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_wordlist_file_mode.test_n_file_missing_errors",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_errors.test_help_exact",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_validation.test_range_rejects_out_of_bounds[--combi-201-Invalid argument for combi]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_errors.test_missing_value_errors[args3]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_validation.test_range_rejects_out_of_bounds[--acc-101-Invalid argument for acc]",
+      "branch": "11c7e7093b72",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_ngrrram.test_initial_screen_renders",
+      "branch": "4b3c87660b99",
+      "status": "passed",
+      "extra": {
+        "time": 0.384
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_ngrrram.test_unbound_key_does_not_crash",
+      "branch": "4b3c87660b99",
+      "status": "passed",
+      "extra": {
+        "time": 0.688
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_ngrrram.test_esc_quits",
+      "branch": "4b3c87660b99",
+      "status": "passed",
+      "extra": {
+        "time": 2.179
+      }
+    }
+  ],
+  "error_code": null,
+  "error_details": null,
+  "log": [],
+  "solution_branch": "pbconv-internal_realmax-20260913_202144-wintermute-cell__ngrrram",
+  "test_branches": [
+    "d3e0b8bd2908",
+    "5eb07a00de06",
+    "7264c23f9ad3",
+    "46c007125807",
+    "11c7e7093b72",
+    "4b3c87660b99"
+  ],
+  "test_branch_errors": {},
+  "executable_hash": "1bce57da97789621a31194aba14a4c104f6c98a8badea42c97002cc8156cf025",
+  "warnings": []
+}

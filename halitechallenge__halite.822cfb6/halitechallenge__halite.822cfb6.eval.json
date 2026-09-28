@@ -1,0 +1,5537 @@
+{
+  "test_results": [
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_describes_dimensions",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_contains_all_flags",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.051
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_invalid_nplayers_zero",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.054
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_short_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.051
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_version_format",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_nplayers_with_multiple_bots_fails",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.058
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_invalid_nplayers_too_high",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.053
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_no_arguments_shows_error",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.059
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_version_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.056
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_override_mode_odd_arguments_fails",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.059
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.056
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_override_mode_too_few_arguments",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.058
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_empty_bot_command_error",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.059
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_invalid_bot_command_graceful",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.182
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_invalid_bot_command_graceful",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 0.183
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_very_small_map",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.985
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_default_dimensions_when_not_specified",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.956
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_dimensions_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.992
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_normal_mode_output_format",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.994
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_bot_names_in_results",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.986
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_normal_mode_shows_seed",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.986
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_three_bot_ranking",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.999
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_directory_custom",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.97
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_large_seed_value",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.976
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_single_bot_game",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.989
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_dimensions_with_spaces",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.987
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_two_bot_game",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.988
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_multiple_sequential_games",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.983
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_two_bots_ranking",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.981
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_multiple_bots_one_invalid_graceful",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.996
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_multiple_games_different_seeds",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.992
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_file_generated",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.978
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_replay_json_structure",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.998
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_small_seed_value",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.985
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_seed_zero",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.974
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_initialization_messages",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.978
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_override_mode_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.98
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_combined_flags_quiet_noreplay",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 5.0
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_combined_flags_quiet_timeout_ignore",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 5.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_asymmetric_map_wide",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.99
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_asymmetric_map_tall",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.992
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_custom_dimensions_square",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.994
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_bot_with_different_names",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.996
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_max_players_six_bots",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.998
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_bot_name_display",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.978
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_nplayers_single_player_mode",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.985
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_quiet_mode_output_format",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.996
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_multiple_flags_combined",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.995
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_custom_seed_reproducible",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.972
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_dimensions_with_nplayer_1",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 5.001
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_multiple_bots_game",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.996
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_replay_contains_seed_info",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.996
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_quiet_mode_timeout_output",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.986
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_custom_dimensions",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.994
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_rectangular_map",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.971
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_filename_contains_seed",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.993
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_timeout_ignore_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.978
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_quiet_output_structure_complete",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.995
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_override_mode_basic",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.994
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_directory_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.987
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_timeout_ignore_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 5.0
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_quiet_mode_output_replay_filename",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.995
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_with_multiple_bots",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.988
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_five_players",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.993
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_three_players",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.999
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_nplayers_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.994
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_small_map_dimensions",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.994
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_file_content_valid_json",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.985
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_normal_mode_verbose_output",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.997
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_two_bot_game_same_seed",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.988
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_turn_progression_display",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.964
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_bot_command_echoed",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.985
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_player_stats_in_normal_mode",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.979
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_nplayers_single_count",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.98
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_seed_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.981
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_rectangular_map_tall",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.978
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_bot_name_received",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.99
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_seed_value_max_int",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.993
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_final_statistics_displayed",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.981
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_file_size_nonzero",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.978
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_seed_value_one",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.993
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_four_players",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.999
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_different_seeds_different_games",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.987
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_crash_bot_handled",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.991
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_game_completion_normal",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.974
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_bot_command_with_spaces",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.983
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_quiet_mode_machine_parsable",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 4.995
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_very_small_map",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_default_dimensions_when_not_specified",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_normal_mode_output_format",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.008
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_dimensions_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_bot_names_in_results",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_normal_mode_shows_seed",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_large_seed_value",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_directory_custom",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_multiple_sequential_games",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_single_bot_game",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_dimensions_with_spaces",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_multiple_bots_one_invalid_graceful",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_two_bot_game",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_file_generated",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_replay_json_structure",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_small_seed_value",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_seed_zero",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_initialization_messages",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_combined_flags_quiet_noreplay",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_asymmetric_map_wide",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.007
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_combined_flags_quiet_timeout_ignore",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_custom_dimensions_square",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_asymmetric_map_tall",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.006
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_bot_with_different_names",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_quiet_output_structure_complete",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.005
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_bot_name_display",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_nplayers_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.005
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_timeout_ignore_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.006
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_normal_mode_verbose_output",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_replay_contains_seed_info",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.007
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_custom_dimensions",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.007
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_quiet_mode_timeout_output",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.008
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_dimensions_with_nplayer_1",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.009
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_directory_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_nplayers_single_player_mode",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_quiet_mode_output_format",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.011
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_multiple_flags_combined",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_rectangular_map",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_timeout_ignore_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_filename_contains_seed",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_bot_command_echoed",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_game_completion_normal",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.008
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_small_map_dimensions",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_bot_name_received",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.011
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_file_size_nonzero",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.009
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_bot_command_with_spaces",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_rectangular_map_tall",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.011
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_seed_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.011
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_nplayers_single_count",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_quiet_mode_output_replay_filename",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_quiet_mode_machine_parsable",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.009
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_player_stats_in_normal_mode",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_turn_progression_display",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_final_statistics_displayed",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_seed_value_max_int",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.011
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_file_content_valid_json",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_seed_value_one",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_three_bot_ranking",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_multiple_games_different_seeds",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 20.025
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_custom_seed_reproducible",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 20.021
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_different_seeds_different_games",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 20.021
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_very_small_map",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_default_dimensions_when_not_specified",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_normal_mode_output_format",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_dimensions_long_flag",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_directory_custom",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_bot_names_in_results",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_normal_mode_shows_seed",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_large_seed_value",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_dimensions_with_spaces",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_two_bot_game",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_single_bot_game",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_multiple_sequential_games",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_multiple_bots_one_invalid_graceful",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_file_generated",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_replay_json_structure",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.011
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_seed_zero",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_small_seed_value",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_initialization_messages",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_combined_flags_quiet_noreplay",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_custom_dimensions_square",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_combined_flags_quiet_timeout_ignore",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_asymmetric_map_wide",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_asymmetric_map_tall",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.005
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_bot_name_display",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_nplayers_long_flag",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_quiet_mode_timeout_output",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_custom_dimensions",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_bot_with_different_names",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.005
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_quiet_output_structure_complete",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_bot_command_echoed",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.005
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_dimensions_with_nplayer_1",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_normal_mode_verbose_output",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_small_map_dimensions",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.005
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_timeout_ignore_long_flag",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.015
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_quiet_mode_output_format",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_timeout_ignore_flag",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.007
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_bot_name_received",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.005
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_game_completion_normal",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.006
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_directory_long_flag",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_replay_contains_seed_info",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_filename_contains_seed",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.005
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_rectangular_map",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.008
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_seed_long_flag",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_nplayers_single_player_mode",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_multiple_flags_combined",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.011
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_quiet_mode_machine_parsable",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_player_stats_in_normal_mode",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_bot_command_with_spaces",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_final_statistics_displayed",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_nplayers_single_count",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_quiet_mode_output_replay_filename",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_rectangular_map_tall",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_seed_value_max_int",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_turn_progression_display",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_file_size_nonzero",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_file_content_valid_json",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.011
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_seed_value_one",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_two_bots_ranking",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 30.035
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_override_mode_long_flag",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_three_players",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 30.023
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_multiple_bots_game",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 30.037
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_override_mode_basic",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 30.034
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_with_multiple_bots",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_crash_bot_handled",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 30.03
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_four_players",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 30.03
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_two_bot_game_same_seed",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 30.036
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_three_bot_ranking",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_max_players_six_bots",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 40.044
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_five_players",
+      "branch": "b377895d0633",
+      "status": "passed",
+      "extra": {
+        "time": 40.043
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_multiple_games_different_seeds",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 20.026
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_custom_seed_reproducible",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 20.026
+      }
+    },
+    {
+      "name": "eval.tests.test_map_config.test_different_seeds_different_games",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 20.023
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_two_bots_ranking",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 30.034
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_override_mode_long_flag",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_three_players",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_four_players",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 30.023
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_override_mode_basic",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "eval.tests.test_replay_output.test_replay_with_multiple_bots",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_multiple_bots_game",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 30.034
+      }
+    },
+    {
+      "name": "eval.tests.test_timeouts_errors.test_crash_bot_handled",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 30.034
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_two_bot_game_same_seed",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 30.035
+      }
+    },
+    {
+      "name": "eval.tests.test_bot_launch.test_max_players_six_bots",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 40.043
+      }
+    },
+    {
+      "name": "eval.tests.test_override_edge_cases.test_five_players",
+      "branch": "b377895d0633",
+      "status": "failure",
+      "extra": {
+        "time": 40.044
+      }
+    },
+    {
+      "name": "tests.test_halite.TestBasicInvocation.test_no_arguments_fails_with_message",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "tests.test_halite.TestBasicInvocation.test_help_flag_displays_usage",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 0.032
+      }
+    },
+    {
+      "name": "tests.test_halite.TestBasicInvocation.test_h_flag_displays_usage",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 0.032
+      }
+    },
+    {
+      "name": "tests.test_halite.TestBasicInvocation.test_version_flag_displays_version",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 0.032
+      }
+    },
+    {
+      "name": "tests.test_halite.TestBotManagement.test_single_bot_execution",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestBotManagement.test_single_bot_execution",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestBotManagement.test_single_bot_execution",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestBotManagement.test_two_bot_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestBotManagement.test_two_bot_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestBotManagement.test_two_bot_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestBotManagement.test_invalid_bot_command_creates_error_log",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 0.147
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapConfiguration.test_custom_dimensions",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapConfiguration.test_custom_dimensions",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapConfiguration.test_custom_dimensions",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapConfiguration.test_single_player_mode_with_nplayers",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapConfiguration.test_single_player_mode_with_nplayers",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapConfiguration.test_single_player_mode_with_nplayers",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapConfiguration.test_invalid_player_count_fails",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 0.033
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapConfiguration.test_conflicting_multiplayer_and_nplayers",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 0.032
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameModes.test_quiet_mode_output_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameModes.test_quiet_mode_output_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameModes.test_quiet_mode_output_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameModes.test_normal_mode_output_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.006
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameModes.test_normal_mode_output_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameModes.test_normal_mode_output_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_default_replay_generation",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_default_replay_generation",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_default_replay_generation",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_custom_replay_directory",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_custom_replay_directory",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_custom_replay_directory",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormats.test_player_statistics_in_normal_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormats.test_player_statistics_in_normal_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormats.test_player_statistics_in_normal_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestErrorHandling.test_missing_bot_command_error",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 0.033
+      }
+    },
+    {
+      "name": "tests.test_halite.TestErrorHandling.test_invalid_dimension_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 0.031
+      }
+    },
+    {
+      "name": "tests.test_halite.TestErrorHandling.test_override_mode_with_odd_arguments",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 0.031
+      }
+    },
+    {
+      "name": "tests.test_halite.TestErrorHandling.test_override_mode_with_insufficient_arguments",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 0.031
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_minimum_map_size",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_minimum_map_size",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_minimum_map_size",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_medium_map_size",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_medium_map_size",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_medium_map_size",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_six_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_six_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_six_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_rectangular_map",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_rectangular_map",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_rectangular_map",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_different_seed_variability",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_different_seed_variability",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestEdgeCases.test_different_seed_variability",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestFlagCombinations.test_all_flags_together",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestFlagCombinations.test_all_flags_together",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestFlagCombinations.test_all_flags_together",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayContent.test_replay_file_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayContent.test_replay_file_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayContent.test_replay_file_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayContent.test_replay_filename_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayContent.test_replay_filename_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayContent.test_replay_filename_format",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_timeout_mode_flag",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_timeout_mode_flag",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_timeout_mode_flag",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_three_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_three_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_three_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_four_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_four_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_four_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_five_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_five_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_five_player_game",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n3_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n3_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n3_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n4_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n4_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n4_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n5_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n5_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n5_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n6_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n6_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_single_player_n6_mode",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_zero_dimension_uses_default",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 15.002
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_zero_dimension_uses_default",
+      "branch": "2f1ec8e1ac43",
+      "status": "passed",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_zero_dimension_uses_default",
+      "branch": "2f1ec8e1ac43",
+      "status": "failure",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_override_flag_odd_args_error",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.041
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_multiple_bots_with_n_players_error",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_override_flag_no_args_error",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_invalid_n_players_seven",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_invalid_n_players_eight",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.053
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_invalid_n_players_negative",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.054
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_version_flag",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.056
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_missing_dimension_value_error",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.052
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_no_bot_command_error",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.057
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_nplayers_conflicts_with_multiple_bots",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_nplayers_zero",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.058
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_no_bot_commands_error",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.058
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_nplayers_out_of_range_high",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.058
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_invalid_n_players_zero",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_override_flag_success",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.187
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_override_flag_three_bots",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.21
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_explicit_dimensions_override_random",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.301
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_dimensions_with_seed_combination",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.996
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_invalid_replay_directory_error",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 3.039
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_random_seed_generation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 4.639
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_python_bot_launch",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_quiet_mode_machine_parseable_output",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_max_turns_reached",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_single_bot_initialization",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.009
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_invalid_move_format_ejection",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_empty_bot_name",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_bot_name_truncation_at_30_chars",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_bot_name_with_special_characters",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_multiple_games_cleanup",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.009
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_replay_file_generation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_valid_moves_parsing",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_cli_errors.test_random_map_dimensions_valid_choices",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 9.66
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_bot_turn_timeout_handling",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_ignore_timeout_flag",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_frame_structure",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_single_player_mode_with_n_players_map",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_two_bot_game_completion",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_normal_output_human_readable_format",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_json_structure_validation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_custom_replay_directory_with_i_flag",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_quiet_output_machine_parsable_format",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.009
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_small_map_completes_successfully",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_moves_match_frame_count",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_file_creation_single_player",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_frame_progression_territory_changes",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_player_names_preserved",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_filename_format_with_timestamp_and_seed",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_normal_mode_displays_turn_progress",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_productions_static_across_frames",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.011
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_quiet_and_noreplay_combined",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_version_field_correct",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_directory_without_replays_subdir_fallback",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.017
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_multiple_games_produce_unique_replay_files",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.031
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_three_bot_mixed_quality",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.008
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_no_replay_flag_suppresses_file_creation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_python_bot_launch",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_quiet_mode_machine_parseable_output",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_max_turns_reached",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_invalid_move_format_ejection",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_empty_bot_name",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_single_bot_initialization",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_bot_name_with_special_characters",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_multiple_games_cleanup",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_bot_name_truncation_at_30_chars",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_replay_file_generation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_valid_moves_parsing",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_four_bot_game",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_three_player_rankings_in_quiet_mode",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_initial_frame_player_starting_positions",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_quiet_mode_two_player_rankings_order",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.016
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_with_different_map_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.019
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_two_bots_multiplayer",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_two_player_replay_structure",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.016
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_python_bot_launch",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_max_turns_reached",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_invalid_move_format_ejection",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_empty_bot_name",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_quiet_mode_machine_parseable_output",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_bot_name_with_special_characters",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_multiple_games_cleanup",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_single_bot_initialization",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_bot_name_truncation_at_30_chars",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_replay_file_generation",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_valid_moves_parsing",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_six_bot_game_maximum_players",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 20.023
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_four_player_game_replay_completeness",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 20.023
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_ignore_timeout_flag",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_single_player_mode_with_n_players_map",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_frame_structure",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_bot_turn_timeout_handling",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_normal_output_human_readable_format",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_json_structure_validation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_custom_replay_directory_with_i_flag",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_quiet_output_machine_parsable_format",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_small_map_completes_successfully",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_moves_match_frame_count",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_normal_mode_displays_turn_progress",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_frame_progression_territory_changes",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_filename_format_with_timestamp_and_seed",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_two_bot_game_completion",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_productions_static_across_frames",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_quiet_and_noreplay_combined",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_version_field_correct",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.011
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_directory_without_replays_subdir_fallback",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_player_names_preserved",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_three_bot_mixed_quality",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_multiple_games_produce_unique_replay_files",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_file_creation_single_player",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_no_replay_flag_suppresses_file_creation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.008
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_six_player_maximum_replay_structure",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 25.028
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_normal_mode_shows_seed_and_filename",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_replay_file_generation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.99
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_tiny_map_minimum_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.974
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_random_dimensions_generation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.993
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_same_seed_deterministic_outcome",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.973
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_seed_zero_uses_random_seed",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.977
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_three_player_game_complete_rankings",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.974
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_map_size_adjustment_for_symmetry",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.97
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_large_map_50x50",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.993
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_single_player_mode",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.979
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_non_square_map_asymmetric_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.985
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_tie_evaluation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.962
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_tiny_map_3x3",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.988
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_five_player_odd_count",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.989
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_two_player_tie_breaking_by_integral",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.0
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_six_bots_multiplayer",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.994
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_nonsquare_map_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.995
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_square_map_with_explicit_seed",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.982
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_six_players_maximum",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.984
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_six_player_max_players",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.989
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_replay_directory_custom_path",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.98
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_game_with_stderr_output_not_quiet",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.001
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_quiet_mode_output_format",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.999
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_different_seeds_different_outcomes",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.995
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_map_no_dimensions_uses_random",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.973
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_multiple_flags_combination",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.979
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_noreplay_flag_no_file_output",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.979
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_two_player_basic_winner_determination",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.979
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_general_environment",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.987
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_timeout_during_game_transfers_territory",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.982
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_normal_output_format",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.97
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_four_player_game_symmetric_map",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.977
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_four_bot_game",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_initial_frame_player_starting_positions",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.007
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_with_different_map_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.007
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_two_bots_multiplayer",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.016
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_two_player_replay_structure",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.009
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_three_player_rankings_in_quiet_mode",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_quiet_mode_two_player_rankings_order",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.016
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_ignore_timeout_flag",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_single_player_mode_with_n_players_map",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_frame_structure",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_bot_turn_timeout_handling",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.014
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_normal_output_human_readable_format",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.009
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_json_structure_validation",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_custom_replay_directory_with_i_flag",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.009
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_small_map_completes_successfully",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_quiet_output_machine_parsable_format",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_moves_match_frame_count",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_normal_mode_displays_turn_progress",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_productions_static_across_frames",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.007
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_frame_progression_territory_changes",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_two_bot_game_completion",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_filename_format_with_timestamp_and_seed",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_three_bot_mixed_quality",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.005
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_quiet_and_noreplay_combined",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_player_names_preserved",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_version_field_correct",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_directory_without_replays_subdir_fallback",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.011
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_multiple_games_produce_unique_replay_files",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_file_creation_single_player",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.004
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_no_replay_flag_suppresses_file_creation",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.01
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_normal_mode_shows_seed_and_filename",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 10.013
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_six_bot_game_maximum_players",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 20.022
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_four_player_game_replay_completeness",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 20.023
+      }
+    },
+    {
+      "name": "tests.test_timeout_errors.test_fail_turn10_single_bot",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.001
+      }
+    },
+    {
+      "name": "tests.test_timeout_errors.test_ranking_with_multiple_failures_same_turn",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 29.999
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_initial_frame_player_starting_positions",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 15.017
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_two_bots_multiplayer",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 15.017
+      }
+    },
+    {
+      "name": "tests.test_timeout_errors.test_timeout_turn10_single_bot",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.002
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_two_player_replay_structure",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 15.011
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_four_bot_game",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_three_player_rankings_in_quiet_mode",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_quiet_mode_two_player_rankings_order",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_with_different_map_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 15.019
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_strength_values_within_valid_range",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.01
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_normal_mode_shows_seed_and_filename",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 10.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_six_player_maximum_replay_structure",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 25.028
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_replay_file_generation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_six_players_maximum",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.024
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_random_dimensions_generation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.032
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_six_bots_multiplayer",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_tiny_map_3x3",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_square_map_with_explicit_seed",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_nonsquare_map_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_quiet_mode_output_format",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.032
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_multiple_flags_combination",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.028
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_normal_output_format",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 30.025
+      }
+    },
+    {
+      "name": "tests.test_bot_communication.test_six_bot_game_maximum_players",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 20.007
+      }
+    },
+    {
+      "name": "tests.test_seed.test_help_flag",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 0.033
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_four_player_game_replay_completeness",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 20.02
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_owner_values_within_valid_range",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.012
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_strength_values_within_valid_range",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.017
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_six_player_maximum_replay_structure",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 25.028
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_owner_values_within_valid_range",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_strength_values_within_valid_range",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_timeout_errors.test_fail_turn10_single_bot",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 35.038
+      }
+    },
+    {
+      "name": "tests.test_timeout_errors.test_ranking_with_multiple_failures_same_turn",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 35.038
+      }
+    },
+    {
+      "name": "tests.test_timeout_errors.test_timeout_turn10_single_bot",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 35.037
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_tie_evaluation",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.019
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_two_player_basic_winner_determination",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.029
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_tiny_map_minimum_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_single_player_mode",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.062
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_seed_zero_uses_random_seed",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_three_player_game_complete_rankings",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_map_size_adjustment_for_symmetry",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_non_square_map_asymmetric_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.062
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_five_player_odd_count",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_six_player_max_players",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_two_player_tie_breaking_by_integral",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_replay_directory_custom_path",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.064
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_different_seeds_different_outcomes",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.048
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_game_with_stderr_output_not_quiet",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.062
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_same_seed_deterministic_outcome",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.064
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_timeout_during_game_transfers_territory",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.056
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_noreplay_flag_no_file_output",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.061
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_map_no_dimensions_uses_random",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.06
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_four_player_game_symmetric_map",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_general_environment",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 60.058
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_random_dimensions_generation",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 30.027
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_replay_file_generation",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_six_bots_multiplayer",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_tiny_map_3x3",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_square_map_with_explicit_seed",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_quiet_mode_output_format",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 30.031
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_multiple_flags_combination",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_six_players_maximum",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_normal_output_format",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 30.028
+      }
+    },
+    {
+      "name": "tests.test_init_config.test_nonsquare_map_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 30.033
+      }
+    },
+    {
+      "name": "tests.test_replay_output.test_replay_owner_values_within_valid_range",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 15.018
+      }
+    },
+    {
+      "name": "tests.test_timeout_errors.test_fail_turn10_single_bot",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 35.038
+      }
+    },
+    {
+      "name": "tests.test_timeout_errors.test_ranking_with_multiple_failures_same_turn",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 35.038
+      }
+    },
+    {
+      "name": "tests.test_timeout_errors.test_timeout_turn10_single_bot",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 35.038
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_large_map_50x50",
+      "branch": "1040f6b8a219",
+      "status": "passed",
+      "extra": {
+        "time": 120.103
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_tie_evaluation",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_map_size_adjustment_for_symmetry",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.029
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_tiny_map_minimum_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.054
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_two_player_tie_breaking_by_integral",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.056
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_seed_zero_uses_random_seed",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.064
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_non_square_map_asymmetric_dimensions",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.061
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_two_player_basic_winner_determination",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.064
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_noreplay_flag_no_file_output",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.015
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_five_player_odd_count",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_six_player_max_players",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_different_seeds_different_outcomes",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.062
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_game_with_stderr_output_not_quiet",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_replay_directory_custom_path",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.064
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_three_player_game_complete_rankings",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_single_player_mode",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_same_seed_deterministic_outcome",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.063
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_timeout_during_game_transfers_territory",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.055
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_four_player_game_symmetric_map",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.056
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_map_no_dimensions_uses_random",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.059
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_general_environment",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 60.056
+      }
+    },
+    {
+      "name": "tests.test_game_logic.test_large_map_50x50",
+      "branch": "1040f6b8a219",
+      "status": "failure",
+      "extra": {
+        "time": 120.004
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_missing_bot_args_exits_nonzero_and_prints_message",
+      "branch": "6f45b1ede216",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "eval.tests.test_help_version.test_version_prints_and_exits_zero",
+      "branch": "6f45b1ede216",
+      "status": "passed",
+      "extra": {
+        "time": 0.031
+      }
+    },
+    {
+      "name": "eval.tests.test_help_version.test_help_prints_usage_and_exits_zero",
+      "branch": "6f45b1ede216",
+      "status": "passed",
+      "extra": {
+        "time": 0.031
+      }
+    },
+    {
+      "name": "eval.tests.test_quiet_smoke.test_quiet_mode_starts_and_prints_command_line_quickly",
+      "branch": "6f45b1ede216",
+      "status": "passed",
+      "extra": {
+        "time": 0.029
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNoSubcommandArchitecture.test_help_flag_works",
+      "branch": "825ed294d730",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSingleCommandInterface.test_help_shows_all_options",
+      "branch": "825ed294d730",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNoSubcommandArchitecture.test_no_arguments_shows_error",
+      "branch": "825ed294d730",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNoSubcommandArchitecture.test_version_flag_works",
+      "branch": "825ed294d730",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSingleCommandInterface.test_short_and_long_flag_variants",
+      "branch": "825ed294d730",
+      "status": "passed",
+      "extra": {
+        "time": 0.112
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSingleCommandInterface.test_invalid_flag_produces_game_execution",
+      "branch": "825ed294d730",
+      "status": "passed",
+      "extra": {
+        "time": 0.886
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNoSubcommandArchitecture.test_help_string_only_one_is_present",
+      "branch": "825ed294d730",
+      "status": "passed",
+      "extra": {
+        "time": 1.217
+      }
+    },
+    {
+      "name": "tests.test_halite.TestCommandLineInterface.test_help_flag_short",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_halite.TestCommandLineInterface.test_help_flag",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_halite.TestCommandLineInterface.test_version_flag",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_halite.TestCommandLineInterface.test_no_arguments",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormat.test_rankings_format",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.99
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormat.test_quiet_output_structure",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.989
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_multiple_dimensions_formats",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.98
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_bot_commands_echoed",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.979
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_four_players",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.994
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_replaydirectory_flag_long",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.983
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_replay_generated_by_default",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.987
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapGeneration.test_dimensions_flag",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.992
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_dimensions_flag_long",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.997
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_replay_directory_flag",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.986
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_five_players",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.988
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_two_players",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.987
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_output_ends_with_two_empty_lines",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.992
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_replay_filename_format",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.988
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapGeneration.test_different_seeds",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.988
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_seed_flag_long",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.98
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_three_players",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.993
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_quiet_mode_output_format",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.988
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_six_players",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.983
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_rectangular_map_tall",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.99
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormat.test_output_includes_bot_commands",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.994
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapGeneration.test_dimensions_flag_rectangle",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.992
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_quiet_flag_long",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 4.989
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormat.test_rankings_format",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormat.test_quiet_output_structure",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_bot_commands_echoed",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_multiple_dimensions_formats",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_replaydirectory_flag_long",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_four_players",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_replay_generated_by_default",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapGeneration.test_dimensions_flag",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_replay_directory_flag",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_dimensions_flag_long",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_five_players",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.005
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_output_ends_with_two_empty_lines",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_two_players",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_three_players",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.005
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_seed_flag_long",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_quiet_mode_output_format",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.004
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapGeneration.test_different_seeds",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_replay_filename_format",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_rectangular_map_tall",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormat.test_output_includes_bot_commands",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapGeneration.test_dimensions_flag_rectangle",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.005
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_six_players",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_quiet_flag_long",
+      "branch": "5980e8550b63",
+      "status": "passed",
+      "extra": {
+        "time": 5.005
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_bot_commands_echoed",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_multiple_dimensions_formats",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_replaydirectory_flag_long",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapGeneration.test_dimensions_flag",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_five_players",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.004
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_four_players",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_replay_directory_flag",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_output_ends_with_two_empty_lines",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_replay_generated_by_default",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.006
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_two_players",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_dimensions_flag_long",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormat.test_quiet_output_structure",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.005
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_three_players",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapGeneration.test_different_seeds",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormat.test_rankings_format",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.009
+      }
+    },
+    {
+      "name": "tests.test_halite.TestMapGeneration.test_dimensions_flag_rectangle",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.005
+      }
+    },
+    {
+      "name": "tests.test_halite.TestOutputFormat.test_output_includes_bot_commands",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_quiet_flag_long",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.004
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_six_players",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.005
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_rectangular_map_tall",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.007
+      }
+    },
+    {
+      "name": "tests.test_halite.TestAdditionalFeatures.test_seed_flag_long",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "tests.test_halite.TestGameExecution.test_quiet_mode_output_format",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.004
+      }
+    },
+    {
+      "name": "tests.test_halite.TestReplayGeneration.test_replay_filename_format",
+      "branch": "5980e8550b63",
+      "status": "failure",
+      "extra": {
+        "time": 5.008
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_version_format_and_number",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_invalid_nplayers_range_error_message_and_exit_code",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_invalid_dimensions_parse_error_prefix_and_exit_code",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_help_contains_expected_options_and_banner",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_multibot_game_prefix_lines_timeout_failure_bots",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 2.005
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_replay_created_in_specified_directory",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 4.809
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_tie_evaluation_known_seed_998_exact_tail",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 4.807
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_quiet_two_bot_known_seed_1001_exact_tail",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 4.807
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_noreplay_suppresses_replay_line",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 4.808
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_quiet_single_bot_output_shape_and_score",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 4.808
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_noreplay_suppresses_replay_line",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 4.807
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_tie_evaluation_known_seed_998_exact_tail",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 4.807
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_quiet_single_bot_output_shape_and_score",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 4.807
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_replay_created_in_specified_directory",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 4.807
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_quiet_two_bot_known_seed_1001_exact_tail",
+      "branch": "3b7277406c3f",
+      "status": "passed",
+      "extra": {
+        "time": 4.807
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_noreplay_suppresses_replay_line",
+      "branch": "3b7277406c3f",
+      "status": "failure",
+      "extra": {
+        "time": 4.808
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_tie_evaluation_known_seed_998_exact_tail",
+      "branch": "3b7277406c3f",
+      "status": "failure",
+      "extra": {
+        "time": 4.807
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_quiet_two_bot_known_seed_1001_exact_tail",
+      "branch": "3b7277406c3f",
+      "status": "failure",
+      "extra": {
+        "time": 4.807
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_quiet_single_bot_output_shape_and_score",
+      "branch": "3b7277406c3f",
+      "status": "failure",
+      "extra": {
+        "time": 4.807
+      }
+    },
+    {
+      "name": "eval.tests.test_executable_behavior.test_replay_created_in_specified_directory",
+      "branch": "3b7277406c3f",
+      "status": "failure",
+      "extra": {
+        "time": 4.807
+      }
+    }
+  ],
+  "error_code": null,
+  "error_details": null,
+  "log": [],
+  "solution_branch": "pbconv-internal_realmax-20260914_080633-halitechallenge__halite",
+  "test_branches": [
+    "b377895d0633",
+    "2f1ec8e1ac43",
+    "1040f6b8a219",
+    "test-johnby-create_args_tests__gpt-5-2-genai-20260306_182139",
+    "test-johnby-create_config_tests__gpt-5-2-genai-20260306_175645",
+    "test-johnby-create_help_tests__gpt-5-2-genai-20260306_171952",
+    "6f45b1ede216",
+    "825ed294d730",
+    "5980e8550b63",
+    "3b7277406c3f",
+    "test-johnby-create_tui_tests__gpt-5-2-genai-20260310_150322",
+    "test-johnby-externalize_inner_tests__gpt-5-2-genai-20260310_104310"
+  ],
+  "test_branch_errors": {},
+  "executable_hash": "e57b05bf946d109a232b53caa0ebe9e2e905183b0923dd2141e63454bb562267",
+  "warnings": []
+}

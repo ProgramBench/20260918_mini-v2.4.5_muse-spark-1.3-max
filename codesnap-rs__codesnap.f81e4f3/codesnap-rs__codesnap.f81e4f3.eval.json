@@ -1,0 +1,6491 @@
+{
+  "test_results": [
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_flag",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_version_flag",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_short_flag",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_version_short_flag",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_negative_scale_factor",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_output_to_readonly_location",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_invalid_color_format",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.019
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_very_small_code",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_code_range.test_range_invalid_format",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_binary_file_as_input",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_empty_code_input",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_from_clipboard",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_zero_margins",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_theme_variations",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_no_arguments_shows_error",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_execute_with_skip",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_from_file_missing_file",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_configuration.test_custom_config_file",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_from_code_no_value_uses_stdin",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_language_with_file_path",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_svg_with_various_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_code_with_long_lines",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_file_path_for_language_detection",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_relative_highlight_with_range",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_configuration.test_config_file_auto_created",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_combined_annotations",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_add_delete_lines_with_colors",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_code_range.test_range_specific_lines",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_code_range.test_range_single_line",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_highlight_lines_single_line_json",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "eval.tests.test_code_range.test_range_from_line_to_end",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_large_margins",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_large_line_numbers",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_breadcrumbs_separator",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_scale_factor_one",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.021
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_single_character_code",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_line_number_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_all_margin_and_shadow_combinations",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.023
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_file_extensions_detection",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_malformed_json_highlight_lines",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_add_and_delete_lines_combined",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_breadcrumbs_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_all_code_options_combined",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_language_auto_detect_from_file",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_language_explicit",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_code_range.test_range_from_start_to_line",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_execute_with_multiple_args",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_special_characters_in_code",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_all_window_options_combined",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_conflicting_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_configuration.test_config_with_all_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_svg_output_with_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_line_numbers_with_large_start",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_very_long_code",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_unicode_in_code",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_range_with_line_numbers",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_raw_highlight_lines_json",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_line_numbers_enabled",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_execute_command",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_breadcrumbs_font_family",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_code_with_wide_characters",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_multiline_code_with_special_chars",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.022
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_html_output_with_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_watermark_with_all_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_multiple_languages",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_file_with_different_extensions",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_from_file_basic",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_from_code_empty_default_value",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_highlight_range_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_delete_line_single",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_add_line_single",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_start_line_number",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_code_theme",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_file_with_no_extension",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_add_line_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_from_code_stdin",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_breadcrumbs_enabled",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_highlight_and_annotations_combined",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.11
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_from_code_explicit",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_background_with_styling",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.034
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_html_with_various_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_breadcrumbs_with_deep_path",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_add_line_multiple",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_highlight_range",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.105
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_silent_mode_with_various_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.105
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_code_with_tabs",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_delete_line_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_relative_highlight_range",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_code_font_family",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_window_border_enabled",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_delete_line_multiple",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.119
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_title_font_family",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_border_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_window_title",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_relative_and_absolute_ranges",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_complex_json_highlight",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.159
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_mac_window_bar_enabled",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_title_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_multiple_input_sources_uses_priority",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_margin_x_and_y",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.057
+      }
+    },
+    {
+      "name": "eval.tests.test_styling_options.test_background_hex_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_output_destinations.test_image_output_type_default",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_margin_y",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "eval.tests.test_styling_options.test_scale_factor_high",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.129
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_window_configurations",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.253
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_scale_factors",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.36
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_empty_and_whitespace_code",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.383
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_many_short_lines",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.75
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_execute_with_skip",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "eval.tests.test_configuration.test_config_file_auto_created",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_code_range.test_range_single_line",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_language_with_file_path",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_from_code_no_value_uses_stdin",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_configuration.test_config_with_all_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_file_path_for_language_detection",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_breadcrumbs_separator",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_highlight_lines_single_line_json",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_svg_with_various_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_language_auto_detect_from_file",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_all_window_options_combined",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_single_character_code",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_large_line_numbers",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_special_characters_in_code",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "eval.tests.test_output_destinations.test_output_unsupported_format",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_code_range.test_range_specific_lines",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_add_delete_lines_with_colors",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_line_number_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_breadcrumbs_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_svg_output_with_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_relative_highlight_with_range",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_add_and_delete_lines_combined",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "eval.tests.test_output_destinations.test_output_raw_to_stdout",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_all_code_options_combined",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_conflicting_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_styling_options.test_scale_factor_custom",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_execute_with_multiple_args",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_language_explicit",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_breadcrumbs_font_family",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_watermark_with_all_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_range_with_line_numbers",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_html_output_with_options",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "eval.tests.test_highlighting_and_annotations.test_raw_highlight_lines_json",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_input_sources.test_execute_command",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_unicode_in_code",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "eval.tests.test_code_range.test_range_from_line_to_end",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "eval.tests.test_code_appearance.test_line_numbers_enabled",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "eval.tests.test_code_range.test_range_from_start_to_line",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "eval.tests.test_output_destinations.test_output_to_directory_generates_filename",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_code_with_wide_characters",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_multiline_code_with_special_chars",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "eval.tests.test_output_destinations.test_output_to_clipboard",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_large_margins",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.127
+      }
+    },
+    {
+      "name": "eval.tests.test_output_destinations.test_output_to_svg",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_combined_annotations",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.128
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_margin_x",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_shadow_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_output_destinations.test_output_to_html",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_mac_window_bar_disabled",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.058
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_line_numbers_with_large_start",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.125
+      }
+    },
+    {
+      "name": "eval.tests.test_styling_options.test_watermark_text",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_output_destinations.test_output_to_png",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_styling_options.test_watermark_font_family",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_window_appearance.test_shadow_radius",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_styling_options.test_background_solid_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_styling_options.test_watermark_color",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_styling_options.test_silent_flag",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_all_margin_and_shadow_combinations",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.173
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_coverage.test_file_with_different_extensions",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.306
+      }
+    },
+    {
+      "name": "eval.tests.test_styling_options.test_scale_factor_default",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_very_long_code",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.436
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_code_with_long_lines",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.498
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_file_extensions_detection",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.605
+      }
+    },
+    {
+      "name": "eval.tests.test_comprehensive_coverage.test_multiple_languages",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.612
+      }
+    },
+    {
+      "name": "eval.tests.test_output_destinations.test_output_raw_to_stdout",
+      "branch": "ab87cc3978a9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_output_destinations.test_output_raw_to_stdout",
+      "branch": "ab87cc3978a9",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_flag_with_nonexistent_file",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_invalid_theme_name",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_add_line_invalid_format",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_json_with_trailing_comma",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_config_file_not_found",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_from_file_with_directory",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_delete_line_invalid_format",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_no_input_source",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_with_empty_json_object",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_silent_mode_still_shows_errors",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "tests.test_input_sources.test_from_file_directory_error_message",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_malformed_config_file",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_ascii_type_to_file_warning",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_input_sources.test_no_input_source_error_message",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_unsupported_output_format",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_nonexistent_file",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_basic_smoke.test_help_output",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_missing_output_arg",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_raw_highlight_lines_invalid_json",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_relative_highlight_beyond_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_invalid_range_nonnumeric",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_binary_data_in_file",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_basic_smoke.test_version_output",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_from_image.test_from_image_invalid_png_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_from_image.test_from_image_empty_input_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_partial_fails_appropriately",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_custom_config_file_with_config_flag",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_highlight_range_invalid_format",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_flag_with_relative_path",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.04
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_absolute_path_with_spaces",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.033
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_solid_background_color_string",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.051
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_flag_with_invalid_json",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_invalid_range_format_multiple_colons",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_gradient_with_multiple_stops_and_max_dimensions",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_dimension_value_zero",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_from_image.test_from_image_corrupt_png_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_dimension_value_max_string",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.057
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_scale_factor_validation_not_enforced_during_deserialization",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.056
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_gradient_with_exact_boundary_positions",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_before_code_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_input_sources.test_from_file_nonexistent_error_message",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_invalid_json_in_raw_highlight_lines",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_default_scale_factor_when_not_specified",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.054
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_config_without_watermark_uses_default",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_beyond_file_length",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_multiple_input_sources_precedence",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_gradient_with_multiple_intermediate_stops",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.053
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_dimension_value_invalid_string_not_max",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_directory_created_if_missing",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_file_location_standard_path",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_line_modifications.test_delete_line_empty_string",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_range_with_zero",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_unsupported_extension_returns_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_dimension_value_invalid_non_string_non_number",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.055
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_range_inverted",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_with_unknown_fields_ignored",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_first_run_creates_default_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_line_modifications.test_delete_line_beyond_file_length",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_cli_flag_overrides_config_breadcrumbs",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_silent_mode_with_first_run_shows_info",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_execute_with_skip_flag",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_line_modifications.test_invalid_add_color_format_short_hex",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_start_line_number_without_line_numbers",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_empty_input_code",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_config_with_watermark_present",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.11
+      }
+    },
+    {
+      "name": "tests.test_range_selection.test_range_full_file_with_colon",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_range_selection.test_range_invalid_non_numeric",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_range_selection.test_range_no_input_source_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_null_bytes_in_input",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "tests.test_edges_utilities.test_margin_zero_values",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_missing_output_flag_returns_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_whitespace_only_line",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_output_to_existing_file",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_number_color_invalid",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_relative_highlight_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_config_with_explicit_scale_factor",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_dimension_value_large_number",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "tests.test_range_selection.test_range_invalid_empty",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_range_and_start_line_number",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_line_modifications.test_delete_line_zero",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_range_selection.test_range_invalid_multiple_colons",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_unicode_in_code",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_multiple_runs_different_homes_isolated",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.139
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_from_code_flag_with_inline_snippet",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_produces_valid_svg",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.141
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_with_numeric_string_values",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_line_numbers",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.12
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_single_line_file_highlight",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_png_output_creates_valid_png_file",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_preserves_order",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.12
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_empty_file_no_highlight",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "tests.test_edges_utilities.test_margin_custom_values",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.131
+      }
+    },
+    {
+      "name": "tests.test_range_selection.test_range_invalid_whitespace",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_complex_multi_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.137
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_line_numbers_with_custom_color",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_html_format_base64_embedding",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_simple",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.159
+      }
+    },
+    {
+      "name": "tests.test_edges_utilities.test_margin_y_only",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.158
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_silent_mode_with_execute_command",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.187
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_absolute_highlight_range_with_code_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.132
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_all_window_chrome_features_combined",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_html_output_creates_valid_html_with_embedded_image",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_ascii_type_with_file_output_warns_and_skips",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_lines_multiple_colors",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.148
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_single_line_json_format",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.12
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_overlapping_highlight_ranges_in_json",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.136
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_from_start",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.142
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_add_delete_line_markers",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_start_line_number",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.162
+      }
+    },
+    {
+      "name": "tests.test_themes.test_theme_name_with_special_characters",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_silent_mode_suppresses_success_messages",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.206
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_watermark_with_custom_styling",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_second_run_uses_existing_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.168
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_overwrite_existing_file",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_range_with_start_line_number",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.105
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_add_delete_lines",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.179
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_single_line",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.136
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_to_end",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.172
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_overwrite_existing_file_completely",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_syntax_highlighting.test_invalid_theme_name_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_from_code",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_custom_color",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.173
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_separator_custom",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.135
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_svg_output_creates_valid_svg_file",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_empty_code_produces_valid_output",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_start_line_number_custom",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.127
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_number_color_default",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.124
+      }
+    },
+    {
+      "name": "tests.test_range_selection.test_range_identical_to_single_when_same",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.146
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_number_color_custom",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.119
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_highlight_ranges_multiple",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.149
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_unicode_in_code_content",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.138
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_multiple_code_inputs_generate_different_outputs",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.166
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_color_custom",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.119
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_numbers_basic",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.117
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_both_line_numbers_and_breadcrumbs",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.131
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_deterministic_output_same_input",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.146
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_absolute_path",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.152
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_start_line_number_without_has_line_number",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.153
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_special_characters",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.159
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_mixed_format_selection_svg_then_png",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.188
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_basic",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.127
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_custom_margins_affect_output_size",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.176
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_silent_flag_position_independence",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.301
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_separator_multichar",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.142
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_svg_output_same_base_image",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.161
+      }
+    },
+    {
+      "name": "tests.test_themes.test_theme_name_case_sensitive",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.191
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_long_path",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.192
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_numbers_with_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_range_selection.test_range_distinctness_different_ranges_different_output",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.144
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_transparency_in_background",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.212
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_features_disabled_by_default",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_code_with_special_characters_in_strings",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_themes.test_empty_theme_name_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.288
+      }
+    },
+    {
+      "name": "tests.test_themes.test_nonexistent_theme_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.377
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_extreme_scale_factors",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.496
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_very_long_single_line",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.516
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_code_range_extraction",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.513
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_dimension_value_invalid_string_not_max",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_dimension_value_invalid_non_string_non_number",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_edges_utilities.test_margin_zero_values",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.052
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_very_long_single_line",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 1.187
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_relative_highlight_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_range_and_start_line_number",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_whitespace_only_line",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_single_line_file_highlight",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_with_numeric_string_values",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_empty_file_no_highlight",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_png_comprehensive.test_png_format_verification_chunk_structure",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_edges_utilities.test_margin_custom_values",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_line_numbers",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.112
+      }
+    },
+    {
+      "name": "tests.test_edges_utilities.test_margin_y_only",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_absolute_highlight_range_with_code_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_preserves_order",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_complex_multi_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_range_with_start_line_number",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_simple",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_from_code",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_single_line_json_format",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_lines_multiple_colors",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_overlapping_highlight_ranges_in_json",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_start_line_number",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_from_start",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_add_delete_lines",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_single_line",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_to_end",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_separator_custom",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_custom_color",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_start_line_number_custom",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_number_color_default",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_number_color_custom",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.121
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_color_custom",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.118
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_numbers_basic",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.112
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_both_line_numbers_and_breadcrumbs",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.117
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_start_line_number_without_has_line_number",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.111
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_absolute_path",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.116
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_numbers_with_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_special_characters",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.116
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_basic",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_separator_multichar",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.125
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_long_path",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.135
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_features_disabled_by_default",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.112
+      }
+    },
+    {
+      "name": "tests.test_range_selection.test_range_distinctness_different_ranges_different_output",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.266
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_dimension_value_invalid_string_not_max",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_line_modifications.test_invalid_delete_color_format_invalid_string",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_config_gaps.test_dimension_value_invalid_non_string_non_number",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_line_modifications.test_invalid_delete_color_format_no_hash",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_edges_utilities.test_margin_zero_values",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_single_line_file_highlight",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_configuration.test_config_with_numeric_string_values",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_output_with_relative_path",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_relative_highlight_range",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_empty_file_no_highlight",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_range_and_start_line_number",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_whitespace_only_line",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_edges_utilities.test_margin_custom_values",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_absolute_highlight_range_with_code_range",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_edges_utilities.test_margin_y_only",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_code_with_unicode_characters",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_line_numbers",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_window_chrome.test_title_color_short_hex_format_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_from_code",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_range_with_start_line_number",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_complex_multi_range",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_preserves_order",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.128
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_stdin_input_with_from_code_empty_string",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_single_line_json_format",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_overlapping_highlight_ranges_in_json",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_start_line_number",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_raw_highlight_lines_multiple_colors",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_simple",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.13
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_from_start",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_window_chrome.test_border_color_invalid_format",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_with_add_delete_lines",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_single_line",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_separator_custom",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_custom_color",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_window_chrome.test_border_color_without_hash_prefix_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_start_line_number_custom",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_highlight_ranges.test_highlight_range_to_end",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_window_chrome.test_scale_factor_zero_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_number_color_default",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_number_color_custom",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.112
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_numbers_basic",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_line_numbers_with_range",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_start_line_number_without_has_line_number",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.112
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_color_custom",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.116
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_identical_input_produces_consistent_output",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.159
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_both_line_numbers_and_breadcrumbs",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.116
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_absolute_path",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.116
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_basic",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.117
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_special_characters",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_separator_multichar",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.116
+      }
+    },
+    {
+      "name": "tests.test_themes.test_theme_name_with_unicode",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_features_disabled_by_default",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.112
+      }
+    },
+    {
+      "name": "tests.test_line_numbers_breadcrumbs.test_breadcrumbs_long_path",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.135
+      }
+    },
+    {
+      "name": "tests.test_themes.test_very_long_theme_name",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.203
+      }
+    },
+    {
+      "name": "tests.test_themes.test_invalid_theme_folder_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.36
+      }
+    },
+    {
+      "name": "tests.test_themes.test_theme_name_with_leading_trailing_whitespace",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.381
+      }
+    },
+    {
+      "name": "tests.test_themes.test_invalid_theme_folder_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.174
+      }
+    },
+    {
+      "name": "tests.test_themes.test_invalid_theme_folder_error",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestUnknownFlags.test_misspelled_flags[--ouput]",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestFilePathArguments.test_config_nonexistent",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestUnknownFlags.test_unknown_flag_long",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestRequiredArguments.test_output_is_required",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestUnknownFlags.test_misspelled_flags[--from-filee]",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestIntegerFlags.test_scale_factor_invalid_string",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestEnumFlags.test_type_invalid",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestEnumFlags.test_has_breadcrumbs_invalid",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestUnknownFlags.test_misspelled_flags[--langauge]",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestFilePathArguments.test_from_file_nonexistent",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestUnknownFlags.test_unknown_flag_short",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestIntegerFlags.test_start_line_number_invalid",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestRequiredArguments.test_no_arguments_shows_error",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestOutputFlag.test_output_missing_value",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestRequiredArguments.test_code_source_required",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_argument_parsing.TestOutputFlag.test_output_unsupported_format",
+      "branch": "217acac4c63b",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_no_args_requires_output",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_duplicate_option_rejected_for_from_code",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_double_dash_makes_following_tokens_positional_and_rejected",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_scale_factor_type_and_range_validation[args0-invalid digit]",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_invalid_bool_value_rejected",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_combined_short_flags_cannot_duplicate_same_option",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_negative_number_without_equals_is_parsed_as_flag_and_rejected",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_scale_factor_type_and_range_validation[args1-not in 0..=255]",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_output_missing_value_errors[-o]",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_extra_positional_argument_is_rejected",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_flag_errors",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_invalid_enum_type_rejected",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.022
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_output_missing_value_errors[--output]",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.02
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_output_and_from_code_accept_multiple_value_forms[args2]",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_output_and_from_code_accept_multiple_value_forms[args1]",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_path_with_spaces_is_accepted_as_output",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_output_and_from_code_accept_multiple_value_forms[args0]",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_output_and_from_code_accept_multiple_value_forms[args2]",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_path_with_spaces_is_accepted_as_output",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_output_and_from_code_accept_multiple_value_forms[args1]",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_output_and_from_code_accept_multiple_value_forms[args0]",
+      "branch": "b3bc5b50b15d",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "eval.tests.test_config_handling.test_creates_default_config_at_home_config_codesnap",
+      "branch": "ab33db537207",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_config_handling.test_ignores_xdg_config_home_uses_home_dotconfig",
+      "branch": "ab33db537207",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "eval.tests.test_config_handling.test_config_flag_malformed_json_errors",
+      "branch": "ab33db537207",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_config_handling.test_config_flag_minimal_missing_required_fields_errors",
+      "branch": "ab33db537207",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "eval.tests.test_help_baseline.test_full_help_matches_fixture_exactly_modulo_dynamic_tokens",
+      "branch": "55cce0407622",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_contains_usage_line",
+      "branch": "55cce0407622",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_has_help_and_version_flags",
+      "branch": "55cce0407622",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_help_error_cases.test_unexpected_positional_produces_usage_on_stderr_and_exit_2",
+      "branch": "55cce0407622",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_starts_with_description_line",
+      "branch": "55cce0407622",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_documents_input_sources",
+      "branch": "55cce0407622",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_documents_output_option_and_required_placeholder",
+      "branch": "55cce0407622",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_dash_h_is_summary_and_differs_from_double_dash_help",
+      "branch": "55cce0407622",
+      "status": "passed",
+      "extra": {
+        "time": 0.026
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_contains_options_header",
+      "branch": "55cce0407622",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_io.test_version_stdout_exit_0",
+      "branch": "30e052a5da7c",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_io.test_nonexistent_input_file_exit_1_and_error_on_stdout",
+      "branch": "30e052a5da7c",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_io.test_missing_required_output_flag_exit_2_and_usage_on_stderr",
+      "branch": "30e052a5da7c",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_io.test_generate_png_from_file_silent_creates_png_magic",
+      "branch": "30e052a5da7c",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_io.test_output_directory_is_error_exit_1",
+      "branch": "30e052a5da7c",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_io.test_default_config_file_is_created_on_first_run",
+      "branch": "30e052a5da7c",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_io.test_generate_svg_from_code_silent_creates_file_and_no_output",
+      "branch": "30e052a5da7c",
+      "status": "passed",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_io.test_range_changes_output_size_for_svg",
+      "branch": "30e052a5da7c",
+      "status": "passed",
+      "extra": {
+        "time": 0.168
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_io.test_output_directory_is_error_exit_1",
+      "branch": "30e052a5da7c",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_io.test_generate_png_from_file_silent_creates_png_magic",
+      "branch": "30e052a5da7c",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_io.test_generate_svg_from_code_silent_creates_file_and_no_output",
+      "branch": "30e052a5da7c",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestNoSubcommands.test_no_arguments_shows_error_not_help",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestExitCodes.test_error_exit_code_for_unknown_flag",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[config]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[show]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestExitCodes.test_error_exit_code_for_missing_required",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[init]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[add]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestErrorHandling.test_multiple_unknown_args_error",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestHelpContent.test_help_shows_single_usage_line",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestGlobalFlags.test_help_flag_short_form",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[set]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestHelpContent.test_help_and_version_mutually_work",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[help]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestGlobalFlags.test_silent_flag_exists",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestExitCodes.test_error_exit_code_for_invalid_positional",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommandStructure.test_help_for_each_flag_not_subcommand",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[update]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[create]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestErrorHandling.test_partial_flag_match_handling",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestErrorHandling.test_invalid_flag_error",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestHelpContent.test_help_contains_main_options",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[version]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[list]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestNoSubcommands.test_unknown_argument_is_error_not_subcommand",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[get]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommandStructure.test_required_output_flag",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[remove]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestNoSubcommands.test_help_shows_no_subcommands",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_subcommand_like_with_dash_prefix",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestNoSubcommands.test_help_subcommand_doesnt_exist",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestCommonSubcommandWords.test_common_words_not_subcommands[delete]",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestFlagCombinations.test_multiple_valid_flags_without_required_output",
+      "branch": "bd56584c6044",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "tests.test_basic.TestErrorHandling.test_missing_output_option",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicCommands.test_help_command",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestComplexCombinations.test_execute_with_range",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicCommands.test_help_short_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_basic.TestErrorHandling.test_nonexistent_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.019
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicCommands.test_version_short_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_basic.TestErrorHandling.test_file_is_directory",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicCommands.test_version_command",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_add_line_range",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_mac_window_bar_disabled",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_from_file_long_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestCodeAppearance.test_start_line_number",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_add_line_single",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_empty_code_string",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestBreadcrumbs.test_breadcrumbs_separator",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestDifferentFileTypes.test_javascript_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_both_add_and_delete_lines",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputValidation.test_png_extension_produces_png",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestDifferentFileTypes.test_rust_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_margin_x",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestComplexCombinations.test_all_window_options",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestRangeSelection.test_range_last_lines",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestCodeAppearance.test_line_number_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicSnapshotGeneration.test_file_to_svg",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.02
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputTypes.test_type_ascii_to_file_warns",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestRangeSelection.test_range_end_only",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_border_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputValidation.test_svg_is_valid_xml",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.019
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_from_code_stdin",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestBreadcrumbs.test_breadcrumbs_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestCodeAppearance.test_has_line_number",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicSnapshotGeneration.test_code_string_to_svg",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_execute_command",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestCodeAppearance.test_code_font_family",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestDifferentFileTypes.test_python_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_add_line_multiple",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputValidation.test_output_file_size_reasonable",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestRangeSelection.test_range_single_line",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_delete_line_multiple",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestComplexCombinations.test_custom_colors_combined",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestSilentMode.test_silent_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_margins_both",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestRangeSelection.test_range_start_end",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.02
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_from_file_short_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.02
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestComplexCombinations.test_watermark_with_title",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_unicode_code",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.022
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicSnapshotGeneration.test_code_string_to_png",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputTypes.test_type_image_svg",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicSnapshotGeneration.test_file_to_png",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestHighlighting.test_highlight_range_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.019
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestHighlighting.test_highlight_range_basic",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.021
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestHighlighting.test_raw_highlight_lines_range",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_basic.TestErrorHandling.test_missing_input",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestComplexCombinations.test_full_featured_snapshot",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_from_code_short_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestBackgroundAndScale.test_scale_factor_1",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputTypes.test_default_type_is_image",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_margin_y",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.036
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputValidation.test_svg_extension_produces_svg",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_mac_window_bar_enabled",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWatermark.test_watermark_short_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_from_code_long_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputValidation.test_png_has_correct_header",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputValidation.test_output_to_nonexistent_directory",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_shadow_radius",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_special_characters",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestDifferentFileTypes.test_shell_script",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestLanguageSettings.test_language_flag_long",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestTitleOptions.test_title_option",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestRangeSelection.test_range_first_line",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWatermark.test_watermark_font_family",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestTitleOptions.test_title_font_family",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_execute_with_skip",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_has_border",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestLanguageSettings.test_language_flag_short",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestLanguageSettings.test_file_path_language_detection",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.117
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestBreadcrumbs.test_breadcrumbs_font_family",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestBreadcrumbs.test_breadcrumbs_enabled",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestTitleOptions.test_title_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestDifferentFileTypes.test_json_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestHighlighting.test_relative_highlight_range",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestDifferentFileTypes.test_markdown_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestBreadcrumbs.test_breadcrumbs_disabled",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.116
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestBackgroundAndScale.test_background_solid_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestComplexCombinations.test_range_with_line_numbers",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestDifferentFileTypes.test_yaml_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.117
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicSnapshotGeneration.test_stdin_to_png",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.105
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWatermark.test_watermark_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestDifferentFileTypes.test_c_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestBackgroundAndScale.test_scale_factor_default",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWatermark.test_watermark_long_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputTypes.test_type_image_png",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_shadow_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputValidation.test_overwrite_existing_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.155
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestHighlighting.test_highlight_range_single",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.207
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestRangeSelection.test_range_start_only",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.236
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestHighlighting.test_raw_highlight_lines_single",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.198
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_add_line_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.236
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestHighlighting.test_raw_highlight_lines_multiple",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.23
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestComplexCombinations.test_highlight_with_line_marking",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.229
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_add_line_range",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_both_add_and_delete_lines",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputTypes.test_type_ascii_to_file_warns",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_basic.TestErrorHandling.test_missing_input",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_mac_window_bar_disabled",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.058
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestComplexCombinations.test_all_window_options",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_margins_both",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.04
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestCodeAppearance.test_start_line_number",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputValidation.test_png_extension_produces_png",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestDifferentFileTypes.test_javascript_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_from_file_long_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestDifferentFileTypes.test_rust_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestCodeAppearance.test_has_line_number",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_border_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestBreadcrumbs.test_breadcrumbs_separator",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestCodeAppearance.test_line_number_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_from_code_stdin",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputValidation.test_svg_is_valid_xml",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestWindowAppearance.test_margin_x",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicSnapshotGeneration.test_code_string_to_svg",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestCodeAppearance.test_code_font_family",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestRangeSelection.test_range_end_only",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicSnapshotGeneration.test_file_to_svg",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestComplexCombinations.test_watermark_with_title",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestDifferentFileTypes.test_python_file",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_execute_command",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestSilentMode.test_silent_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_code_customization.TestBreadcrumbs.test_breadcrumbs_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicSnapshotGeneration.test_code_string_to_png",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputTypes.test_type_image_svg",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_output_types.TestOutputValidation.test_output_file_size_reasonable",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestRangeSelection.test_range_single_line",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_from_code_short_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestRangeSelection.test_range_start_end",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_unicode_code",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestInputMethods.test_from_file_short_flag",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_basic.TestBasicSnapshotGeneration.test_file_to_png",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestComplexCombinations.test_full_featured_snapshot",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestBackgroundAndScale.test_scale_factor_2",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "tests.test_input_methods.TestRangeSelection.test_range_last_lines",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.139
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_add_line_single",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.199
+      }
+    },
+    {
+      "name": "tests.test_window_customization.TestBackgroundAndScale.test_scale_factor_5",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.129
+      }
+    },
+    {
+      "name": "tests.test_combinations.TestComplexCombinations.test_custom_colors_combined",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.2
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestHighlighting.test_raw_highlight_lines_range",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.197
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestHighlighting.test_highlight_range_color",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.199
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestHighlighting.test_highlight_range_basic",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.197
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_delete_line_multiple",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.214
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_add_line_multiple",
+      "branch": "fd2dce11b704",
+      "status": "passed",
+      "extra": {
+        "time": 0.225
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_add_line_range",
+      "branch": "fd2dce11b704",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_line_marking.TestLineMarking.test_both_add_and_delete_lines",
+      "branch": "fd2dce11b704",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_version",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_help",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_invalid_range_format",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_invalid_file",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.025
+      }
+    },
+    {
+      "name": "eval.tests.test_advanced_features.test_raw_highlight_lines",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_line_numbers",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_highlight_range",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_execute_command",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_snapshot_from_file",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_watermark",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_advanced_features.test_skip_option",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_language_override",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_empty_code",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_snapshot_from_code",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_output_to_directory_fails",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_range_option",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "eval.tests.test_customization.test_scale_factor",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_config.test_config_file",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "eval.tests.test_customization.test_window_customization",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_add_delete_lines",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "eval.tests.test_customization.test_background_customization",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_output_to_directory_fails",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_execute_command",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_line_numbers",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_snapshot_from_file",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_watermark",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_advanced_features.test_skip_option",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_highlight_range",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_language_override",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_snapshot_from_code",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_empty_code",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_features.test_range_option",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "eval.tests.test_advanced_features.test_raw_highlight_lines",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "eval.tests.test_customization.test_scale_factor",
+      "branch": "49dd1f59d447",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_help_exact_snapshot_file",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_version_exact",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_missing_required_output_arg_error",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_invalid_has_breadcrumbs_value",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_from_code_creates_png_and_success_message",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_type_ascii_warns_and_exits_nonzero",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_home_bootstrap_creates_config_and_prints_info",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_scale_factor_changes_output",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_silent_suppresses_success_output",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.11
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_from_file_with_range_affects_output_size",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_type_ascii_warns_and_exits_nonzero",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_from_code_creates_png_and_success_message",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_scale_factor_changes_output",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_silent_suppresses_success_output",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap_cli.test_from_file_with_range_affects_output_size",
+      "branch": "52187efe8647",
+      "status": "passed",
+      "extra": {
+        "time": 0.129
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestVersionAndHelp.test_help_short_flag",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestCoreFunctionality.test_missing_output_error",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestErrorHandling.test_invalid_range_format",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestCoreFunctionality.test_no_input_error",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestVersionAndHelp.test_version_short_flag",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestVersionAndHelp.test_version_flag",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestErrorHandling.test_invalid_file_path",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestVersionAndHelp.test_help_flag",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestRangeSelection.test_range_start_to_end",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_highlight_range_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestBackgroundAndScale.test_scale_factor",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_raw_highlight_lines",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestLanguageAndTheme.test_language_option",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestCoreFunctionality.test_generate_from_code_string",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestRangeSelection.test_range_to_end",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWatermark.test_watermark_font_family",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestBreadcrumbs.test_breadcrumbs_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_window_title",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestRangeSelection.test_range_single_line",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_add_line_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestOutputFormat.test_output_png",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_add_lines",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.02
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestLanguageAndTheme.test_code_theme",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_title_font_family",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWatermark.test_watermark_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestCommandExecution.test_skip_execution",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestLineNumbers.test_has_line_number",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestCommandExecution.test_execute_command",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_shadow_radius",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWatermark.test_watermark_text",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestLineNumbers.test_start_line_number",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestLanguageAndTheme.test_code_font_family",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.022
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_delete_lines",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestOutputFormat.test_output_svg",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_border_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_border",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestSpecialBehaviors.test_silent_mode",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestConfigFile.test_config_file",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_margin_x",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestBackgroundAndScale.test_background_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestBreadcrumbs.test_has_breadcrumbs",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_title_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.107
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_margin_y",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestRangeSelection.test_range_start_end",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_shadow_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestCoreFunctionality.test_generate_from_file",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestSpecialBehaviors.test_combined_options",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_delete_line_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.108
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestBreadcrumbs.test_breadcrumbs_font_family",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_mac_window_bar",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestLineNumbers.test_line_number_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_highlight_range",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.127
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestBreadcrumbs.test_breadcrumbs_separator",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.132
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestBackgroundAndScale.test_scale_factor",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestLanguageAndTheme.test_language_option",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestCoreFunctionality.test_generate_from_code_string",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_window_title",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWatermark.test_watermark_font_family",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestRangeSelection.test_range_single_line",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestRangeSelection.test_range_start_to_end",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestCommandExecution.test_skip_execution",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestLanguageAndTheme.test_code_theme",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestOutputFormat.test_output_png",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestCommandExecution.test_execute_command",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_highlight_range_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWatermark.test_watermark_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_title_font_family",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWatermark.test_watermark_text",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestRangeSelection.test_range_to_end",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestLanguageAndTheme.test_code_font_family",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_border_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_shadow_radius",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_add_line_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestOutputFormat.test_output_svg",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestLineNumbers.test_start_line_number",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestLineNumbers.test_has_line_number",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_add_lines",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_raw_highlight_lines",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestBreadcrumbs.test_breadcrumbs_color",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestWindowCustomization.test_border",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_codesnap.TestHighlighting.test_delete_lines",
+      "branch": "6545a23056d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    }
+  ],
+  "error_code": null,
+  "error_details": null,
+  "log": [],
+  "solution_branch": "pbconv-internal_realmax-20260914_005114-codesnap-rs__codesnap.f8",
+  "test_branches": [
+    "ab87cc3978a9",
+    "df37316a82f6",
+    "217acac4c63b",
+    "b3bc5b50b15d",
+    "ab33db537207",
+    "55cce0407622",
+    "30e052a5da7c",
+    "bd56584c6044",
+    "test-johnby-create_tui_tests__gpt-5-2-genai-20260310_150101",
+    "test-johnby-externalize_inner_tests__gpt-5-2-genai-20260310_101653",
+    "fd2dce11b704",
+    "49dd1f59d447",
+    "52187efe8647",
+    "6545a23056d2"
+  ],
+  "test_branch_errors": {},
+  "executable_hash": "16b80433eb9cfa7f889bf59aa0005ac70931d614fdb4e00d089383d93ed0f478",
+  "warnings": []
+}

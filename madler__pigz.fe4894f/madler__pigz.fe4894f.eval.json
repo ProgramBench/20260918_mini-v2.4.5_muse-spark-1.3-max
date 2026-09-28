@@ -1,0 +1,6927 @@
+{
+  "test_results": [
+    {
+      "name": "tests.test_coverage_boost.test_independent_blocks_to_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_zip_format_to_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_basic_info.test_version_output",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_force_overwrite_terminal",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_basic_info.test_version_verbose",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_stdin_with_no_data",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_combined_format_options",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression_levels.test_compare_compression_ratios",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression_basic.test_compress_multiple_files",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_rsyncable_to_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_unpigz_invoked_by_name",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_list_zip_format",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression_levels.test_compression_level_fast_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression_levels.test_compression_level_best_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_environment.test_pigz_env_variable",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_basic_info.test_unpigz_help",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_compression_basic.test_compress_binary_data",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_recursive_with_verbose",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_blocksize_256k",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "tests.test_compression_basic.test_compress_file_default_removes_original",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression_basic.test_compress_with_dash_argument",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_blocksize_32k",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_compression_basic.test_compress_stdin_to_stdout",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_process_count_equals_one",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_synchronous_write",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression_basic.test_compress_stdin_empty",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression_levels.test_independent_blocks",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_compress_with_levels_and_strategies",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_time_stored_metadata",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_multiple_processes_to_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_zip_format_with_alias",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompress_multiple_files",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompress_large_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_custom_suffix_compress",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression_basic.test_compress_file_in_place",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_compress_special_characters_in_filename",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_mix_of_text_and_binary",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_basic_info.test_help_output",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_compress_from_directory_with_files",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompress_removes_original",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_basic_info.test_license_short_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompress_file_in_place",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_compress_unicode_content",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_rsyncable_with_larger_data",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_compression_levels.test_rle_strategy",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_different_compression_strategies",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_wildcard_like_pattern",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_roundtrip_stdin",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression_basic.test_compress_empty_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_basic_info.test_license_output",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_environment.test_gzip_env_variable",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression_basic.test_compress_large_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "tests.test_compression_levels.test_compression_level_11",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression_levels.test_huffman_only_strategy",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_roundtrip_compression",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_compress_then_test",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_missing_input_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_independent_with_multiple_blocks",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompress_stdin_to_stdout",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_test_compressed_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_env_variable_with_multiple_options",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_basic_info.test_version_short_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_keep_original_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_no_time_no_name_metadata",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression_levels.test_compression_level_0",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_test_list_modes.test_test_corrupted_gzip",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_force_compress_already_compressed",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_no_name_with_stdin",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_invalid_option",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_multiple_compression_levels_on_same_data",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_zlib_format_decompression",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompress_empty_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_compress_single_file_remove_original",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_list_compressed_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_environment.test_command_line_overrides_env",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_decompress_truncated_gzip",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_decompress_removes_gz_by_default",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_decompress_file_in_place",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_suppress_all_metadata",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_parallelism.test_single_process",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_basic_info.test_help_short_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_empty_env_variable",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_overwrite_prompt_without_force",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_force_overwrite_existing_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_zopfli_options.test_zopfli_oneblock_long_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression_levels.test_compression_level_6",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_invalid_compression_level",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_compress_already_compressed_with_force",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_level_11_compression",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_zip_format_with_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_recursive_many_files",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_verbose_quiet.test_verbose_long_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_compression_levels.test_compression_level_1",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_decompress_multiple_files",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_time_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression_basic.test_compress_with_stdout_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_zlib_format_with_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_level_11_with_iterations",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_recursive_directory_compression",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_recursive.test_recursive_nested_directories",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_compress_multiple_files_separately",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_parallelism.test_processes_with_different_levels",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_decompress_to_stdout",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression_levels.test_compression_level_9",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompress_to_stdout",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_zlib_format_long_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli_options.test_zopfli_first_long_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_zip_format_long_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_no_name_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_compress_with_comment",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_verbose_quiet.test_verbose_mode_compression",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_gzip_format_explicit",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_recursive.test_recursive_compress",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_name_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_test_list_modes.test_test_multiple_files",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_parallelism.test_processes_long_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_name_and_time_together",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_parallelism.test_large_process_count",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zopfli_options.test_zopfli_oneblock",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_parallelism.test_multiple_processes",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_special_arguments.test_combined_short_flags",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced_features.test_large_blocksize",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_zip_format",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_special_arguments.test_dash_as_stdin",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli_options.test_zopfli_iterations",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_no_time_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_gzip_format_default",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_recursive.test_recursive_mixed_files",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_synchronous.test_synchronous_write",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli_options.test_zopfli_iterations_long_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_test_list_modes.test_test_valid_gzip_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_recursive.test_recursive_long_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_synchronous.test_synchronous_with_stdout",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_decompress_invalid_gzip",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_special_arguments.test_double_dash_separator",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_test_list_modes.test_test_invalid_data",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zopfli_options.test_zopfli_maxsplits_long_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_test_list_modes.test_list_gzip_file",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli_options.test_zopfli_combined_options",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_output_formats.test_zlib_format",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_test_list_modes.test_list_multiple_files",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_verbose_quiet.test_verbose_with_list",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_verbose_quiet.test_quiet_on_error",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli_options.test_zopfli_first_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_special_arguments.test_only_flags_reads_stdin",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_synchronous.test_synchronous_long_flag",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_verbose_quiet.test_quiet_with_stdout",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_verbose_quiet.test_verbose_decompression",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zopfli_options.test_zopfli_maxsplits",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_special_arguments.test_double_dash_with_multiple_files",
+      "branch": "0dbd92599cb3",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_formats.test_zlib_file_extension",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_compression_level_9",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_decompression.test_decompress_stdin_to_stdout",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_all_zeros",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_version_output",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_environment.test_env_overridden_by_cmdline",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_zopfli.test_zopfli_oneblock",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_force_compress_gz_file",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_list.test_list_gz_file",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_multientry.test_large_file_multiple_blocks",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_no_args_stdin_compression",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_version_short",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_compression_best_flag",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_license_output",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_compress_binary_data",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_decompression.test_decompress_file_in_place",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_null_bytes",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_verbose_mode",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_compress_unicode_content",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_environment.test_gzip_env_variable",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_multiple_process_counts",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_decompression.test_test_integrity",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_zopfli.test_zopfli_iterations",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_rsyncable",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_blocksize_too_small_error",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_compress_empty_file",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_formats.test_gzip_comment",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_compress_keep_original",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_warnings.test_quiet_suppresses_warnings",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_force_overwrite",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_newlines_only",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_help_short",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_formats.test_zip_comment",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_compress_repetitive_data",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_decompress_non_gzip",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_help_output",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_zopfli.test_zopfli_combined_options",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_no_name_option",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_decompression.test_decompress_multiple_files",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_mixed_compression_levels",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_compression_level_6_default",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_formats.test_zip_alias",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_zopfli.test_zopfli_maxsplits",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_invalid_option",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_compress_stdin_to_stdout",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_version_verbose",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_decompression.test_decompress_corrupted_file",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_synchronous_write",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_independent_blocks",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_multientry.test_concatenated_gzip_streams",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_zopfli.test_compression_level_11",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_file_permissions_preserved",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_random_like_data",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_empty_stdin",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_single_process",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_decompression.test_decompress_stdout",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_blocksize_option",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_recursive.test_recursive_decompression",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_multiple_files",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_name_option",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_stdin_compression_with_other_options",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_single_byte_data",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_no_time_option",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_compress_to_stdout_no_delete",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_compression_fast_flag",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_compression_level_1",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_compression_level_0",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_decompression.test_test_integrity_file",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_nonexistent_file",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_compress_large_data",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "eval.tests.test_formats.test_zip_file_extension",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_double_dash_separator",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_formats.test_decompress_zip_format",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_very_large_blocksize",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_independent_vs_dependent_blocks",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_time_option",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_formats.test_zlib_format",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.test_license_short",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_dash_as_stdin",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_environment.test_pigz_env_variable",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_processes_option",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_compression.test_compress_file_in_place",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_zopfli.test_zopfli_first",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_special_cases.test_multiple_compressions",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_rle_strategy",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_decompression.test_round_trip_compression",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_rsyncable_vs_normal",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_formats.test_decompress_zlib_format",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_decompression.test_decompress_keep_original",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_name_time_combinations",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_huffman_only",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_options.test_custom_suffix",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_formats.test_zip_format",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_recursive.test_recursive_compression",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_warnings.test_zlib_with_comment_warning",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_warnings.test_zlib_with_comment_warning",
+      "branch": "eab1b8c8a035",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_warnings.test_zlib_with_comment_warning",
+      "branch": "eab1b8c8a035",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_basic.test_version_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_force_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_test_integrity",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_double_dash_treats_dash_as_filename",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_pigz_env_var_compression_level_and_keep",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_empty_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_quiet_flag_suppresses_output",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_binary_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_with_independent_blocks",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_mixed_compression_and_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_compression.test_no_name_flag_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_decompression_flag_with_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_compression.test_test_flag_validates_gzip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_processes_zero_rejected",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_dev_null_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_list_mode_zip_format",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_force_compress_already_gz_suffix",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_with_huffman",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_test_integrity",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompression_directory_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_block_size_too_large",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_missing_parameter_processes",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_blocksize_flag_affects_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_decompress_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_test_mode_with_corrupted_file_continues_to_next",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_force_flag_with_stdout_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_nonexistent_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_empty_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompression_to_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_only_valid_gzip_format",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_compression.test_independent_blocks_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_block_size_minimum_boundary",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompression_stdout_with_multiple_files",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_compression.test_force_flag_compresses_already_compressed_files",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_integrity_test_valid_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_levels_progressive_improvement",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "tests.test_compression.test_decompression_truncated_gzip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_multiple_decompression_with_mixed_validity",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_compression_level_10",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_stdin_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_symlink_skipped_without_force",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_with_compression_level",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_single_byte_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_zlib_format_integrity_test",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_suffix_very_long",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_with_comment",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_zero_byte_file_produces_minimal_gzip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_multiple_levels_same_input_different_outputs",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_T_flag_alternative_for_m",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_highly_repetitive_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_process_count_too_large",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_list_verbose_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_list_flag_shows_file_info",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_errors.test_keep_flag_with_error",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_nonexistent_file_error",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_compression_ratio_vs_default",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_errors.test_truncated_gzip_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompression_with_force_overwrites",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_stdin_compression_to_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_list_mode_gzip_format",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_overwrite_protection",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompression_creates_correct_output_name",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_verbose_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_no_time_then_N_last_wins",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_with_different_block_sizes",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_independent_blocks_single_thread",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_all_same_byte",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_stdout_with_k_flag_keeps_original",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_large_file_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_level_10_invalid",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_file_compression_removes_original_by_default",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_multiple_files_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_level_1_fast_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_short_option",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_compression.test_multiple_files_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_multi_member_integrity_test",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_single_byte_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_basic.test_stdin_stdout_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_numeric_parameter",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_crc32_mismatch_detection",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_empty_file_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_processes_large_count",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_integrity_test_crc_error",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_cat_like_behavior_with_cdf_on_non_gzip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_very_long_filename",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_list_mode_single_member",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_compression.test_multiple_files_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_large_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_errors.test_list_invalid_gzip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_decompress_without_suffix",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_symbolic_link_without_force",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_lzw_option_unsupported",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_errors.test_zip_format",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_huffman_strategy_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_numeric_overflow_in_blocksize",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_list_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_decompress_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_decompression_keeps_gz_with_k_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_errors.test_zopfli_compression_level_11",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_formats.test_empty_stdin_zip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_rle_strategy",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_python_zip_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_very_small_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_best_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_list_and_test_together",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_single_byte_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompression_preserves_permissions",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_single_entry_only",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_independent_blocks_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_stdin_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_reduces_size_for_compressible_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_different_compression_levels",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_quiet_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_integrity_test_invalid_deflate",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_header_format",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_filename_from_path",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_pigz_env_var_verbose_and_blocksize",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_trailing_junk_warning",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_crc32_checksum",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_alias_option_with_stdin",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_empty_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_with_independent_blocks",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_filename_special_characters",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_multientry_warning",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_basic_decompression_to_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_decompression_file_removes_gz_suffix",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_comment_warning",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_basic.test_compress_decompress_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_test_integrity",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_no_name_with_high_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_default_name_stdin",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_compress_basic",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_environment_gzip_with_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_formats.test_format_autodetection_zip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_processes_single_thread",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_double_dash_separator",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_with_rle",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_test_flag_detects_corruption",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_decompress_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_processes_flag_single_thread",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_empty_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_name_flag_stores_metadata",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_basic_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_with_independent_blocks",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_process_count_zero",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompression_to_same_name_without_gz_extension",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_verbose_flag_shows_progress",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_large_dev_zero_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_errors.test_missing_parameter_suffix",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_mixed_runs",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_custom_suffix_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_zlib_format_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompression_keep_original",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_list_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_directory_as_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_with_compression_level",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_list_corrupted_file_partial_info",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_empty_file_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_suffix_missing_parameter",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_basic_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_symlink_compressed_with_force",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompression_missing_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_decompression_with_wrong_suffix_fails",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_header_crc_validation",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_unpigz_symlink_decompresses_by_default",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_list_mode_with_nonexistent_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_force_overwrite",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_rsyncable_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_empty_suffix_rejected",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_version_with_verbose_shows_zlib",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_skip_existing_gz_without_force_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_errors.test_compression_level_with_letters",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_errors.test_list_nonexistent_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_all_levels_2_through_8",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_errors.test_missing_parameter_block_size",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_errors.test_compression_level_99",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_force_flag_overwrites_existing_gz_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_single_byte_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_directory_skipped_with_error",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_with_incompressible_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_gzip_format",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_block_size_large_value",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_preserves_decompression_roundtrip_all_levels",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.019
+      }
+    },
+    {
+      "name": "tests.test_basic.test_help_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_stdin_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_errors.test_length_mismatch_detection",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_long_option",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_level_0_stores_uncompressed",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_block_size_too_small",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_binary_file_with_null_bytes",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_stdin_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_file_compression_keeps_original_with_k_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_N_then_no_time_last_wins",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_large_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_level_9_best_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_suffix_empty_rejected",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_large_block_size",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.027
+      }
+    },
+    {
+      "name": "tests.test_compression.test_zlib_format_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_integrity_test_truncated_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_stdin_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_only_basic_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompression_refuses_existing_output_without_force",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_decompress_to_stdout_no_suffix_check",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_multiple_files_with_one_failing",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_multi_member_gzip_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_list_mode_zlib_format",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_no_name_field",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_stdin_to_stdout_preserves_data_exact_bytes",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_empty_compressed_file_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_decompression_with_verbose_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_empty_file_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_compression.test_large_highly_compressible_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_compression.test_decompression_invalid_gzip_format",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_integrity_test_length_mismatch",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_random_data_still_valid",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_empty_stdin_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_rsyncable_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_all_zeros",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_huffman_only_strategy",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_adler32_checksum",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_compression.test_binary_data_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_huffman_decompress_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_compression.test_stdout_mode_does_not_create_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_broken_symbolic_link",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_recursive_without_directory",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_format_autodetection_zlib",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_ascii_option_unsupported",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_additional_flags.test_keep_flag_with_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rsyncable_binary_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_list_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_advanced.test_rle_vs_default_on_repetitive_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_integrity_test_non_gzip_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_compression.test_rle_strategy_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_numeric_overflow_in_processes",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_synchronous_flag_short",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_pigz_env_var_compression_level",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_gzip_env_var_keep_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_zlib_format",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_decompress_interleaved_formats",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_fast_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_test_mode_corrupted_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_versus_python_zipfile_compat",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_mix_gzip_zip_zlib_batch",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_compression.test_compression_level_boundaries",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_compress_basic",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_synchronous_with_stdout_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_synchronous_flag_with_keep_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_no_name_flag_suppresses_filename_and_timestamp",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_errors.test_comment_option",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_formats.test_python_zlib_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_formats.test_empty_stdin_zlib",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_formats.test_invalid_format_detection",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_gzip_env_var_with_multiple_whitespace_separators",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_gzip_and_pigz_env_vars_both_applied",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_comment_preserved",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_alias_for_stdin",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_compression_level_header",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_metadata_flags_interaction_n_overrides_N",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_metadata_flags_interaction_N_overrides_n",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_pigz_env_var_overrides_default_behavior",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_different_compression_levels",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_empty_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_verbose_list_shows_all_metadata_fields",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_environment_pigz_with_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_decompress_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_env_var_with_option_requiring_parameter",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_compress_keep_force_and_test",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_compress_block_size_32_and_test",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_synchronous_flag_long",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_compress_zip_format_and_test",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_time_flag_preserves_modification_time",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_gzip_env_var_compression_level_and_verbose",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_name_flag_preserves_and_restores_metadata",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_compress_single_process_and_test",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_name_flag_with_decompression_restores_original_filename",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_stdin_marker_after_double_dash",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_no_time_flag_suppresses_only_timestamp",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_three_byte_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_force_decompress_overwrites_existing",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_io.test_force_flag_overwrites_existing",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_one_byte_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_compress_zlib_format_and_test",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_io.test_recursive_with_mixed_file_types",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_no_keep_flag_deletes_original",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_threading.test_single_thread_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_io.test_multiple_compression_levels_on_files",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_mixed_gzip_and_two_byte_raw",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_empty_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_time_flag_stores_modification_time",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_stdin_to_stdout_basic",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_very_long_comment",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_custom_suffix_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_multiple_files_skip_missing_continue_others",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_multiple_files_batch_processing",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_skip_gz_suffix_unless_force",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_decompression_without_name_flag_uses_gz_filename",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_io.test_symlink_requires_force_or_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_io.test_decompress_to_stdout_with_c",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_default_behavior_stores_name_and_time",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_io.test_keep_flag_preserves_original",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_stdin_no_files_implicit_pipe_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_filename_with_special_chars",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_io.test_recursive_skip_already_compressed",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_no_time_flag_stores_zero_timestamp",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_list_verbose_shows_timestamp",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_mixed_gzip_and_one_byte_raw",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_compress_then_decompress_roundtrip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_combined_name_time_comment",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_io.test_filenames_with_spaces",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_mixed_gzip_and_three_byte_raw",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_recursive_mode_processes_subdirectories",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_io.test_directory_requires_recursive_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_alias_with_path_components",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_list_no_timestamp_when_not_stored",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_two_byte_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_empty_comment_sets_flag_but_stores_null",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_io.test_decompress_multiple_files_to_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_list_mode_with_comment",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_io.test_decompress_without_suffix_requires_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_zip_comment_storage",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_io.test_quiet_mode_suppresses_warnings",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_comment_and_name_ordering_in_header",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_name_restoration_on_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_name_flag_stores_filename_in_header",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_corrupted_header_flags",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_list_mode_shows_stored_name",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_threading.test_multiple_files_thread_reuse",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_io.test_decompress_keeps_with_k_deletes_without",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_io.test_stdout_mode_with_c_flag_never_deletes",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_stdin_to_stdout_with_compression_levels",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.019
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_alias_flag_sets_zip_entry_name",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_comment_with_special_characters",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_multiple_files_with_different_metadata",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_threading.test_immediate_value_syntax",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_io.test_empty_file_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_recursive_deep_directory_tree",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_corrupted_gzip_magic_bytes",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_threading.test_block_size_32k_minimum",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_unicode_filename_storage",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_stdin_with_alias",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_threading.test_block_size_very_large",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_threading.test_single_byte_file_with_blocks",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_roundtrip_preserve_content",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_threading.test_keep_flag_preserves_original_threaded",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_threading.test_very_small_file_with_large_block",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_large_stream_stdin_to_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "tests.test_threading.test_block_size_affects_compression_ratio",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_decompression_from_python_zipfile",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_time_preservation_across_decompress_recompress",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_io.test_combined_flags_kfq",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_comment_flag_stores_comment_in_header",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_no_name_flag_omits_filename_and_time",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_special_characters_in_name",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_stdin_compression_without_alias_uses_default_name",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_decompression_preserves_permissions_with_metadata",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_with_maximum_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_very_long_filename_storage",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_comment_newline_and_special_chars",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_better_compression_than_level9",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_missing_null_terminator_in_filename",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_threading.test_block_size_edge_32k_exactly",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_timestamp_preservation",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_to_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_threading.test_empty_file_with_threads",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_with_no_name_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_threading.test_procs_overflow_rejected",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_binary_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_threading.test_procs_zero_rejected",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_threading.test_procs_very_large_accepted",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_blocksize_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_highly_compressible_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_first_flag_blocksplitting_order",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_combined_tuning_flags",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_maxsplits_flag_limits_blocks",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_iterations_flag_affects_output",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_single_byte_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_keep_original_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_time_restoration_on_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_force_overwrite",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_oneblock_flag_no_splitting",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_threading.test_combined_threading_and_block_size",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.119
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_list_mode",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.031
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_empty_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_threading.test_independent_blocks_basic",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.051
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_rsyncable_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_multiple_files",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_empty_file",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_multiple_compression_levels",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_threading.test_compression_level_with_threading",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_verbose_output",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_threading.test_independent_vs_dependent_size_difference",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_with_keep_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_with_comment_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_with_no_name_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_no_time_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_highly_repetitive_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_oneblock_vs_default_splitting",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_threading.test_stdout_mode_with_threading",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_binary_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_stdin_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_first_and_oneblock_combined",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_basic_compression_and_decompression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_all_tuning_flags_combined",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_incompressible_random_data",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.031
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_maxsplits_zero",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_threading.test_block_size_variations",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.215
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_cat_like_behavior_with_cdf_on_non_gzip",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_trailing_junk_warning",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_comment_warning",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_stdin_marker_after_double_dash",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_three_byte_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_one_byte_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_mixed_gzip_and_two_byte_raw",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_empty_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_symlink_requires_force_or_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_mixed_gzip_and_one_byte_raw",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_mixed_gzip_and_three_byte_raw",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_two_byte_input",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_corrupted_gzip_magic_bytes",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_threading.test_procs_overflow_rejected",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_threading.test_independent_vs_dependent_size_difference",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.057
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_cat_like_behavior_with_cdf_on_non_gzip",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_decompression.test_multiple_test_operations_same_invocation",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_errors.test_trailing_junk_warning",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_multiple_files_partial_failure",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zlib_comment_warning",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_formats.test_zip_timestamp_preserved",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_stdin_marker_after_double_dash",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zip64.test_zip_with_quiet_flag",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_three_byte_input",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_one_byte_input",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_iterations_higher_produces_better_compression",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_with_force_stdout",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_mixed_gzip_and_two_byte_raw",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_empty_input",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_mixed_gzip_and_one_byte_raw",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_io.test_symlink_requires_force_or_stdout",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_mixed_gzip_and_three_byte_raw",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_decompress_two_byte_input",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_zopfli.test_zopfli_very_high_iterations",
+      "branch": "efe9882e480a",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_metadata.test_corrupted_gzip_magic_bytes",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_threading.test_procs_overflow_rejected",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_threading.test_independent_vs_dependent_size_difference",
+      "branch": "efe9882e480a",
+      "status": "failure",
+      "extra": {
+        "time": 0.057
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_negative_value_for_numeric_flag_is_treated_as_missing_parameter[-J]",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_processes_validation[args0-invalid number of processes: 0]",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_processes_validation[args1-missing parameter after -p]",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_dash_dash_stops_option_parsing_treats_next_as_filename",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_value_after_flag[-S]",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_value_after_flag[-b]",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_invalid_numeric_parameter_for_blocksize",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_value_after_flag[-C]",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_long_option_errors",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_value_after_flag[-p]",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_required_value_after_flag[-A]",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_negative_value_for_numeric_flag_is_treated_as_missing_parameter[-I]",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_single_dash_is_treated_as_option_and_compresses_stdin",
+      "branch": "81f8ba493713",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_env_config.test_env_options_cannot_include_files_errors",
+      "branch": "ba0d4f53c35e",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_env_config.test_env_unknown_option_errors",
+      "branch": "ba0d4f53c35e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_env_config.test_env_gzip_sets_compression_level_changes_output",
+      "branch": "ba0d4f53c35e",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_env_config.test_env_missing_parameter_errors",
+      "branch": "ba0d4f53c35e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-t, --test]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_is_printed_to_stderr_for_this_program",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_contains_intro_text[If no files are]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-q, --quiet]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-l, --list]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_contains_intro_text[spreads the work over multiple processors]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-H, --huffman]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-0 to -9, -11]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-L, --license]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-z, --zlib]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-i, --independent]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-d, --decompress]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[--fast, --best]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-M, --time]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-h, --help]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-A, --alias]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-r, --recursive]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-V  --version]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-n, --no-name]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[--                   All arguments after \"--\" are treated as files]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-c, --stdout]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-F  --first]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-O  --oneblock]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_has_usage_header",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-S, --suffix]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_contains_intro_text[will compress files in place, adding the suffix '.gz'.]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-f, --force]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_baseline_full_help_output_matches_fixture_exactly",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_with_extra_invalid_flag_still_shows_help_and_exits_zero",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-v, --verbose]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-Y  --synchronous]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-m, --no-time]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-K, --zip]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-R, --rsyncable]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_contains_intro_text[stdin will be compressed to stdout.]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-U, --rle]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-J, --maxsplits]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-b, --blocksize]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-p, --processes]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_has_options_section_header",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-N, --name]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-I, --iterations]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-k, --keep]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_after_double_dash_is_treated_as_filename_not_help",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag_or_option[-C, --comment]",
+      "branch": "29ee582f14b6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_file_inputs_outputs.test_stdout_flag_c_does_not_create_files",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_stdin_stdout_roundtrip.test_stdin_decompress_flag_dc_outputs_plaintext",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_errors.test_invalid_option_exit_nonzero_and_prints_usage_or_option",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_file_inputs_outputs.test_keep_flag_preserves_original_file",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_version.test_help_exit0_and_mentions_usage",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_file_inputs_outputs.test_decompress_file_in_place_restores_and_removes_gz",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_stdin_stdout_roundtrip.test_stdin_marker_dash_reads_stdin",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_list_mode.test_list_mode_outputs_listing_to_stdout",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_errors.test_nonexistent_file_exit_nonzero_and_stderr_mentions_name",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_version.test_version_exit0_contains_pigz",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_stdin_stdout_roundtrip.test_stdin_compress_to_stdout_and_roundtrip_decompress",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_file_inputs_outputs.test_compress_file_in_place_creates_gz_and_removes_original",
+      "branch": "c475c31d14cd",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestHelpOutput.test_help_flag_long",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestModeFlags.test_decompress_long_flag",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestVersionOutput.test_version_flag_short",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestProgramNameDispatch.test_executable_name_shows_pigz",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestHelpOutput.test_help_flag_short",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestProgramNameDispatch.test_pigz_default_mode_is_compress",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestErrorHandling.test_nonexistent_file",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestErrorHandling.test_invalid_option",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestVersionOutput.test_version_flag_long",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestModeFlags.test_decompress_flag_switches_mode",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestHelpOutput.test_help_shows_compression_options",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subcommand_dispatch.TestHelpOutput.test_help_shows_decompress_option",
+      "branch": "8625c63a2d9f",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestBasicCompression.test_compress_stdin_to_stdout",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestBasicCompression.test_compress_file_creates_gz",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestForceCompress.test_force_compress_gz_file",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestBasicCompression.test_round_trip_compression",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestExitCodes.test_test_failure_exit_code",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestProcessOptions.test_processes_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestEdgeCases.test_empty_file",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionMethods.test_rle_compression",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestRsyncable.test_rsyncable_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestZopfliOptions.test_iterations_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestDecompressVariants.test_decompress_long_flag",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestSpecialCharacters.test_filename_with_special_chars",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_compression_level[-0]",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_compression_level[-2]",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestExitCodes.test_failure_exit_code",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestMetadata.test_time_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestZopfliOptions.test_maxsplits_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestEdgeCases.test_unicode_content",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestErrorHandling.test_invalid_compression_level",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestStdinDetection.test_no_args_uses_stdin",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestSpecialCharacters.test_filename_with_spaces",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_best_compression",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestStandardGzipCompatibility.test_pigz_compress_gzip_decompress",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestErrorHandling.test_nonexistent_file",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestIntegrity.test_test_corrupted_file",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestBasicCompression.test_compress_keep_original",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestDecompressVariants.test_decompress_short_flag",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestErrorHandling.test_invalid_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestKeepDecompress.test_keep_during_decompress",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestComment.test_comment_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_compression_level[-4]",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_compression_level[-5]",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestMetadata.test_no_time_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_compression_level[-9]",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestFormats.test_decompress_zlib",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_compression_level[-7]",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestPipes.test_pipe_compress_decompress",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_compression_level[-8]",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestStandardGzipCompatibility.test_gzip_compress_pigz_decompress",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestFormats.test_zlib_format",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestEdgeCases.test_large_file_compression",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestBasicInfo.test_license_output",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionMethods.test_huffman_only",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestMetadata.test_name_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCustomSuffix.test_custom_suffix",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestEdgeCases.test_binary_data",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestRecursive.test_recursive_compression",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestEdgeCases.test_single_byte",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestZopfliOptions.test_first_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestMultipleOptionsCombo.test_compress_with_blocksize_and_independent",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestZopfliOptions.test_oneblock_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_compression_level[-3]",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestBasicInfo.test_help_output",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_compression_level_11",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestMetadata.test_no_name_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_fast_compression",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_compression_level[-6]",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestBasicCompression.test_decompress_file",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestLongOptions.test_stdout_long",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestCompressionLevels.test_compression_level[-1]",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestBasicCompression.test_decompress_stdin_to_stdout",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestProcessOptions.test_blocksize_option",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestOutputControl.test_force_overwrite",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestBasicInfo.test_version_output",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestMultipleOptionsCombo.test_compress_with_level_and_processes",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestVerbosity.test_quiet_mode",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestIndependentBlocks.test_independent_blocks",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_pigz.TestMultipleFiles.test_compress_multiple_files",
+      "branch": "d2a4877190b8",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_outputs.test_version_exact",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_roundtrip_streams.test_parallelism_flag_preserves_output[2]",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_roundtrip_streams.test_empty_input_roundtrip",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_filesystem_workflows.test_keep_flag_preserves_original",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_outputs.test_invalid_flag_nonzero",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_outputs.test_help_exact",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_filesystem_workflows.test_decompress_to_stdout_does_not_delete_input",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_roundtrip_streams.test_stdin_to_stdout_gzip_roundtrip[-1]",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_filesystem_workflows.test_overwrite_allowed_with_force",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_roundtrip_streams.test_stdin_to_stdout_gzip_roundtrip[-0]",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_roundtrip_streams.test_parallelism_flag_preserves_output[1]",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_roundtrip_streams.test_stdin_to_stdout_gzip_roundtrip[-9]",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_filesystem_workflows.test_custom_suffix_compress_only",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_roundtrip_streams.test_stdin_to_stdout_gzip_roundtrip[-6]",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_filesystem_workflows.test_overwrite_refused_without_force",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_outputs.test_license_prefix",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_list_and_test_modes.test_list_mode_contains_filename",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_filesystem_workflows.test_decompress_in_place_restores_and_removes_gz",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_filesystem_workflows.test_default_compress_in_place_deletes_original",
+      "branch": "cddd1439473b",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    }
+  ],
+  "error_code": null,
+  "error_details": null,
+  "log": [],
+  "solution_branch": "pbconv-internal_realmax-20260913_111334-madler__pigz.fe4894f",
+  "test_branches": [
+    "0dbd92599cb3",
+    "eab1b8c8a035",
+    "efe9882e480a",
+    "81f8ba493713",
+    "ba0d4f53c35e",
+    "29ee582f14b6",
+    "c475c31d14cd",
+    "8625c63a2d9f",
+    "d2a4877190b8",
+    "cddd1439473b"
+  ],
+  "test_branch_errors": {},
+  "executable_hash": "cd5d1ad2ec4f5ab95e913d17b6ac95447ae0548601fa024aa52445ea15365e9c",
+  "warnings": []
+}

@@ -1,0 +1,4831 @@
+{
+  "test_results": [
+    {
+      "name": "eval.tests.test_genomics.TestCutNCommand.test_cutn_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSizeCommand.test_size_empty_counts_zero",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_even_reads_only",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestFqchkCommand.test_fqchk_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestCutNCommand.test_cutn_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestCompCommand.test_comp_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_A_flag_same_as_a",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestCompCommand.test_comp_base_counts",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestFqchkCommand.test_fqchk_output_format",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestCutNCommand.test_cutn_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSizeCommand.test_size_stdin_when_no_args",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_reverse_complement_acga",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestCutNCommand.test_cutn_splits_sequences",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestListhetCommand.test_listhet_no_hets",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_fastq_to_fasta",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestListhetCommand.test_listhet_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_fastq_passthrough",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestCutNCommand.test_cutn_gap_only",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_nonexistent_file",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestCompCommand.test_comp_multiple_seqs",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGapCommand.test_gap_min_size_custom",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommentHandling.test_seq_split_output_comments",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_uppercase",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSizeCommand.test_size_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestCompCommand.test_comp_with_region_bed",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGapCommand.test_gap_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestHetyCommand.test_hety_nonexistent_file",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_quality_masking_with_n",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestCompCommand.test_comp_upper_only",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_fasta_passthrough",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGapCommand.test_gap_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestCompCommand.test_comp_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_help_flag_unrecognized",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestHetyCommand.test_hety_output_format_on_hets",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGcCommand.test_gc_nonexistent_file",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_unrecognized_command",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_odd_reads_only",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_fake_quality",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGapCommand.test_gap_output_format",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_reverse_both_strands",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestCompCommand.test_comp_output_format",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqAdvancedOptions.test_seq_quality_shift_V",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestFqchkCommand.test_fqchk_length_stats",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGcCommand.test_gc_high_at",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_no_args_lists_commands",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestHetyCommand.test_hety_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGcCommand.test_gc_xdropoff",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestHetyCommand.test_hety_t_option",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSizeCommand.test_size_nonexistent_file",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_quality_masking",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGapCommand.test_gap_no_gaps",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommentHandling.test_seq_drops_comments",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_strip_whitespace",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_drop_ambiguous",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_reverse_complement",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestListhetCommand.test_listhet_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestMergefaCommand.test_mergefa_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_drop_comments",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_min_length_filter",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_quality_shift",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGcCommand.test_gc_output_format",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestCutNCommand.test_cutn_penalty",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_version_in_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSizeCommand.test_size_fastq",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestHetyCommand.test_hety_window_size",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommentHandling.test_seq_preserves_comments",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestCompCommand.test_comp_nonexistent_file",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestListhetCommand.test_listhet_het_output_format",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestCutNCommand.test_cutn_nonexistent_file",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestMergefaCommand.test_mergefa_quality_threshold",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqAdvancedOptions.test_seq_mask_with_n_char",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestFqchkCommand.test_fqchk_base_composition",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_no_telomere",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_line_length",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestMutfaCommand.test_mutfa_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestHetyCommand.test_hety_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestFqchkCommand.test_fqchk_nonexistent_file",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGapCommand.test_gap_lowercase_n",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestFqchkCommand.test_fqchk_quality_threshold",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_output_format",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestMergefaCommand.test_mergefa_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestSplitCommand.test_split_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGapCommand.test_gap_detects_gaps",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_max_drop",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqAdvancedOptions.test_seq_reverse_complement_fastq",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_detects_telomere",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSizeCommand.test_size_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGcCommand.test_gc_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestMutfaCommand.test_mutfa_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestMergefaCommand.test_mergefa_intersection",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestSplitCommand.test_split_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestSplitCommand.test_split_line_length",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestFamaskCommand.test_famask_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_genomics.TestGcCommand.test_gc_basic_high_gc",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestTrimfqCommand.test_trimfq_preserves_fastq_format",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestMergepeCommand.test_mergepe_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestMergepeCommand.test_mergepe_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestFamaskCommand.test_famask_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRenameCommand.test_rename_no_args_reads_empty_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRandbaseCommand.test_randbase_no_hets_unchanged",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestMergefaCommand.test_mergefa_suppress_hets",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestSplitCommand.test_split_contents",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestTrimfqCommand.test_trimfq_both_trim",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_comp.TestFqchkCommand.test_fqchk_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSubseqCommand.test_subseq_line_length",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestTrimfqCommand.test_trimfq_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_custom_motif",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRenameCommand.test_rename_with_prefix",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestSplitCommand.test_split_default_n",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSampleCommand.test_sample_reproducible_with_seed",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRenameCommand.test_rename_sequential",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_empty_stdin_zero_result",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSubseqCommand.test_subseq_by_bed",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRandbaseCommand.test_randbase_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSubseqCommand.test_subseq_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_min_length",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSampleCommand.test_sample_different_seeds_different_output",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSampleCommand.test_sample_by_fraction",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSubseqCommand.test_subseq_fastq",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSubseqCommand.test_subseq_tab_output",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSampleCommand.test_sample_fasta",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHpcCommand.test_hpc_no_args_reads_empty_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestDropseCommand.test_dropse_paired_output",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_output_format",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_stderr_counts",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestTrimfqCommand.test_trimfq_min_length",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestTrimfqCommand.test_trimfq_right_trim",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSubseqCommand.test_subseq_missing_region_file",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHpcCommand.test_hpc_no_homopolymers",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRenameCommand.test_rename_fasta",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHpcCommand.test_hpc_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestTrimfqCommand.test_trimfq_quality_trimming_low_qual",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSampleCommand.test_sample_by_number",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHpcCommand.test_hpc_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSubseqCommand.test_subseq_strand_aware",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestTrimfqCommand.test_trimfq_fixed_length",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_reports_stats",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSampleCommand.test_sample_twopass_mode",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHpcCommand.test_hpc_fastq",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_show_profile",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRandbaseCommand.test_randbase_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_output_format",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRenameCommand.test_rename_no_prefix",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestTrimfqCommand.test_trimfq_nonexistent_file",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestTrimfqCommand.test_trimfq_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestDropseCommand.test_dropse_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSubseqCommand.test_subseq_by_name_list",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestTrimfqCommand.test_trimfq_quality_threshold",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSampleCommand.test_sample_no_args_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_sample_subseq.TestSampleCommand.test_sample_all_sequences",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_penalty",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_strip_whitespace",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRenameCommand.test_rename_with_prefix",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRenameCommand.test_rename_sequential",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_min_length",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRenameCommand.test_rename_fasta",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_output_format",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_basic",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_show_profile",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_output_format",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_stdin",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSeqCommand.test_seq_strip_whitespace",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_trimfq.TestTrimfqCommand.test_trimfq_left_trim",
+      "branch": "e592c32aec70",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRenameCommand.test_rename_with_prefix",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRenameCommand.test_rename_sequential",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_min_length",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestRenameCommand.test_rename_fasta",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_basic",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_output_format",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_stdin",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_basic",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_telo.TestTeloCommand.test_telo_show_profile",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_shows_usage",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestKfreqCommand.test_kfreq_output_format",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_merge_split.TestHrunCommand.test_hrun_stdin",
+      "branch": "e592c32aec70",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_fqchk_long_read",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_single_base",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gap_missing_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_lowercase_without_u_flag",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_intersect_mode",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_identical_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_missing_input_files",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_quality_threshold",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_empty_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_listhet_stdin",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_window_larger_than_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_basic",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_pure_cytosine",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_preserves_comments",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_basic_mutations",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gap_complex_positions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_window_boundary",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_info.test_size_gzipped_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_custom_threshold",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_cpg_dinucleotides",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_mergepe_basic_interleave",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_insufficient_arguments",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_size_large_dataset",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_haploid_mode",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_missing_input_files",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_stdin",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_different_sequence_names",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_info.test_fqchk_quality_distribution",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_size_simple_fastq",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gap_zero_length_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_multiple_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_complex_iupac_codes",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_basic",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_position_beyond_length",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_empty_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_mergepe_unequal_files_r1_shorter",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_both_forward_and_reverse",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_duplicate_positions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_custom_window_step",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_uppercase_conversion",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_reverse_complement_very_long_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_dropse_removes_unpaired",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_mergepe_missing_arguments",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_missing_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_combined_left_and_length",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_drop_ambiguous_bases",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_listhet_basic",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_even_reads_only",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_xdropoff",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_phred_algorithm_trims_low_quality_tail",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_fqchk_fasta_input_ignored",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_fqchk_with_n_bases",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_fixed_trim_left_right",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_quality_masking_with_char",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_multiline_fasta_rewrap",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_mask_bed_regions_with_char",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_dropse_all_unpaired_produces_empty",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_beg_exceeds_end_produces_empty_seq",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_unequal_sequence_lengths",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_fake_quality_fasta_to_fastq",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_size_multiple_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_reverse_complement_fastq",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_zero_length_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_unknown_command",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_mergepe_fasta_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_double_het_identical",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_min_length_affects_phred_output",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_sampling_fraction_zero_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_line_wrapping",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_quality_masking_with_edge_scores",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_multiple_bed_regions_same_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_drop_comments_with_line_wrap",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_strip_whitespace_in_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_multiline_fasta_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_randbase_resolves_iupac_codes",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_sequential_numbering_no_prefix",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_edge_cases_minlen_2",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_drop_sequences_with_ambiguous_iupac_codes",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_short_regions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_fqchk_varying_read_lengths",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gap_basic",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_listhet_empty_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_custom_minlen_3",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_cutN_multiple_gaps_in_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_preserve_comments_with_regions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_longer_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_basic_default_minlen",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_out_of_bounds_regions_clamped",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_dropse_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_cutN_custom_threshold_splits_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_paired_end_reads_same_seed",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_split_uneven_distribution",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_both_strands_fasta_output",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_odd_reads_with_length_filter",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_deterministic_with_seed",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_empty_name_list",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_nonexistent_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_extract_full_sequence_no_coords",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_fraction_sampling",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_stdin_with_twopass_error",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_default_seed_is_11",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_lowercase_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_missing_input_file_error",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_value_one_treated_as_count",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_gzipped_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_minlen_zero",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_short_sequence_unchanged_when_below_minlen",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_hpc_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_basic_masking",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_hpc_long_homopolymers",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_strand_aware_reverse_complement",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_fastq_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_tab_delimited_output",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_sequences_with_ns_exact_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_missing_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_more_than_input_count",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_extract_by_name_list_fastq",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_mixed_with_n",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_2mer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_paired_end_detection",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_reverse_complement_with_quality_masking",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_fastq_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_empty_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_cutN_very_long_n_stretch",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_no_arguments_shows_usage",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_basic_3mer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_insufficient_arguments",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_missing_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_stdin",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_mask_n_mode",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gap_exactly_min_length",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_multi_sequence_mutations",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_reverse_complement_strand_selection",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_tab_and_whitespace_in_sequence_name",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_random_het_mode",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_dropse_all_paired",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_size_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_het_hom_interaction",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gap_all_ns",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_ambiguous_bases",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_gzip_compressed_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_sequence_with_only_ns",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_sequences_with_differences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_fqchk_simple_fastq",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_fqchk_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_fqchk_q0_flag_all_qualities",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_empty_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_high_quality_unchanged",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_insufficient_arguments",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_mergepe_unequal_files_r2_shorter",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_size_single_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_zero_length_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_drop_comments",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_sampling_fraction_all_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_listhet_empty_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_mergepe_nonexistent_files",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_listhet_multiple_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_uppercase_only_flag",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_sampling_with_seed",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_odd_reads_only",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_min_length_filter",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_quality_threshold_parameter",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_fixed_length_L_option",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_flag_combination_error",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_with_regions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_info.test_fqchk_q30_threshold",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_mask_bed_regions_lowercase",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_line_length_control",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_invalid_mutation_format",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_mask_bed_complement_regions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_dropse_pairs_without_suffix",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_extract_by_name_list_fasta",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_info.test_size_empty_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_info.test_comp_pure_adenine",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_quality_masking_lowercase",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_dropse_fasta_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_multiple_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_combined_filters_ambiguous_and_length",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_missing_argument",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_uppercase_precedence_over_lowercase_masking",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_no_args_shows_usage",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_empty_input_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_quality_shift_v_flag",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_long_sequence_multiple_regions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_preserve_comments_full_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_randbase_stdin",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_reverse_complement_iupac_codes",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gap_default_min_length",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_preserves_sequence_quality",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_reverse_complement_and_fasta_combined",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_uppercase_with_line_wrapping",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_listhet_only_header",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_fastq_to_fasta_conversion",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_seq.test_bed_masking_with_reverse_complement",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_cutN_gap_only_mode",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_with_custom_prefix",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_missing_names_silently_skipped",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_zero_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_cutN_penalty_parameter",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_single_position_extraction",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_region_start_beyond_sequence_length",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_twopass_mode",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_dropse_mixed_paired_and_unpaired",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_missing_region_file_error",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_randbase_all_two_base_codes",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_zero_length_regions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_cutN_one_less_than_threshold",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_different_seeds_produce_different_output",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_L_with_e_interaction",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_cutN_default_threshold",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_fastq_preserves_quality",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_fraction_zero",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_overlapping_regions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_hpc_preserves_non_homopolymers",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_hpc_case_sensitivity",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_both_strands_with_quality_masking",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_extract_by_bed_regions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_custom_line_length",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_hpc_empty_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_split_with_line_length",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_cutN_ending_with_n",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_hpc_fastq_to_fasta_conversion",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_very_long_prefix",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_split_single_file_output",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_cutN_exact_threshold_length",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_single_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_basic",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_window_boundary",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_custom_threshold",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_stdin",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_basic",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_different_sequence_names",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_custom_window_step",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_dropse_removes_unpaired",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_empty_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_combined_left_and_length",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_xdropoff",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_unequal_sequence_lengths",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_double_het_identical",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_short_regions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_strip_whitespace_in_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_line_wrapping",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_edge_cases_minlen_2",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_custom_minlen_3",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_basic_default_minlen",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_preserve_comments_with_regions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_longer_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_stdin_with_twopass_error",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_lowercase_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_sequences_with_ns_exact_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_empty_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_minlen_zero",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_tab_and_whitespace_in_sequence_name",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_fastq_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_2mer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_basic_3mer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_no_arguments_shows_usage",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_paired_end_detection",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_multi_sequence_mutations",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_stdin",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_missing_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_mask_n_mode",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_reverse_complement_strand_selection",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_gzip_compressed_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_sequence_with_only_ns",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_flag_combination_error",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_invalid_mutation_format",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_with_custom_prefix",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_dropse_mixed_paired_and_unpaired",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_zero_length_regions",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_L_with_e_interaction",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_very_long_prefix",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_single_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_basic",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_at_mode",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_window_boundary",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_custom_threshold",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gap_stdin",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_basic",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_stdin",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_min_length_filter",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_different_sequence_names",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_listhet_missing_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_custom_window_step",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_dropse_removes_unpaired",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_empty_sequences",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_lowercase_masking",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_no_mutations",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_combined_left_right_trim",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_line_wrapping",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_tiny_window",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_combined_left_and_length",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_fasta_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_xdropoff",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_listhet_all_het_codes",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_unequal_sequence_lengths",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_double_het_identical",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_short_regions",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_listhet_zero_length_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_strip_whitespace_in_sequence",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_line_wrapping",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_different_sequence_names",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_empty_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_edge_cases_minlen_2",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_lowercase_to_mask_char",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_missing_snp_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_minlen_1_reports_all_bases",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_custom_minlen_3",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_basic_default_minlen",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_longer_kmer",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_preserve_comments_with_regions",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_stdin_with_twopass_error",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_custom_minlen_4",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_fastq_with_tab_output",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_sample_stdin_streaming_mode",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_missing_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_lowercase_sequences",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_sequences_with_ns_exact_kmer",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_fastq_input",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_empty_sequence",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_lowercase_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_minlen_zero",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_multi_sequence_mutations",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_gzip_compressed_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_basic_3mer",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_tab_and_whitespace_in_sequence_name",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_stdin",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_paired_end_detection",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_mask_n_mode",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_2mer",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_no_arguments_shows_usage",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_missing_file",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_split_more_files_than_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_split_distributes_sequences_round_robin",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_reverse_complement_strand_selection",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_different_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_very_long_homopolymer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_hpc_basic_homopolymer_compression",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_very_long_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_gzip_compressed_input",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_no_arguments_shows_usage",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_cutN_beginning_of_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_multiple_sequences_mixed_runs",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_sequence_with_only_ns",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_empty_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_single_nucleotide_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_fastq_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_sequence_shorter_than_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_flag_combination_error",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_invalid_mutation_format",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_dropse_mixed_paired_and_unpaired",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_with_custom_prefix",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_pe_trim.test_trimfq_L_with_e_interaction",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_subseq_sample.test_subseq_zero_length_regions",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_very_long_prefix",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_utilities.test_rename_single_sequence",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_min_length_filter",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_lowercase_masking",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_line_wrapping",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_tiny_window",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_different_sequence_names",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_empty_sequences",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_lowercase_to_mask_char",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_missing_snp_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_minlen_1_reports_all_bases",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_custom_minlen_4",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_missing_file",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_lowercase_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_gzip_compressed_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_different_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_very_long_homopolymer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_very_long_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_no_arguments_shows_usage",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_multiple_sequences_mixed_runs",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_empty_sequence",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_fastq_input",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_single_nucleotide_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_sequence_shorter_than_kmer",
+      "branch": "5d974fdda794",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_gc_min_length_filter",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_lowercase_masking",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_famask_line_wrapping",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_analysis.test_hety_tiny_window",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_different_sequence_names",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mergefa_empty_sequences",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_mutation_masking.test_mutfa_missing_snp_file",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_seq.test_lowercase_to_mask_char",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_minlen_1_reports_all_bases",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_custom_minlen_4",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_missing_file",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_lowercase_kmer",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_gzip_compressed_input",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_different_kmer",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_very_long_homopolymer",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_very_long_kmer",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_no_arguments_shows_usage",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_multiple_sequences_mixed_runs",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_stdin_input",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_empty_sequence",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_hrun_fastq_input",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_sequence_shorter_than_kmer",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_undocumented.test_kfreq_single_nucleotide_kmer",
+      "branch": "5d974fdda794",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    }
+  ],
+  "error_code": null,
+  "error_details": null,
+  "log": [],
+  "solution_branch": "pbconv-internal_realmax-20260913_101025-lh3__seqtk.94e7070",
+  "test_branches": [
+    "e592c32aec70",
+    "5d974fdda794"
+  ],
+  "test_branch_errors": {},
+  "executable_hash": "b852be64808473aad4937099885ed4479374a1c9ac30cdd6cac07a9651e5a557",
+  "warnings": []
+}

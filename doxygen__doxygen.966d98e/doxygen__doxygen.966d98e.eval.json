@@ -1,0 +1,4678 @@
+{
+  "test_results": [
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_or_invalid_format_specifiers[args2-expected2]",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_debug_flag_requires_known_specifier",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_x_without_config_errors_in_tmp",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_long_option_is_error[--no-such-flag]",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_long_option_is_error[--nonexistent-flag]",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_short_option_is_error",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_or_invalid_format_specifiers[args0-expected0]",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_or_invalid_format_specifiers[args3-expected3]",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_or_invalid_format_specifiers[args1-expected1]",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_repeated_g_only_creates_first_and_exits_success",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_g_default_filename_creates_Doxyfile",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_l_dash_writes_xml_to_stdout",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_s_can_prefix_g",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_g_with_filename_creates_that_file",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_l_default_filename_creates_layout_file",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_g_dash_writes_to_stdout_not_file",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_q_is_not_a_global_suppress_for_argparse_errors",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.132
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_repeated_g_only_creates_first_and_exits_success",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_g_default_filename_creates_Doxyfile",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_l_dash_writes_xml_to_stdout",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_s_can_prefix_g",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_g_with_filename_creates_that_file",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_l_default_filename_creates_layout_file",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_g_dash_writes_to_stdout_not_file",
+      "branch": "02019de415b5",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_g_default_filename_creates_Doxyfile",
+      "branch": "02019de415b5",
+      "status": "failure",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_repeated_g_only_creates_first_and_exits_success",
+      "branch": "02019de415b5",
+      "status": "failure",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_l_dash_writes_xml_to_stdout",
+      "branch": "02019de415b5",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_s_can_prefix_g",
+      "branch": "02019de415b5",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_l_default_filename_creates_layout_file",
+      "branch": "02019de415b5",
+      "status": "failure",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_g_dash_writes_to_stdout_not_file",
+      "branch": "02019de415b5",
+      "status": "failure",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_g_with_filename_creates_that_file",
+      "branch": "02019de415b5",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_help_and_version.test_v_prints_version_only_on_stdout",
+      "branch": "0c3cc937e2da",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "eval.tests.test_missing_config_error.test_nonexistent_config_file_errors_to_stderr_and_usage_to_stdout",
+      "branch": "0c3cc937e2da",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "eval.tests.test_help_and_version.test_help_exit_code_and_streams",
+      "branch": "0c3cc937e2da",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "eval.tests.test_doc_run_generates_dirs.test_doc_run_with_default_config_creates_html_and_latex_dirs",
+      "branch": "0c3cc937e2da",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "eval.tests.test_generate_config_stdout.test_generate_default_config_to_stdout_with_dash",
+      "branch": "0c3cc937e2da",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "eval.tests.test_diff_stdin.test_x_reads_config_from_stdin_when_dash_and_emits_diff",
+      "branch": "0c3cc937e2da",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "eval.tests.test_doc_run_generates_dirs.test_doc_run_with_default_config_creates_html_and_latex_dirs",
+      "branch": "0c3cc937e2da",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "eval.tests.test_generate_config_stdout.test_generate_default_config_to_stdout_with_dash",
+      "branch": "0c3cc937e2da",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_diff_stdin.test_x_reads_config_from_stdin_when_dash_and_emits_diff",
+      "branch": "0c3cc937e2da",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_doc_run_generates_dirs.test_doc_run_with_default_config_creates_html_and_latex_dirs",
+      "branch": "0c3cc937e2da",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_generate_config_stdout.test_generate_default_config_to_stdout_with_dash",
+      "branch": "0c3cc937e2da",
+      "status": "failure",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_diff_stdin.test_x_reads_config_from_stdin_when_dash_and_emits_diff",
+      "branch": "0c3cc937e2da",
+      "status": "failure",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestBasicModeDispatch.test_help_mode_short",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestBasicModeDispatch.test_help_mode",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestBasicModeDispatch.test_help_mode_question",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestBasicModeDispatch.test_version_mode_long",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestErrorHandling.test_write_mode_missing_format_specifier",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestErrorHandling.test_invalid_flag_shows_error",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestErrorHandling.test_write_mode_invalid_format",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestDefaultBehavior.test_no_arguments_shows_error_and_help",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestErrorHandling.test_update_nonexistent_config_shows_error",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestErrorHandling.test_feature_mode_missing_specifier",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestErrorHandling.test_extensions_mode_missing_format",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestBasicModeDispatch.test_version_mode_short",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestErrorHandling.test_nonexistent_config_file_shows_error",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestErrorHandling.test_write_mode_rtf_missing_filename",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestBasicModeDispatch.test_debug_help_mode",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_feature_list_emoji_mode",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_generate_config_mode_with_silent_flag",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_generate_config_mode_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_extensions_mode_rtf_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_write_mode_rtf_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestModeInteraction.test_generate_to_stdout",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_generate_layout_mode_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestModeInteraction.test_silent_flag_with_generate",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_write_mode_latex_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_write_mode_html_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestModeInteraction.test_layout_to_stdout",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestHelpConsistency.test_version_output_formats",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.142
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestHelpConsistency.test_help_output_consistency",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.173
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_feature_list_emoji_mode",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_generate_config_mode_with_silent_flag",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_extensions_mode_rtf_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_generate_config_mode_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_write_mode_rtf_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestModeInteraction.test_generate_to_stdout",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_generate_layout_mode_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestModeInteraction.test_silent_flag_with_generate",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_write_mode_latex_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_write_mode_html_recognition",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestModeInteraction.test_layout_to_stdout",
+      "branch": "8e06264b11b3",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_feature_list_emoji_mode",
+      "branch": "8e06264b11b3",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_generate_config_mode_with_silent_flag",
+      "branch": "8e06264b11b3",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_extensions_mode_rtf_recognition",
+      "branch": "8e06264b11b3",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_generate_config_mode_recognition",
+      "branch": "8e06264b11b3",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_write_mode_rtf_recognition",
+      "branch": "8e06264b11b3",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestModeInteraction.test_generate_to_stdout",
+      "branch": "8e06264b11b3",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestModeInteraction.test_silent_flag_with_generate",
+      "branch": "8e06264b11b3",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_generate_layout_mode_recognition",
+      "branch": "8e06264b11b3",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_write_mode_latex_recognition",
+      "branch": "8e06264b11b3",
+      "status": "failure",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestGenerationModes.test_write_mode_html_recognition",
+      "branch": "8e06264b11b3",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_mode_dispatch.TestModeInteraction.test_layout_to_stdout",
+      "branch": "8e06264b11b3",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[001_001_a.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[001_001_a.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[001_001_a.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[002_002_addindex.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[002_002_addindex.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[002_002_addindex.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[003_003_anchor.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[003_003_anchor.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[003_003_anchor.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[004_004_arg.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[004_004_arg.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[004_004_arg.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[005_005_attention.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[005_005_attention.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[005_005_attention.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[006_006_author.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[006_006_author.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[006_006_author.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[007_007_b.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[007_007_b.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[007_007_b.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[010_010_c.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[010_010_c.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[010_010_c.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[014_014_code.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[014_014_code.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[014_014_code.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[017_017_copyright.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[017_017_copyright.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[017_017_copyright.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[020_020_only.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[020_020_only.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[020_020_only.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[023_023_e.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[023_023_e.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[023_023_e.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[024_024_if.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[024_024_if.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[024_024_if.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[030_030_htmlinclude.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[030_030_htmlinclude.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[030_030_htmlinclude.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[031_031_image.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[031_031_image.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[031_031_image.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[033_033_internal.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[033_033_internal.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[033_033_internal.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[034_034_internal.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[034_034_internal.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[034_034_internal.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[038_038_n.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[038_038_n.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[038_038_n.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[043_043_page.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[043_043_page.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[043_043_page.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[045_045_refitem.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[045_045_refitem.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[045_045_refitem.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[050_050_verbatim.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[050_050_verbatim.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[050_050_verbatim.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[051_051_escape.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[051_051_escape.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[051_051_escape.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[052_052_tilde.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[052_052_tilde.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[052_052_tilde.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[053_053_tilde.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[053_053_tilde.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[053_053_tilde.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[056_056_latexinclude.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[056_056_latexinclude.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[056_056_latexinclude.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[065_065_tilde.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[065_065_tilde.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[065_065_tilde.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[079_079_tableofcontents.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[079_079_tableofcontents.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[079_079_tableofcontents.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[109_109_htmlcmds.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[109_109_htmlcmds.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[109_109_htmlcmds.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[110_110_backticks.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[110_110_backticks.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_doxygen_testing_suite_externalized.test_ext_internal_dox_test_via_cli[110_110_backticks.dox]",
+      "branch": "ffcc3ee94dc7",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_env_var_substitution_in_value_affects_behavior_quiet",
+      "branch": "c58dd0219241",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_invalid_boolean_value_warns_and_defaults",
+      "branch": "c58dd0219241",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_env_var_substitution_in_path_uses_HOME",
+      "branch": "c58dd0219241",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_x_noenv_disables_env_substitution",
+      "branch": "c58dd0219241",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_invalid_boolean_value_warns_and_defaults",
+      "branch": "c58dd0219241",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_env_var_substitution_in_value_affects_behavior_quiet",
+      "branch": "c58dd0219241",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_env_var_substitution_in_path_uses_HOME",
+      "branch": "c58dd0219241",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_x_noenv_disables_env_substitution",
+      "branch": "c58dd0219241",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_invalid_boolean_value_warns_and_defaults",
+      "branch": "c58dd0219241",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_env_var_substitution_in_value_affects_behavior_quiet",
+      "branch": "c58dd0219241",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_x_noenv_disables_env_substitution",
+      "branch": "c58dd0219241",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env_handling.test_env_var_substitution_in_path_uses_HOME",
+      "branch": "c58dd0219241",
+      "status": "failure",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_precedence_even_with_invalid_flag",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_mentions_stylesheet_generation_modes",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_mentions_update_config_mode",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_has_expected_intro_phrase",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_describes_multiple_usage_modes",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_mentions_rtf_extensions_mode",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_mentions_layout_file_mode_and_default_name",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_mentions_emoji_list_mode",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_developer_flags_output_structure",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_baseline_help_output_matches_fixture_except_dynamic_headers_and_paths",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_mentions_template_config_generation_mode",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_mentions_run_with_config_file_mode",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_mentions_config_comparison_modes",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "eval.tests.test_help_usage.test_help_mentions_quiet_and_version_flags_and_debug_help_hint",
+      "branch": "8512cdf3b96c",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_help_mentions_usage_patterns",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_unknown_flag_is_error",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_unknown_subcommand_like_arg_is_error",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_update_config_requires_existing_file",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_no_args_shows_usage_or_version",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_layout_generation_dash_writes_to_stdout",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_generate_config_default_name_routes_to_doxyfile_creation",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_generate_config_custom_name_routes_to_file_creation",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_layout_generation_default_name",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_version_flags_route_to_version_output",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.14
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_help_flag_equivalences",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.18
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_layout_generation_dash_writes_to_stdout",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_generate_config_default_name_routes_to_doxyfile_creation",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_generate_config_custom_name_routes_to_file_creation",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_layout_generation_default_name",
+      "branch": "8c618fb31ebb",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_generate_config_custom_name_routes_to_file_creation",
+      "branch": "8c618fb31ebb",
+      "status": "failure",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_layout_generation_dash_writes_to_stdout",
+      "branch": "8c618fb31ebb",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_generate_config_default_name_routes_to_doxyfile_creation",
+      "branch": "8c618fb31ebb",
+      "status": "failure",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_dispatch_routing.test_layout_generation_default_name",
+      "branch": "8c618fb31ebb",
+      "status": "failure",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_outputs.test_dev_flags_list_contains_known_items",
+      "branch": "db453dfa41da",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_outputs.test_invalid_flag_nonzero_and_mentions_usage_or_help",
+      "branch": "db453dfa41da",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "eval.tests.test_config_and_run.test_missing_config_file_nonzero",
+      "branch": "db453dfa41da",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "eval.tests.test_emoji.test_builtin_emoji_list_to_stdout_contains_known_tokens",
+      "branch": "db453dfa41da",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "eval.tests.test_config_and_run.test_update_config_in_place_grows_and_has_header",
+      "branch": "db453dfa41da",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "eval.tests.test_config_and_run.test_generate_config_suppressed_comments_contains_section_headers",
+      "branch": "db453dfa41da",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "eval.tests.test_config_and_run.test_generate_config_to_stdout_has_expected_header_and_tags",
+      "branch": "db453dfa41da",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "eval.tests.test_emoji.test_builtin_emoji_list_to_stdout_contains_known_tokens",
+      "branch": "db453dfa41da",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_config_and_run.test_generate_config_suppressed_comments_contains_section_headers",
+      "branch": "db453dfa41da",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_config_and_run.test_generate_config_to_stdout_has_expected_header_and_tags",
+      "branch": "db453dfa41da",
+      "status": "passed",
+      "extra": {
+        "time": 0.042
+      }
+    },
+    {
+      "name": "eval.tests.test_config_and_run.test_update_config_in_place_grows_and_has_header",
+      "branch": "db453dfa41da",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "eval.tests.test_emoji.test_builtin_emoji_list_to_stdout_contains_known_tokens",
+      "branch": "db453dfa41da",
+      "status": "failure",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_config_and_run.test_generate_config_suppressed_comments_contains_section_headers",
+      "branch": "db453dfa41da",
+      "status": "failure",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_config_and_run.test_generate_config_to_stdout_has_expected_header_and_tags",
+      "branch": "db453dfa41da",
+      "status": "failure",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "eval.tests.test_config_and_run.test_update_config_in_place_grows_and_has_header",
+      "branch": "db453dfa41da",
+      "status": "failure",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[020_test the \\\\*only and \\\\end*only commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[002_test \\\\addindex command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[077_test that namespace members are not put to file do]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[017_test \\\\copyright and \\\\date commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[011_test the \\\\interface and \\\\category command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[019_test the \\\\defgroup, \\\\addtogroup, and \\\\ingroup comm]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[070_test \\\\ref command with a variadic template functio]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[075_test argument matching in particular for unnamed t]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[097_test type bound procedures]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[006_test the \\\\author, \\\\since, and \\\\version command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[016_test the \\\\copydoc, \\\\copybrief, \\\\copydetails, and \\\\]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[043_test \\\\page, \\\\subpage, \\\\*section, \\\\paragraph, and \\\\]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[001_test the \\\\a and \\\\mainpage commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[074_test \\\\ref command in combination with const]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[056_test the \\\\latexinclude command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[091_test module procedures with arguments]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[010_test the \\\\c and \\\\p commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[025_test the \\\\example command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[081_Test termination of brief description with lists]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[048_test the \\\\showinit command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[022_test the \\\\dot and \\\\enddot commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[067_test \\\\link command with function variadic argument]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[085_test tooltip in XHTML]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[034_test the \\\\internal and \\\\endinternal commands (2)]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[065_test \\\\~ command with non default OUTPUT_LANGUAGE w]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[036_test \\\\link command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[039_test the \\\\name and \\\\short commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[028_test the \\\\f$, \\\\f[, \\\\f], \\\\f{, and \\\\f} commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[031_test the \\\\image command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[052_test \\\\~ command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[035_test \\\\invariant, \\\\pre and \\\\post commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[072_test template parameters for a type alias]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[061_test a file with unicode characters in the name]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[058_test strong enum values with the same name in diff]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[005_test \\\\attention, \\\\note, \\\\remark, \\\\warning, and \\\\pa]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[042_test the \\\\package command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[084_test <pre> in Fortran, no translation of markdown]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[018_test the \\\\def, \\\\var, \\\\fn, and \\\\typedef commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[023_test the \\\\e, \\\\em commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[087_test visibility of types in modules]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[030_test the \\\\htmlinclude command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[090_test different variants of interfaces in Fortran]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[051_test various characters that should be escaped]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[024_test the \\\\if, \\\\ifnot, \\\\elsif, \\\\else, and \\\\endif co]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[083_test for declaration and definition order independ]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[082_test for declaration and definition order independ]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[029_test the \\\\hideinitializer command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[057_test inline namespaces]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[068_test \\\\ref command with function variadic arguments]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[050_test \\\\verbatim and \\\\verbinclude commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[079_test TOC generation for an empty page]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[062_test @include{doc} command with raise option]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[037_test the \\\\msc and \\\\endmsc commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[045_test \\\\refitem, \\\\secreflist, \\\\endsecreflist]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[076_test all supported emoji characters]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[089_test visibility of variables in modules]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[066_C# property initializer]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[078_test that namespace members are put to file docs w]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[096_test inheritance over namespace works the same in ]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[004_test \\\\arg and \\\\li commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[063_test @snippet{doc} command with raise option]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[009_test the \\\\bug, \\\\deprecated, \\\\todo, \\\\test, and \\\\xre]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[033_test the \\\\internal and \\\\endinternal commands (1)]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[003_test \\\\anchor command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[007_test the \\\\b command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[073_test underlying type and strongness for an enum]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[015_test the `cond` command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[008_test \\\\brief and \\\\file command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[049_test the \\\\snippet command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[054_test the \\\\parblock command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[047_test the \\\\result, \\\\return, and \\\\returns commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[071_test that enum values in anonymous namespaces prod]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[093_don't show interfaces inside routines except for a]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[094_test old style fortran without modules]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[053_test \\\\~ command with non default OUTPUT_LANGUAGE]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[060_test the <details> and <summary> commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[092_test different variants of interfaces in Fortran]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.108
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[046_test the \\\\related, \\\\relatedalso, \\\\see, and \\\\sa com]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.108
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[086_test different HTML style tags]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.109
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[032_test the \\\\include and \\\\includelineno commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[059_test if A<B>::C within backticks is properly handl]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[021_test the \\\\dontinclude, \\\\skip, \\\\until, \\\\skipline, \\\\]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[041_test the \\\\overload command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[026_test the \\\\exception, \\\\param, and \\\\tparam commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[044_test the \\\\(public|protected|private)section comman]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[055_test markdown parsing]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[014_test the \\\\code command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[064_test linking to the cast operator with and without]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[080_allow linking to private virtual functions]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.108
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[069_test \\\\link command with a variadic template functi]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[027_test the \\\\extends, \\\\implements, \\\\memberof, \\\\privat]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[088_test visibility of variables in modules]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[013_test the \\\\class and \\\\headerfile commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[040_test the \\\\namespace command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[038_test the \\\\n command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[095_test inheritance in Fortran]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[020_test the \\\\*only and \\\\end*only commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[019_test the \\\\defgroup, \\\\addtogroup, and \\\\ingroup comm]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[075_test argument matching in particular for unnamed t]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[077_test that namespace members are not put to file do]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[010_test the \\\\c and \\\\p commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.056
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[017_test \\\\copyright and \\\\date commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.052
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[016_test the \\\\copydoc, \\\\copybrief, \\\\copydetails, and \\\\]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[002_test \\\\addindex command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[043_test \\\\page, \\\\subpage, \\\\*section, \\\\paragraph, and \\\\]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[006_test the \\\\author, \\\\since, and \\\\version command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.052
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[097_test type bound procedures]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.052
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[070_test \\\\ref command with a variadic template functio]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.052
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[056_test the \\\\latexinclude command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[091_test module procedures with arguments]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[048_test the \\\\showinit command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[011_test the \\\\interface and \\\\category command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[061_test a file with unicode characters in the name]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[031_test the \\\\image command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[074_test \\\\ref command in combination with const]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.054
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[065_test \\\\~ command with non default OUTPUT_LANGUAGE w]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[085_test tooltip in XHTML]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[036_test \\\\link command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[022_test the \\\\dot and \\\\enddot commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[028_test the \\\\f$, \\\\f[, \\\\f], \\\\f{, and \\\\f} commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[058_test strong enum values with the same name in diff]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[067_test \\\\link command with function variadic argument]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[025_test the \\\\example command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[052_test \\\\~ command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[087_test visibility of types in modules]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[084_test <pre> in Fortran, no translation of markdown]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[035_test \\\\invariant, \\\\pre and \\\\post commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[090_test different variants of interfaces in Fortran]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[081_Test termination of brief description with lists]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[057_test inline namespaces]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[039_test the \\\\name and \\\\short commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[051_test various characters that should be escaped]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[023_test the \\\\e, \\\\em commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[001_test the \\\\a and \\\\mainpage commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[029_test the \\\\hideinitializer command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[005_test \\\\attention, \\\\note, \\\\remark, \\\\warning, and \\\\pa]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[034_test the \\\\internal and \\\\endinternal commands (2)]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[080_allow linking to private virtual functions]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[079_test TOC generation for an empty page]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[062_test @include{doc} command with raise option]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[050_test \\\\verbatim and \\\\verbinclude commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[024_test the \\\\if, \\\\ifnot, \\\\elsif, \\\\else, and \\\\endif co]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[068_test \\\\ref command with function variadic arguments]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[042_test the \\\\package command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[086_test different HTML style tags]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[021_test the \\\\dontinclude, \\\\skip, \\\\until, \\\\skipline, \\\\]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[072_test template parameters for a type alias]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[053_test \\\\~ command with non default OUTPUT_LANGUAGE]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[083_test for declaration and definition order independ]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[089_test visibility of variables in modules]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[018_test the \\\\def, \\\\var, \\\\fn, and \\\\typedef commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[082_test for declaration and definition order independ]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[049_test the \\\\snippet command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[007_test the \\\\b command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[037_test the \\\\msc and \\\\endmsc commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[093_don't show interfaces inside routines except for a]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[045_test \\\\refitem, \\\\secreflist, \\\\endsecreflist]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[041_test the \\\\overload command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[026_test the \\\\exception, \\\\param, and \\\\tparam commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[047_test the \\\\result, \\\\return, and \\\\returns commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[054_test the \\\\parblock command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[076_test all supported emoji characters]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[015_test the `cond` command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[096_test inheritance over namespace works the same in ]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[032_test the \\\\include and \\\\includelineno commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[008_test \\\\brief and \\\\file command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[088_test visibility of variables in modules]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[063_test @snippet{doc} command with raise option]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[009_test the \\\\bug, \\\\deprecated, \\\\todo, \\\\test, and \\\\xre]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[064_test linking to the cast operator with and without]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[071_test that enum values in anonymous namespaces prod]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[073_test underlying type and strongness for an enum]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[046_test the \\\\related, \\\\relatedalso, \\\\see, and \\\\sa com]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[030_test the \\\\htmlinclude command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[092_test different variants of interfaces in Fortran]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[066_C# property initializer]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[044_test the \\\\(public|protected|private)section comman]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[060_test the <details> and <summary> commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[055_test markdown parsing]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[078_test that namespace members are put to file docs w]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[003_test \\\\anchor command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[094_test old style fortran without modules]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[033_test the \\\\internal and \\\\endinternal commands (1)]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[069_test \\\\link command with a variadic template functi]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[004_test \\\\arg and \\\\li commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[095_test inheritance in Fortran]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[013_test the \\\\class and \\\\headerfile commands]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[059_test if A<B>::C within backticks is properly handl]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[040_test the \\\\namespace command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[038_test the \\\\n command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[014_test the \\\\code command]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[027_test the \\\\extends, \\\\implements, \\\\memberof, \\\\privat]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[020_test the \\\\*only and \\\\end*only commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[017_test \\\\copyright and \\\\date commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[002_test \\\\addindex command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[011_test the \\\\interface and \\\\category command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[097_test type bound procedures]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[075_test argument matching in particular for unnamed t]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[070_test \\\\ref command with a variadic template functio]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[074_test \\\\ref command in combination with const]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[056_test the \\\\latexinclude command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.056
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[010_test the \\\\c and \\\\p commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.054
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[019_test the \\\\defgroup, \\\\addtogroup, and \\\\ingroup comm]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[048_test the \\\\showinit command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[006_test the \\\\author, \\\\since, and \\\\version command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[077_test that namespace members are not put to file do]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[081_Test termination of brief description with lists]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.058
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[025_test the \\\\example command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.058
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[061_test a file with unicode characters in the name]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[067_test \\\\link command with function variadic argument]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[091_test module procedures with arguments]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.057
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[090_test different variants of interfaces in Fortran]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[034_test the \\\\internal and \\\\endinternal commands (2)]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.056
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[036_test \\\\link command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[039_test the \\\\name and \\\\short commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[028_test the \\\\f$, \\\\f[, \\\\f], \\\\f{, and \\\\f} commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[051_test various characters that should be escaped]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[029_test the \\\\hideinitializer command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[087_test visibility of types in modules]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[058_test strong enum values with the same name in diff]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[086_test different HTML style tags]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[043_test \\\\page, \\\\subpage, \\\\*section, \\\\paragraph, and \\\\]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.054
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[031_test the \\\\image command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[021_test the \\\\dontinclude, \\\\skip, \\\\until, \\\\skipline, \\\\]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[065_test \\\\~ command with non default OUTPUT_LANGUAGE w]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[063_test @snippet{doc} command with raise option]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[030_test the \\\\htmlinclude command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[085_test tooltip in XHTML]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[049_test the \\\\snippet command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[083_test for declaration and definition order independ]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[026_test the \\\\exception, \\\\param, and \\\\tparam commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[022_test the \\\\dot and \\\\enddot commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[004_test \\\\arg and \\\\li commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[095_test inheritance in Fortran]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[080_allow linking to private virtual functions]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[053_test \\\\~ command with non default OUTPUT_LANGUAGE]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[054_test the \\\\parblock command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[071_test that enum values in anonymous namespaces prod]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[059_test if A<B>::C within backticks is properly handl]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[013_test the \\\\class and \\\\headerfile commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[078_test that namespace members are put to file docs w]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[055_test markdown parsing]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[096_test inheritance over namespace works the same in ]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[089_test visibility of variables in modules]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[082_test for declaration and definition order independ]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[007_test the \\\\b command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[024_test the \\\\if, \\\\ifnot, \\\\elsif, \\\\else, and \\\\endif co]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[057_test inline namespaces]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[079_test TOC generation for an empty page]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[069_test \\\\link command with a variadic template functi]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[047_test the \\\\result, \\\\return, and \\\\returns commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[094_test old style fortran without modules]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[027_test the \\\\extends, \\\\implements, \\\\memberof, \\\\privat]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[093_don't show interfaces inside routines except for a]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[084_test <pre> in Fortran, no translation of markdown]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[037_test the \\\\msc and \\\\endmsc commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[023_test the \\\\e, \\\\em commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[073_test underlying type and strongness for an enum]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[068_test \\\\ref command with function variadic arguments]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[041_test the \\\\overload command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[060_test the <details> and <summary> commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[033_test the \\\\internal and \\\\endinternal commands (1)]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[015_test the `cond` command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[003_test \\\\anchor command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[032_test the \\\\include and \\\\includelineno commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[005_test \\\\attention, \\\\note, \\\\remark, \\\\warning, and \\\\pa]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[035_test \\\\invariant, \\\\pre and \\\\post commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[062_test @include{doc} command with raise option]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[009_test the \\\\bug, \\\\deprecated, \\\\todo, \\\\test, and \\\\xre]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[018_test the \\\\def, \\\\var, \\\\fn, and \\\\typedef commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[045_test \\\\refitem, \\\\secreflist, \\\\endsecreflist]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[066_C# property initializer]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[042_test the \\\\package command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[072_test template parameters for a type alias]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[008_test \\\\brief and \\\\file command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[016_test the \\\\copydoc, \\\\copybrief, \\\\copydetails, and \\\\]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[076_test all supported emoji characters]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[064_test linking to the cast operator with and without]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[050_test \\\\verbatim and \\\\verbinclude commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[044_test the \\\\(public|protected|private)section comman]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[046_test the \\\\related, \\\\relatedalso, \\\\see, and \\\\sa com]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[092_test different variants of interfaces in Fortran]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[040_test the \\\\namespace command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[038_test the \\\\n command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[052_test \\\\~ command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[014_test the \\\\code command]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[001_test the \\\\a and \\\\mainpage commands]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[088_test visibility of variables in modules]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[099_test enum field association]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.054
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[115_test the @requirement, @satisfies and @verifies co]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.054
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[111_test autolink in various environments]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.052
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[113_test markdown strict setting]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[107_test use of define inside enums]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[112_test multi-line alias expansion in different comme]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[102_test noexcept with expression and nodiscard and co]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[103_test if #include inside a class body will include ]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[114_test C++20 concept with embedded doxygen style com]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[104_test typedef deduplication that properly considers]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[098_test abstract types]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[110_test various forms of backtick handling]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[108_check that modifiers are correctly parsed with tra]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[100_test documentation entry association with groups]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[105_test type resolution with combinations of using/na]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[101_test static assertions]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[106_test implicit and explicit template specialization]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[109_test the various HTML tags supported by doxygen]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.053
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[099_test enum field association]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[115_test the @requirement, @satisfies and @verifies co]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[111_test autolink in various environments]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[113_test markdown strict setting]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[107_test use of define inside enums]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[112_test multi-line alias expansion in different comme]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[103_test if #include inside a class body will include ]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[102_test noexcept with expression and nodiscard and co]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[114_test C++20 concept with embedded doxygen style com]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[104_test typedef deduplication that properly considers]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[110_test various forms of backtick handling]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[098_test abstract types]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[108_check that modifiers are correctly parsed with tra]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[100_test documentation entry association with groups]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[101_test static assertions]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[105_test type resolution with combinations of using/na]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[106_test implicit and explicit template specialization]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[109_test the various HTML tags supported by doxygen]",
+      "branch": "c48776220edb",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[099_test enum field association]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[111_test autolink in various environments]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[115_test the @requirement, @satisfies and @verifies co]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[113_test markdown strict setting]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[107_test use of define inside enums]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[103_test if #include inside a class body will include ]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[104_test typedef deduplication that properly considers]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[114_test C++20 concept with embedded doxygen style com]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[112_test multi-line alias expansion in different comme]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[108_check that modifiers are correctly parsed with tra]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[098_test abstract types]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[110_test various forms of backtick handling]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[102_test noexcept with expression and nodiscard and co]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[101_test static assertions]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[100_test documentation entry association with groups]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[105_test type resolution with combinations of using/na]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[106_test implicit and explicit template specialization]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_doxygen.test_doxygen[109_test the various HTML tags supported by doxygen]",
+      "branch": "c48776220edb",
+      "status": "failure",
+      "extra": {
+        "time": 0.054
+      }
+    }
+  ],
+  "error_code": null,
+  "error_details": null,
+  "log": [],
+  "solution_branch": "pbconv-internal_realmax-20260914_012740-doxygen__doxygen.966d98e",
+  "test_branches": [
+    "02019de415b5",
+    "0c3cc937e2da",
+    "8e06264b11b3",
+    "ffcc3ee94dc7",
+    "c58dd0219241",
+    "8512cdf3b96c",
+    "8c618fb31ebb",
+    "db453dfa41da",
+    "c48776220edb"
+  ],
+  "test_branch_errors": {},
+  "executable_hash": "75b2c231271ad2666297f355ea925b29e754dcf5ac3c72553789cbefb2f24af9",
+  "warnings": []
+}

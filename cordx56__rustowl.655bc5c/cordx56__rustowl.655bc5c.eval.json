@@ -1,0 +1,5038 @@
+{
+  "test_results": [
+    {
+      "name": "tests.test_clean_errors.test_help_command_main",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_version_flag_long",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_help_subcommand_completions",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_dot_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_no_cargo_toml_graceful",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_help_output",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_version_flag_long",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_help_flag",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_with_extra_arguments_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_completions_invalid_shell",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_completions_powershell_generates_valid_script",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_version_with_quiet_flag",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_help_subcommand_toolchain_uninstall",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_help_subcommand_check",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_help_command_with_subcommand_name",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_unknown_subcommand_flag_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_completions_nushell_generates_valid_script",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_unicode_in_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_completions_zsh_generates_valid_script",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_help_toolchain_install",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_bash_contains_flags",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_help_subcommand_check",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_empty_cargo_project_clean",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_all_features_flag_without_path_fails",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_elvish_output_and_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_very_long_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_help_flag_on_main",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_shell_name_case_sensitivity",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_toolchain_subcommand_typo_suggests_corrections",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_relative_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_directory_without_cargo_toml_fails",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_clean_rejects_extra_arguments",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_bash_complete_command_exists",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_version_with_rustowl_cache_false",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_fish_includes_all_commands",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_version_with_rustowl_cache_true",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_check_subcommand_unknown_flag_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_unknown_flag_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_fish_output_and_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_directory_with_invalid_cargo_toml",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_all_shells_exit_zero_deterministically",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_preserves_other_target_directories",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_powershell_output_and_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_empty_rustowl_cache_dir_value",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_unknown_flag_returns_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_empty_directory_fails",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_bash_output_and_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_output_goes_to_stdout_not_stderr",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_multiple_quiet_flags",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_nushell_includes_flag_documentation",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_powershell_includes_namespace_declarations",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_quiet_flag_prefix_removal",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_version_exact_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_zsh_output_and_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_zsh_includes_arguments_command",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_invalid_shell_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_fish_uses_using_subcommand_condition",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_completions_invalid_shell_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_empty_string_subcommand_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_rustowl_cache_dir_with_relative_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_help_subcommand_check_with_cache_vars",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_help_subcommand_toolchain",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_empty_string_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_removes_target_owl_directory",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_environment.test_multiple_env_vars_inheritance",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_unknown_subcommand_format_consistency",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_dir_home_expansion",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_short_flags_combined",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_elvish_uses_str_module",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_value_with_leading_trailing_whitespace",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_enabled_with_various_truthy_values",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_dir_with_special_characters",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_help_flag_long",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_multiple_invalid_args_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_completions_empty_string_arg_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_completions_fish_unaffected_by_cache_settings",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_disabled_with_custom_dir",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_check_flag_typo_targets_suggests_correction",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_toolchain_uninstall_rejects_extra_args",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_clean_rejects_extra_arguments",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_nushell_output_and_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_version_with_rustowl_cache_arbitrary_value",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_completions_bash_output_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_help_subcommand_clean",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_empty_string_shell_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_dir_absolute_vs_relative_consistency",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_version_flag_rejects_subcommands",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_dir_with_trailing_slash",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_nushell_includes_toolchain_subcommands",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_completions_bash_generates_valid_script",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_bash_golden_exact",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_help_subcommand_toolchain",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_check_rejects_multiple_path_arguments",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_version_flag_short",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_bash_contains_commands",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_all_targets_flag_without_path_fails",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_version_consistency_across_all_cache_configurations",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_case_sensitive_powershell_mixed",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_help_takes_precedence_over_version",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_file_instead_of_directory",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_help_subcommand_clean",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_completions_missing_shell_argument_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_special_boolean_like_values",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_unknown_global_flag_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_no_arguments_lsp_mode_message",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_numeric_values",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_dotdot_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_invalid_subcommand_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_output_on_nonexistent_contains_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_toolchain_install_rejects_unknown_flags",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_help_flag_shows_usage",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_zsh_golden_exact",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_zsh_includes_autoload",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_fish_golden_exact",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_toolchain_invalid_subcommand_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_help_toolchain_uninstall",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_multiple_times_in_row",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_special_characters_in_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_help_subcommand_completions",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_fish_uses_needs_command_condition",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_version_multiple_quiet_flags",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_invalid_command_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_empty_string_shell_argument_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_help_subcommand_toolchain_with_cache_vars",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_completions_invalid_shell_lists_valid_options",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_elvish_golden_exact",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_completions_missing_required_arg_helpful_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_rust_file_without_extension",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_elvish_includes_complex_candidate",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_powershell_includes_scriptblock",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_flags_order_independence_quiet_version",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_elvish_uses_builtin_module",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_version_with_quiet_flag",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_dir_very_long_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_powershell_golden_exact",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_version_with_rustowl_cache_one",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_flag_typo_detected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_version_flag_short",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_toolchain_uninstall_typo_suggests_both_subcommands",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_help_flag_on_clean",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_nonexistent_path_fails",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_completions_fish_generates_valid_script",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_clean_rejects_multiple_extra_arguments",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_bash_includes_subcommands",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_deeply_nested_owl_directory",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_environment.test_default_version_without_env_vars",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_multiple_commands_with_consistent_cache_behavior",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_dir_with_dot_segments",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_version_with_rustowl_cache_zero",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_value_with_tabs_and_newlines",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_case_sensitive_bash_uppercase",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_both_cache_env_vars_together",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_rustowl_cache_dir_with_nonexistent_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_completions_elvish_generates_valid_script",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_completions_rejects_extra_arguments",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_check_flag_typo_suggests_correction",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_zsh_includes_version_flag",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_bash_includes_toolchain_subcommands",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_nushell_golden_exact",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_short_flags_combined_reversed_order",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_completions_bash_generates_valid_script",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_completions_all_shells_generate_output",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_check_unknown_flag_with_helpful_tip",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_version_with_rustowl_cache_dir_custom_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_help_flag_short",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_completions_zsh_unaffected_by_cache_settings",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_nushell_includes_path_types",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_missing_argument_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_check_usage_shows_active_flags",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_help_check_rejects_extra_flags",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_quiet_flag_before_completions_succeeds",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_dir_with_spaces_in_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_unknown_global_flag_format_and_location",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_whitespace_only_command_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_clean_with_various_cache_dir_settings",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_help_subcommand_toolchain_install",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_global_flag_after_subcommand_completions_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_completions_shell_typo_fish_suggests_correction",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_toolchain_install_skip_flag_repeated_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_check_flag_repetition_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_empty_rustowl_cache_value",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_empty_path_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_disabled_with_multiple_values",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_stdio_flag_repeated_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_symlink_to_nonexistent",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_quiet_flag_before_clean_succeeds",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_main_command_typo_completions_suggests_correction",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_help_flag_repeated_shows_help",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_path_between_flags_accepted",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_combined_short_flags_quiet_version_quiet_interspersed",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_completions.test_completions_case_sensitive_nushell_capitalized",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_toolchain_install_mixed_valid_invalid_flags",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_dir_with_unicode_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli_basics.test_toolchain_with_no_subcommand_exits_silently",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_quiet_flag_ignored_by_toolchain_install_help",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_quiet_flag_before_check_succeeds_but_fails_analysis",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_toolchain_install_path_requires_value",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_dir_with_symlink",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_version_flag_repeated_short_form_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_help_flag_ignores_quiet_flag_order_1",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_global_flag_after_subcommand_check_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_specific_flag_on_wrong_command",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_flags_order_independence",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_global_flag_after_toolchain_install_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_version_flag_repeated_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_completions_case_sensitive_validation",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_environment.test_cache_env_var_mixed_case_values",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_version_flag_repeated_long_form_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_main_command_typo_clean_suggests_correction",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_quiet_flag_ignored_by_check_subcommand_help",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_integration_workflows.test_workflow_multiple_projects_different_dirs",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_quiet_flag_ignored_by_completions_help",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_stdio_flag_with_command_executes_command_not_lsp",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_flags_and_path_all_positions_produce_same_result",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_main_command_typo_check_suggests_correction",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_help_with_unknown_command_shows_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_stdio_flag_with_clean_help_shows_help",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_unknown_flag_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_toolchain_install_flag_repetition_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_quiet_flag_with_check_flags_succeeds",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_version_flag_mixed_short_long_repetition_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_completions_shell_with_special_chars_suggests_correction",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_integration_workflows.test_workflow_version_then_help_then_work",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_rejects_multiple_path_arguments",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_all_features_repeated_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_help_flag_ignores_quiet_flag_order_2",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_flag_like_path_with_double_dash_separator",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_global_flag_after_subcommand_clean_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_flag_on_toolchain_install_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_empty_string_as_command_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_toolchain_install_path_repeated_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_toolchain_install_empty_path_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_all_targets_repeated_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_messages.test_command_with_special_characters_provides_suggestion",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_integration_workflows.test_workflow_completions_generation_multiple_shells",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_flags_after_path_accepted",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_quiet_flag_ignored_by_toolchain_uninstall_help",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_flag_on_completions_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_integration_workflows.test_workflow_toolchain_install_uninstall_reinstall",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_quiet_flag_ignored_by_toolchain_subcommand_help",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_combined_short_flags_version_first_quiet_after",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_stdio_flag_semantics_no_command_starts_lsp",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_stdio_flag_with_check_help_shows_help",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_integration_workflows.test_workflow_help_for_all_subcommands",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_combined_short_flags_multiple_quiet_with_version",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_toolchain_uninstall_rejects_extra_arguments",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_help_flag_ignores_multiple_quiet_flags",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_clean_subcommand_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_consistent_option_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_error_check_invalid_flag_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_shells.test_case_sensitive_shell_matching",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_shells.test_completions_subcommand_requires_shell",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_shells.test_completions_minimum_output_size",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_request_before_initialize_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_response_id_matches_request",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_initialize_with_workspace",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "tests.test_seed.test_help_output",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_shells.test_all_shells_exit_immediately_no_hang",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_unknown_method_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_shells.test_shell_error_lists_all_six_possible_values",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_initialize_basic",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_shells.test_fish_completion_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_shells.test_bash_completion_function_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_shells.test_shell_name_with_prefix_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_shells.test_zsh_completion_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_to_regular_file_not_directory",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_shells.test_powershell_completion_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_shells.test_elvish_completion_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_reports_progress_messages",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_uninstall_with_quiet_flag",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_uninstall_when_nothing_installed",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_uninstall_quiet_mode",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_creates_nested_directories",
+      "branch": "db975e1644f7",
+      "status": "skipped",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_and_verify_sysroot_structure",
+      "branch": "db975e1644f7",
+      "status": "skipped",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_uninstall_actually_removes_sysroot",
+      "branch": "db975e1644f7",
+      "status": "skipped",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_empty_path_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_help_shows_both_options",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_uninstall_help",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_subcommand_without_action_is_noop",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_consistent_exit_codes",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_reports_component_names",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_initialized_notification",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.303
+      }
+    },
+    {
+      "name": "tests.test_shells.test_shell_with_special_characters_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_version_flag_shows_version",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_uninstall_with_multiple_quiet_flags",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_did_change_notification",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.304
+      }
+    },
+    {
+      "name": "tests.test_shells.test_completions_help_before_shell_argument",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_shutdown_sequence",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.303
+      }
+    },
+    {
+      "name": "tests.test_shells.test_shell_name_with_newline_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_unknown_flag_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_case_sensitive_flags",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_uninstall_with_extra_args_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_uninstall_with_symlinks_in_sysroot",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_help_command_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_uninstall_removes_sysroot_when_present",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_uninstall_idempotent_on_nonexistent_sysroot",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_starts_downloading_first_component",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_uninstall_multiple_times_in_sequence",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_uninstall_when_rustowl_dir_completely_missing",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_uninstall_removes_nested_sysroot_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_uninstall_with_readonly_files_in_sysroot",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_uninstall_with_empty_directories_in_sysroot",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_recursive_read_dir_with_deeply_nested_empty_directories",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_uninstall_preserves_other_sysroot_versions",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_setup_rustowl_toolchain_skip_flag_prevents_download",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_get_executable_path_not_in_sysroot_or_same_dir",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_check_command_with_incomplete_sysroot_missing_bin",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_fallback_runtime_dir_uses_home_directory",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_check_with_valid_sysroot_finds_executables",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_check_command_without_project_path_uses_current_dir",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_check_with_executable_in_same_directory_as_binary",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_uninstall_with_symlinks_in_sysroot",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_executable_path_same_directory_fallback",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_toolchain_real_install.test_reinstall_over_existing_installation",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_toolchain_real_install.test_install_then_uninstall_idempotency",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_toolchain_real_install.test_check_command_triggers_auto_install",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_zero_content_length",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.603
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_content_length_exact",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.603
+      }
+    },
+    {
+      "name": "tests.test_shells.test_uppercase_shell_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_shells.test_shell_with_whitespace_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_large_content_length",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.603
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_did_open_notification",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.604
+      }
+    },
+    {
+      "name": "tests.test_shells.test_shell_partial_name_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_shells.test_similar_invalid_names_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_all_features_flag_without_path_fails",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_relative_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_empty_directory_fails",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_directory_with_invalid_cargo_toml",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_directory_without_cargo_toml_fails",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_empty_string_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_preserves_other_target_directories",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_quiet_flag_still_fails_on_invalid_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_no_arguments_uses_current_dir",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_binary_file_fails",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_non_rust_file_fails",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_combined_flags_without_path_fails",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_removes_target_owl_directory",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_multiple_times_in_row",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_deeply_nested_owl_directory",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_empty_path_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_integration_workflows.test_workflow_multiple_projects_different_dirs",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_toolchain_install_empty_path_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_integration_workflows.test_workflow_toolchain_install_uninstall_reinstall",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_lsp_analyze.test_analyze_with_all_features_flag",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 1.109
+      }
+    },
+    {
+      "name": "tests.test_lsp_analyze.test_analyze_with_all_targets_flag",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 1.107
+      }
+    },
+    {
+      "name": "tests.test_lsp_analyze.test_analyze_with_both_flags",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 1.105
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_error_shows_correct_usage_line_for_subcommand",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_workspace_folders_capability",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_empty_path_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_toolchain_real_install.test_reinstall_over_existing_installation",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_toolchain_real_install.test_install_then_uninstall_idempotency",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_toolchain_real_install.test_check_command_triggers_auto_install",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_lsp_analyze.test_target_path_method_returns_correct_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 1.606
+      }
+    },
+    {
+      "name": "tests.test_lsp_analyze.test_workspace_path_returns_some_with_metadata",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 1.606
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_version_long_flag_exact_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_empty_string_path",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_check.test_check_with_whitespace_only_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_preserves_other_target_directories",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_quiet_flag_without_version_no_effect",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_removes_target_owl_directory",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_idempotent_no_target_owl",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_multiple_times_in_row",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_clean_errors.test_clean_deeply_nested_owl_directory",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_stdio_flag_with_help_shows_help",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_stdio_flag_with_version_shows_version",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_check_empty_path_rejected",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_integration_workflows.test_workflow_multiple_projects_different_dirs",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_flag_interactions.test_toolchain_install_empty_path_rejected",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_integration_workflows.test_workflow_toolchain_install_uninstall_reinstall",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_with_work_done_progress_capability",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.103
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_with_work_done_progress_false",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.103
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_error_invalid_flag_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_with_invalid_root_uri",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.103
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_initialize_with_client_capabilities",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_completions_subcommand_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_multiple_initialize_calls",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.103
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_with_window_but_no_work_done_progress",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.103
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_with_invalid_workspace_folder_uri",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.103
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_rustowl_cursor_invalid_uri_scheme",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.105
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_without_capabilities_field",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.104
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_output_uses_unix_line_endings_help",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_error_invalid_enum_value_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_completions_nushell_exact_output",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_output_uses_unix_line_endings_completions",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_completions_elvish_exact_output",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_workspace_folder_not_a_cargo_project",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.104
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_toolchain_uninstall_subcommand_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_rustowl_cursor_before_analysis",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.104
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_error_includes_usage_hint",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_rustowl_cursor_nonexistent_file",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.105
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_cursor_request_empty_position",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.104
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_save_capability_supported",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.103
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_with_empty_capabilities",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.103
+      }
+    },
+    {
+      "name": "tests.test_seed.test_binary_exists",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_analyze_request_with_invalid_params",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.105
+      }
+    },
+    {
+      "name": "tests.test_shells.test_completions_with_extra_flags_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_custom_method_rustowl_analyze",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.105
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_missing_content_length",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.102
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_invalid_jsonrpc_version",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.101
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_multiple_shutdown_calls",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.204
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_all_commands_have_description",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_open_non_rust_file",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.305
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_workspace_folders_add_invalid_uri",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.303
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_open_directory_uri",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.304
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_with_process_id",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.303
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_with_zero_process_id",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.303
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_workspace_folders_empty_event",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.304
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_open_nonexistent_file",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.304
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_open_with_invalid_uri",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.304
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_sections_consistent_across_commands",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_with_null_process_id_explicitly",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.304
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_completions_fish_exact_output",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_completions_powershell_exact_output",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_with_empty_content_changes",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.304
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_usage_line_format_consistent",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_error_format_consistency_across_error_types",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_empty_path_rejected",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_version_format_exact_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_workspace_folders_add_nonexistent_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.305
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_stderr_vs_stdout_separation",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_toolchain_install_subcommand_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_open_with_missing_languageId",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.305
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_open_nonexistent_rust_file",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.304
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_error_output_exclusive_to_stderr",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialized_notification",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.305
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_incremental_mode",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.305
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_workspace_folders_with_removed",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.305
+      }
+    },
+    {
+      "name": "tests.test_shells.test_mixedcase_shell_rejected_with_suggestion",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_initialize_with_workspace_folders",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_text_document_sync_capability",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_rooturi_already_in_workspace_folders",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.405
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_initialize_with_both_root_uri_and_workspace_folders",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.405
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_error_invalid_flag_to_stderr",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_rustowl_analyze_custom_request",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.404
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_error_missing_required_argument_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_workspace_folders_add_valid",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.405
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_shutdown_after_did_change",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.404
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_output_uses_unix_line_endings_version",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_workspace_folders_with_mix_valid_invalid",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.405
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_completions_bash_valid_syntax",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_lsp_server_startup_message_to_stderr",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_completions_bash_exact_output",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_open_file_in_subdirectory",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.405
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_check_options_have_descriptions",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_shutdown_during_active_analysis",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.405
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_completions_help_lists_all_shells",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_field_present_in_cursor_response",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_path_field_always_present",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_open_duplicate_file",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.505
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_completions_no_log_messages_in_output",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_workspace_add_same_folder_twice",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.505
+      }
+    },
+    {
+      "name": "tests.test_shells.test_all_valid_shells_produce_output",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_toolchain_real_install.test_reinstall_over_existing_installation",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_toolchain_real_install.test_install_then_uninstall_idempotency",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_toolchain_real_install.test_check_command_triggers_auto_install",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_initialize_stderr_message",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.302
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_shutdown_clears_running_processes",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.605
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_open_rust_file_triggers_analysis",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.606
+      }
+    },
+    {
+      "name": "tests.test_lsp_analyze.test_workspace_path_returns_none_without_metadata",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.606
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_toolchain_subcommand_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_long_flag_exact_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_clears_analysis",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.606
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_help_check_subcommand_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_multiple_workspace_folders_in_initialize",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.605
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_error_messages_start_with_lowercase_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_open_then_immediate_did_change",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.605
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_without_did_open",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.606
+      }
+    },
+    {
+      "name": "tests.test_shells.test_invalid_shell_name_error_message",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_shells.test_numeric_shell_name_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_utils.test_range_new_rejects_invalid_ranges",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.105
+      }
+    },
+    {
+      "name": "tests.test_utils.test_loc_arithmetic_with_boundary_values",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_multiple_did_change_in_sequence",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.656
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_completions_all_shells_to_stdout",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_multiple_requests_sequence",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_multiple_versions_rapid_sequence",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.767
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_close_notification",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.806
+      }
+    },
+    {
+      "name": "tests.test_shells.test_unicode_in_shell_name_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_before_any_analysis_attempt",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_analyze_empty_project_no_cargo_toml",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.105
+      }
+    },
+    {
+      "name": "tests.test_seed.test_invalid_command",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_add_analyze_target_duplicate_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.105
+      }
+    },
+    {
+      "name": "tests.test_shells.test_shell_completions_contain_command_names",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_enum_all_variants_valid",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.107
+      }
+    },
+    {
+      "name": "tests.test_toolchain.test_toolchain_install_to_invalid_file_path",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_analyze.test_single_file_analysis_without_cargo_project",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.607
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_completions_zsh_exact_output",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_workspace_folders_remove_operation",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.606
+      }
+    },
+    {
+      "name": "tests.test_shells.test_empty_shell_argument_error",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_multiple_consecutive_analyze_requests",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.707
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_rustowl_cursor_position_at_end_of_file",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.104
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_cursor_with_windows_line_endings",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 4.107
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_rustowl_cursor_after_successful_analysis",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 4.106
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_rustowl_analyze_then_cursor",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 4.107
+      }
+    },
+    {
+      "name": "tests.test_output_format.test_version_with_quiet_flag_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_with_multiple_files_in_project",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 4.108
+      }
+    },
+    {
+      "name": "tests.test_shells.test_nushell_completion_structure",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_did_change_workspace_folders_multiple_add",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.504
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_error_on_invalid_project",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.107
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_is_analyzed_correlation",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.107
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_missing_content_length",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.101
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_invalid_jsonrpc_version",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 2.101
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_cursor_file_that_exists_but_unreadable_permissions",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.105
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_with_nonexistent_file",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.106
+      }
+    },
+    {
+      "name": "tests.test_progress.test_multiple_cursor_requests_consistent_status",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.608
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_cursor_with_multi_byte_utf8_characters",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 4.107
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_cursor_after_analysis_completes_with_results",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 5.108
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_decorations_field_correlation",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.106
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_finished_after_successful_analysis",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.106
+      }
+    },
+    {
+      "name": "tests.test_lsp_backend.test_analysis_with_work_done_progress_token",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 6.109
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_transitions_auto_analyze_on_init",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.607
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_missing_content_length",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 2.101
+      }
+    },
+    {
+      "name": "tests.test_lsp_basic.test_invalid_jsonrpc_version",
+      "branch": "db975e1644f7",
+      "status": "failure",
+      "extra": {
+        "time": 2.101
+      }
+    },
+    {
+      "name": "tests.test_shells.test_multiple_shell_arguments_rejected",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_progress.test_status_field_serialization_format",
+      "branch": "db975e1644f7",
+      "status": "passed",
+      "extra": {
+        "time": 3.106
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_parse_errors_common[argv3-expected_bits3]",
+      "branch": "7b3f773c9847",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_parse_errors_common[argv0-expected_bits0]",
+      "branch": "7b3f773c9847",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_check_rejects_unknown_flag",
+      "branch": "7b3f773c9847",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_parse_errors_common[argv1-expected_bits1]",
+      "branch": "7b3f773c9847",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_toolchain_install_path_parsing[argv1-expected_bits1]",
+      "branch": "7b3f773c9847",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_toolchain_install_path_parsing[argv0-expected_bits0]",
+      "branch": "7b3f773c9847",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_parse_errors_common[argv2-expected_bits2]",
+      "branch": "7b3f773c9847",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_help_version.test_help_contains_commands_and_options",
+      "branch": "174d2e5cba98",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_help_version.test_version_stdout_and_exit_code",
+      "branch": "174d2e5cba98",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_completions.test_completions_invalid_shell_exit_2_and_message_goes_to_stdout",
+      "branch": "174d2e5cba98",
+      "status": "passed",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "eval.tests.test_completions.test_completions_bash_deterministic_and_stderr_empty",
+      "branch": "174d2e5cba98",
+      "status": "passed",
+      "extra": {
+        "time": 0.053
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandSpecificFlags.test_check_all_targets_flag",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNestedSubcommands.test_toolchain_uninstall_recognized",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandHelp.test_clean_help_shows_specific_info",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandHelp.test_check_help_shows_specific_options",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandSpecificFlags.test_toolchain_install_skip_flag",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandOrder.test_help_with_nested_subcommand",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestUnknownSubcommand.test_unknown_main_subcommand_suggests_help",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandHelp.test_toolchain_help_shows_subcommands",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestGlobalFlags.test_quiet_after_subcommand_fails",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandSpecificFlags.test_toolchain_install_path_flag",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandHelp.test_toolchain_install_help_shows_options",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandOrder.test_help_with_subcommand_name",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandHelp.test_subcommand_help_differs_from_main[check]",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandExitCodes.test_unknown_subcommand_exit_nonzero",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandArgumentValidation.test_completions_rejects_invalid_shell",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandSpecificFlags.test_check_all_features_flag",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandHelp.test_subcommand_help_differs_from_main[toolchain]",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNoSubcommand.test_no_subcommand_shows_info",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestGlobalFlags.test_help_flag_shows_help",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNestedSubcommands.test_toolchain_install_recognized",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNestedSubcommands.test_toolchain_help_works",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandExitCodes.test_missing_required_arg_exit_nonzero",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandArgumentValidation.test_check_accepts_path_argument",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandHelp.test_completions_help_shows_shell_types",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandExitCodes.test_invalid_argument_exit_nonzero",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandRecognition.test_toolchain_help_rejects_help_flag",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestUnknownSubcommand.test_unknown_toolchain_subcommand_errors",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestGlobalFlags.test_version_flag_works",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandArgumentValidation.test_completions_requires_shell_argument",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandHelp.test_subcommand_help_differs_from_main[clean]",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandHelp.test_subcommand_help_differs_from_main[completions]",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandListInHelp.test_subcommands_have_descriptions",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandRecognition.test_help_subcommand_rejects_help_flag",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestUnknownSubcommand.test_unknown_main_subcommand_errors",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestStdioFlag.test_stdio_flag_exists",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestSubcommandListInHelp.test_all_subcommands_listed_in_help",
+      "branch": "562708cfdc35",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_completions.test_ext_completions_generates_bash_script",
+      "branch": "226ed995bb9b",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_completions.test_ext_help_shows_commands_and_options",
+      "branch": "226ed995bb9b",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_env_config.test_rust_log_invalid_value_falls_back_no_error",
+      "branch": "a0af5a65abe6",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_env_config.test_rust_log_can_enable_logs_for_check",
+      "branch": "a0af5a65abe6",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_completions_help_lists_shells[elvish]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_toolchain_uninstall_help_usage",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_toolchain_install_help_documents_path_and_skip_flag",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_check_help_documents_args_and_flags[--all-targets]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_edge_cases.test_double_dash_separator_treats_help_as_subcommand_error",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_completions_help_lists_shells[zsh]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_lists_known_commands[check]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_lists_known_commands[toolchain]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_has_commands_section",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_lists_known_commands[help]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_edge_cases.test_help_takes_precedence_over_invalid_option",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_check_help_documents_args_and_flags[[path]]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_toolchain_help_lists_install_uninstall",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_check_help_usage",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_check_help_documents_args_and_flags[--all-features]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_lists_known_commands[completions]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_documents_global_flags[-h]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_documents_global_flags[-q]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_documents_global_flags[--stdio]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_completions_help_lists_shells[powershell]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_has_usage_line",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_completions_help_usage_and_shell_arg",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_documents_global_flags[--quiet]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_clean_help_usage",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_quiet_is_ellipsis_repeatable",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_documents_global_flags[--version]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_lists_known_commands[clean]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_documents_global_flags[--help]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_completions_help_lists_shells[nushell]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_completions_help_lists_shells[bash]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_subcommands.test_completions_help_lists_shells[fish]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_has_options_section",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_help_main.test_help_documents_global_flags[-V]",
+      "branch": "86b7d259f703",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_each_subcommand_help_is_recognized[help]",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_each_subcommand_help_is_recognized[clean]",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_toolchain_command_lists_install_uninstall_subcommands",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_help_lists_expected_subcommands",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_check_specific_flags_accepted_with_check",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_each_subcommand_help_is_recognized[check]",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_nested_subcommands_toolchain_install_uninstall_help",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_no_subcommand_prints_lsp_server_message",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_completions_requires_shell_argument",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_unknown_subcommand_has_nonzero_exit_and_mentions_unrecognized",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_completions_accepts_valid_shells",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_check_specific_flags_not_accepted_at_top_level",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_subcommand_help_differs_from_main_help",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_each_subcommand_help_is_recognized[toolchain]",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_global_flag_quiet_allowed_before_subcommand",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_each_subcommand_help_is_recognized[completions]",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_global_flag_quiet_rejected_after_subcommand",
+      "branch": "543920e6055e",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_version.test_subcommand_help_exact_check",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_completions_and_errors.test_completions_supported_shells[zsh-#compdef rustowl]",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_version.test_subcommand_help_exact_clean",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_completions_and_errors.test_completions_supported_shells[bash-_rustowl()]",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_completions_and_errors.test_completions_invalid_shell_is_error",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_completions_and_errors.test_completions_supported_shells[fish-__fish_rustowl]",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_version.test_version_exact",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_completions_and_errors.test_completions_supported_shells[nushell-export extern rustowl]",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_version.test_top_level_help_exact",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_completions_and_errors.test_completions_supported_shells[elvish-edit:completion:arg-completer]",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "eval.tests.test_completions_and_errors.test_completions_supported_shells[powershell-Register-ArgumentCompleter]",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.028
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_version.test_subcommand_help_exact_toolchain_and_children",
+      "branch": "0a827db3aee0",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    }
+  ],
+  "error_code": null,
+  "error_details": null,
+  "log": [],
+  "solution_branch": "pbconv-internal_realmax-20260914_010159-cordx56__rustowl.655bc5c",
+  "test_branches": [
+    "db975e1644f7",
+    "7b3f773c9847",
+    "174d2e5cba98",
+    "562708cfdc35",
+    "226ed995bb9b",
+    "a0af5a65abe6",
+    "86b7d259f703",
+    "543920e6055e",
+    "0a827db3aee0"
+  ],
+  "test_branch_errors": {},
+  "executable_hash": "4fdb29b15692c245ec263690190e780fd77cc3239e9ae305e7d7fabb19e5c221",
+  "warnings": []
+}

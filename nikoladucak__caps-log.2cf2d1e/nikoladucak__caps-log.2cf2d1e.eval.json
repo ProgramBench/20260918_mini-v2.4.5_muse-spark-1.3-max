@@ -1,0 +1,5608 @@
+{
+  "test_results": [
+    {
+      "name": "tests.test_basic_invocation.test_help_flag_short",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_describes_log_dir_path",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage_boost.test_help_message_complete",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_encryption_preserves_file_count",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_encryption_creates_marker_with_hash",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_unrecognized_option",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_shows_default_config_path",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_config_with_log_filename_format",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_help_displays_version_commit",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_invalid_option_format",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_no_args_requires_config_file",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_flag_long",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_describes_sunday_start",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_help_flag_exits_cleanly",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_describes_password_option",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_encryption_with_empty_scratchpad",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_describes_config_option",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage_boost.test_encryption_with_multiple_file_formats",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_encryption_multiple_year_dirs",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_describes_decrypt_option",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_shows_version",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_invalid_hex_too_short",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_describes_log_name_format",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_invalid_hex_chars",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_describes_encrypt_option",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_encryption_output_message",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_invalid_border_style",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_invalid_hex_no_hash",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_invalid_numeric_in_rgb",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_encryption_marker_file_content",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_event_invalid_date_format",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_ansi256_out_of_range",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_ansi16_invalid_name",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_describes_first_line_section",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_unknown_color_format",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_missing_config_file_error",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_rgba_with_invalid_alpha",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_ansi16_out_of_range",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_rgba_with_too_few_components",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_invalid_rgb_values_out_of_range",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_invalid_color_format",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_empty_ansi16_value",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_config_error_paths.test_config_empty_log_dir_path",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_config_password_with_non_encrypted_repo_fails",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_scratchpad_encryption",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.144
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_help_shows_all_options",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_encrypt_with_short_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_version_in_help",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_multiple_scratchpad_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.162
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_encrypt_scratchpad_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_encrypt_with_long_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_encryption_with_scratchpad_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_decrypt_without_password_fails",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_config_file_with_invalid_path",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_encrypt_without_password_fails",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_encryption_with_very_long_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.16
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_encryption_empty_file",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.173
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_encryption_file_with_null_bytes",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.171
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_decrypt_multiple_year_dirs",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.177
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_encryption_with_binary_content",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.173
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encryption_with_custom_filename_format",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_empty_log_directory",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_decryption_output_message",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.174
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_requires_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_decrypt_validates_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.183
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage_boost.test_decryption_with_multiple_years",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.183
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_multiple_year_directories",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.108
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_decryption_removes_marker",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.185
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_help_short_form",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.186
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypts_scratchpad_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_empty_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_decrypt_requires_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_with_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_decrypt_non_encrypted_fails",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_encryption_with_mixed_file_sizes",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.196
+      }
+    },
+    {
+      "name": "tests.test_crypto_intensive.test_encrypt_large_file",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_final_coverage_sprint.test_log_directory_with_subdirectories",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_decryption_with_scratchpad_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.187
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_encryption_with_scratchpad_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encryption_only_processes_matching_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_multiple_log_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.109
+      }
+    },
+    {
+      "name": "tests.test_more_scenarios.test_year_directory_with_mixed_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "tests.test_more_scenarios.test_encrypt_with_nested_scratchpad_structure",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_encryption_with_multiple_year_directories",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_more_scenarios.test_encryption_with_non_matching_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_encrypt_with_special_chars_in_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.186
+      }
+    },
+    {
+      "name": "tests.test_error_paths.test_config_with_invalid_log_dir",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_decrypt_with_wrong_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.206
+      }
+    },
+    {
+      "name": "tests.test_final_coverage_push.test_decryption_of_multiple_scratchpads",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.199
+      }
+    },
+    {
+      "name": "tests.test_deep_coverage_push.test_encryption_and_decryption_with_scratchpad",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.195
+      }
+    },
+    {
+      "name": "tests.test_final_coverage_push.test_encryption_of_multiple_scratchpads",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.11
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_decrypt_scratchpad_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.21
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_decrypt_with_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.2
+      }
+    },
+    {
+      "name": "tests.test_final_coverage_sprint.test_encryption_with_long_content",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.19
+      }
+    },
+    {
+      "name": "tests.test_error_paths.test_encrypt_very_large_file",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.112
+      }
+    },
+    {
+      "name": "tests.test_final_coverage_sprint.test_help_contains_version_info",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_error_paths.test_invalid_config_file_format",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_encryption_with_unicode_content",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.197
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_twice_fails",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.203
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_config_with_password_in_file",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.198
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_encryption_large_file",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.196
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_command_line_password_overrides_config",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.2
+      }
+    },
+    {
+      "name": "tests.test_more_scenarios.test_encryption_error_recovery",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.189
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_decryption_round_trip_multiple_years",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.204
+      }
+    },
+    {
+      "name": "tests.test_massive_coverage_push.test_encrypt_with_existing_marker_file",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.169
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_encryption_with_special_chars_in_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.198
+      }
+    },
+    {
+      "name": "tests.test_crypto_intensive.test_decrypt_large_file",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.198
+      }
+    },
+    {
+      "name": "tests.test_final_coverage_sprint.test_encrypt_decrypt_cycle_comprehensive",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.184
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_encryption_roundtrip_multiple_times",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.318
+      }
+    },
+    {
+      "name": "tests.test_comprehensive_behavior.test_multiple_encryption_cycles",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.48
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_rgb_with_spaces",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_multiple_log_files_same_year",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.02
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_log_without_first_line_section",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.028
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_all_markdown_headers",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.021
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_log_with_nested_sections_and_tags",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.017
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_rgba_with_alpha",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.013
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_hex_lowercase",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.019
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_ansi16_bright_colors",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.019
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_with_all_color_formats",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.017
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_hex_uppercase",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.019
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_bgcolor",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_log_first_line_section_flag",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.026
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_ansi256_edge_values",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.02
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_cli_overrides_config",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.016
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_config_log_dir_path",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.011
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_config_log_filename_format",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_hex_color",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_rgb_color",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.021
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_hex_mixed_case",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.02
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_config_file_override",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.016
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_ansi16_color_by_name",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.021
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_config_with_calendar_events",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.021
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_config_first_line_section",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.018
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_config_with_theme_sections",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.03
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_log_with_only_tags_no_sections",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.008
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_log_with_various_markdown_elements",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.027
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_first_line_section_with_multiple_logs",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.012
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_empty_log_file",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_config_sunday_start",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.022
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_config_with_git_disabled_explicit",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_config_with_all_markdown_colors",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.011
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_config_with_scratchpad_markdown_theme",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_log_files_across_many_years",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.012
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_sunday_start_with_log_entries",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.008
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_empty_config_file",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.016
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_rgba_color",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.029
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_ansi256_color",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_log_with_complex_tag_formats",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.008
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_markdown_theme",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.012
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_with_italic_style",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.019
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_ansi16_color_by_number",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.03
+      }
+    },
+    {
+      "name": "tests.test_massive_coverage_push.test_version_flag",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_with_border_style",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_default_color",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.018
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_multiple_year_directories_in_log_dir",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.016
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_scratchpad_theme",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.01
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_config_calendar_event_out_of_range_date",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.02
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_decrypt_non_encrypted",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_multiple_scratchpad_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.013
+      }
+    },
+    {
+      "name": "tests.test_crypto_intensive.test_encrypt_with_various_content_types",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_config_with_theme_options",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.047
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_tags_with_info_parsed",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.007
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_multiple_sections_parsed",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.007
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_config_path_with_spaces_works",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.017
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_tags_with_multiline_body_parsed",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.007
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_encryption_empty_directory",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_multiple_theme_sections",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.039
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_all_style_flags",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.071
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_unrecognized_option",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_more_scenarios.test_custom_scratchpad_folder_name",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.059
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_encrypt_without_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_empty_log_file_handled",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_with_underlined_style",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.058
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_log_dir_path_with_spaces_works",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.012
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_help_short_flag",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_help_output_format",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_decrypt_without_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.057
+      }
+    },
+    {
+      "name": "tests.test_crypto_intensive.test_encrypt_files_with_different_extensions",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_crypto_intensive.test_decrypt_multiple_years_comprehensive",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.124
+      }
+    },
+    {
+      "name": "tests.test_crypto_intensive.test_encrypt_multiple_years_comprehensive",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "tests.test_crypto_intensive.test_encrypt_many_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_more_scenarios.test_log_with_special_section_formats",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.007
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_sunday_start_flag",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.012
+      }
+    },
+    {
+      "name": "tests.test_more_scenarios.test_config_with_git_disabled",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.016
+      }
+    },
+    {
+      "name": "tests.test_massive_coverage_push.test_log_with_unicode_content",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.124
+      }
+    },
+    {
+      "name": "tests.test_more_scenarios.test_config_all_boolean_options",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "tests.test_more_scenarios.test_log_with_date_variations",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.013
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_multiple_config_theme_combinations",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.05
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_calendar_events_multiple_categories",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.007
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_with_bold_style",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.078
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_shows_sections_menu",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.012
+      }
+    },
+    {
+      "name": "tests.test_final_coverage_push.test_logs_with_various_tag_patterns",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_coverage_boost.test_tui_with_encrypted_logs_no_password_prompt",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.118
+      }
+    },
+    {
+      "name": "tests.test_crypto_intensive.test_decrypt_many_files",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.159
+      }
+    },
+    {
+      "name": "tests.test_crypto_intensive.test_encrypt_with_special_char_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.117
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_mixed_log_and_scratchpad",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_final_coverage_push.test_log_files_various_years",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.022
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_multiple_flags_work_together",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_encrypt_with_wrong_password_for_decryption",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.33
+      }
+    },
+    {
+      "name": "tests.test_additional_coverage.test_sunday_vs_monday_start",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 2.019
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_shows_tags_menu",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.008
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_with_sections_in_logs",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_displays_calendar",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.006
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_empty_log_directory",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.007
+      }
+    },
+    {
+      "name": "tests.test_more_scenarios.test_log_with_special_tag_formats",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.007
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_with_custom_log_name_format",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.007
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_with_tags_in_logs",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_launches_with_valid_config",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.01
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_shows_current_date",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_more_scenarios.test_multiple_logs_across_months",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.022
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_first_line_section_flag",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.011
+      }
+    },
+    {
+      "name": "tests.test_crypto_intensive.test_encrypt_with_long_password",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_log_filename_format_edge_cases",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 3.02
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_config_with_theme_options",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.064
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_all_style_flags",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.066
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_multiple_theme_sections",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.069
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_with_underlined_style",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.069
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_multiple_config_theme_combinations",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.065
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_with_bold_style",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.068
+      }
+    },
+    {
+      "name": "tests.test_final_coverage_push.test_all_style_flag_combinations",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 4.534
+      }
+    },
+    {
+      "name": "tests.test_config_file.test_config_with_theme_options",
+      "branch": "6bbf9eab4e8f",
+      "status": "failure",
+      "extra": {
+        "time": 1.053
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_all_style_flags",
+      "branch": "6bbf9eab4e8f",
+      "status": "failure",
+      "extra": {
+        "time": 1.055
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_multiple_theme_sections",
+      "branch": "6bbf9eab4e8f",
+      "status": "failure",
+      "extra": {
+        "time": 1.057
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_with_underlined_style",
+      "branch": "6bbf9eab4e8f",
+      "status": "failure",
+      "extra": {
+        "time": 1.065
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_config_file_not_found",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_coverage_target_50pct.test_multiple_config_theme_combinations",
+      "branch": "6bbf9eab4e8f",
+      "status": "failure",
+      "extra": {
+        "time": 1.054
+      }
+    },
+    {
+      "name": "tests.test_config_parsing.test_config_with_bold_style",
+      "branch": "6bbf9eab4e8f",
+      "status": "failure",
+      "extra": {
+        "time": 1.058
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_all_border_styles",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 6.066
+      }
+    },
+    {
+      "name": "tests.test_more_error_paths.test_config_file_malformed",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_tui_with_log_entries",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 1.004
+      }
+    },
+    {
+      "name": "tests.test_final_coverage_push.test_config_all_ansi16_colors",
+      "branch": "6bbf9eab4e8f",
+      "status": "passed",
+      "extra": {
+        "time": 8.053
+      }
+    },
+    {
+      "name": "tests.test_config.test_invalid_border_style",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.058
+      }
+    },
+    {
+      "name": "tests.test_config.test_rgba_wrong_component_count",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.057
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_version_information_in_help",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_config.test_ansi16_numeric_out_of_range",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_config.test_hex_color_wrong_length",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_help_flag_long_form",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_config.test_encrypt_flag_without_password",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_config_enabled_missing_required_fields",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_config.test_invalid_hex_color_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_help_flag_contains_all_documented_options",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_relative_path_for_log_dir",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_multiple_flags_combination",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_encrypt_without_password_requires_password",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_help_takes_precedence_over_decrypt",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_multiple_unknown_flags",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_first_line_section_flag_accepted",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_log_dir_path_with_spaces",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_config_flag_short_form",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_log_name_format_missing_argument",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_case_sensitive_flag_names",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_config.test_color_missing_closing_paren",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_config.test_color_keyword_default",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_config.test_scratchpad_theme_configuration",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_with_multiple_calendar_events",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_config.test_ansi16_named_color",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_log_name_format_without_extension",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_log_name_format_flag_accepted",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_config.test_nonexistent_config_file",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_config_missing_argument",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "tests.test_config.test_partial_config_uses_defaults",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_config.test_border_style_heavy",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_tilde_expansion_in_log_dir_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_config.test_cli_flag_first_line_section",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_missing_config_file_with_encrypt",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_config.test_text_style_bold_decorator",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_config.test_cli_override_log_name_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_config.test_hex_color_mixed_case",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_config.test_recent_events_window_config",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_config.test_invalid_ansi256_out_of_range",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_config.test_text_style_dim_decorator",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_empty_log_dir_path_via_cli",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_empty_ssh_key_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_cli_help_flag",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_config.test_border_style_light",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_config.test_rgba_color_with_alpha",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "tests.test_config.test_border_style_valid_values",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_config.test_text_style_strikethrough_decorator",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_non_log_files_ignored",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_year_directory_without_log_files",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_nonexistent_pub_key_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_theme_invalid_rejects",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_encrypt_empty_directory",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_decrypt_already_decrypted_directory",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_encrypt_nonexistent_directory",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_help_flag",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_invalid_year_directory_ignored",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_encrypt_multiple_log_files_in_year_folders",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_config.test_rgb_invalid_trailing_non_numeric",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_marker_file_location",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_config.test_color_non_numeric_component",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_config.test_invalid_calendar_event_date_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_custom_log_filename_format_encryption",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_program_name_in_help",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_config.test_rgba_alpha_out_of_range",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_wrong_password_decryption",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.16
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_basic_encrypt_decrypt_roundtrip",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.167
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_missing_password_flag",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.164
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_very_long_line",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.168
+      }
+    },
+    {
+      "name": "tests.test_config.test_decrypt_flag_without_password",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_decrypt_without_password_requires_password",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_config_path_with_spaces",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_log_dir_path_missing_argument",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_special_characters_in_password",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.178
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_log_dir_path_flag_accepted",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.076
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_file_multiple_buffers",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.175
+      }
+    },
+    {
+      "name": "tests.test_config.test_rgb_wrong_component_count",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_unknown_flag_rejected",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_marker_file_content_validation",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.179
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_encrypted_repo_wrong_password",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.172
+      }
+    },
+    {
+      "name": "tests.test_config.test_invalid_rgb_out_of_range",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_special_characters_in_content",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.194
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_encrypt_scratchpad_files",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.173
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_help_flag_short_form",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_duplicate_password_flags_rejected",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_config.test_markdown_theme_header_colors",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_password_missing_argument",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_config_flag_long_form",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_short_flag_h_takes_precedence",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_equals_sign_flag_syntax",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_log_name_format_with_subdirs",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_config.test_color_missing_opening_paren",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_config.test_ansi16_numeric_color",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_password_flag_accepted",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_config.test_cli_override_log_dir_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_absolute_path_for_log_dir",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_help_takes_precedence_over_encrypt",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_password_with_special_characters",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.192
+      }
+    },
+    {
+      "name": "tests.test_config.test_empty_color_value_uses_default",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_config.test_all_border_styles_accepted",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_config.test_malformed_ini_unmatched_bracket",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_multiple_files_committed_together",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.146
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_handles_deleted_files",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.15
+      }
+    },
+    {
+      "name": "tests.test_config.test_text_style_underlined_decorator",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_flag_order_independence",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.26
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_large_commit_with_many_files",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.167
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_sunday_start_flag_accepted",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_with_text_style_attributes",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "tests.test_config.test_text_style_italic_decorator",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "tests.test_config.test_text_style_blink_decorator",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_modified_and_untracked_files_together",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.175
+      }
+    },
+    {
+      "name": "tests.test_config.test_cli_flag_sunday_start",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_with_valid_calendar_event",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_config.test_text_style_inverted_decorator",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_config_nonexistent_ssh_key_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_config.test_ansi256_wrong_argument_count",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_config.test_invalid_ansi16_color_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_config.test_password_cli_override",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_config.test_border_style_dashed",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_invalid_flag",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_double_decryption_error",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.269
+      }
+    },
+    {
+      "name": "tests.test_config.test_unknown_color_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_decrypt_nonexistent_encrypted_directory",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_invalid_year_directory_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.105
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_wrong_password_length",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_non_matching_filename_format_ignored",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_encrypt_with_subdirectories_in_year_folder",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_log_name_format_with_various_formats",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.315
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_different_scratchpad_folder_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_directory_without_year_folders",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_non_markdown_scratchpad_files_ignored",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_password_on_non_encrypted_repo",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_double_encrypt_same_password",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.168
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_empty_password_for_encryption",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_encrypt_with_log_files_then_decrypt",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.19
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_large_log_file",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.195
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_password_change_detection",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.342
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_config_and_log_dir_interaction",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_multiple_log_files",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.164
+      }
+    },
+    {
+      "name": "tests.test_log_repository_errors.test_wrong_password_different_from_no_password",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.191
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_binary_content_in_log",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.156
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_double_encryption_error",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.173
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_empty_password_rejected",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_scratchpad_files_encrypted",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.179
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_both_encrypt_and_decrypt_last_wins",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_long_password",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.154
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_concurrent_year_directories",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.187
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_file_exactly_buffer_size",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.108
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_multiple_encryption_operations_same_password",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.471
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_binary_like_content_in_log",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_empty_log_dir_path_via_cli",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_nonexistent_pub_key_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_config.test_rgb_invalid_trailing_non_numeric",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config.test_color_non_numeric_component",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config.test_rgba_alpha_out_of_range",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_config_nonexistent_ssh_key_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_config.test_ansi256_wrong_argument_count",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_multiple_files_committed_together",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.09
+      }
+    },
+    {
+      "name": "tests.test_config.test_unknown_color_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.051
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_handles_deleted_files",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_large_commit_with_many_files",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_modified_and_untracked_files_together",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_editor_command",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 1.708
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_tag_symbol",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 1.755
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_cli_log_filename_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 1.758
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_log_filename_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 1.657
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_disabled_by_default",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.034
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_valid_repo_starts_successfully",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.136
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_empty_remote_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.115
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_non_git_repository",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_deeply_nested_logdir",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.142
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_defaults_remote_and_branch",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.143
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_empty_log_dir_path_via_cli",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_nonexistent_pub_key_path",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config.test_rgb_invalid_trailing_non_numeric",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_config.test_color_non_numeric_component",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_config.test_color_missing_parentheses",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_config.test_rgba_alpha_out_of_range",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_missing_ssh_pub_key_file",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.117
+      }
+    },
+    {
+      "name": "tests.test_config.test_hex_color_too_short",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config.test_ansi16_empty_argument",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_repo_root_not_parent_of_log_dir",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_config_nonexistent_ssh_key_path",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_config.test_ansi256_wrong_argument_count",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config.test_unknown_color_format",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_multiple_files_committed_together",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_handles_deleted_files",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_large_commit_with_many_files",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_modified_and_untracked_files_together",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_untracked_files_are_staged",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_file_deletion_tracked_in_commit",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_push_reaches_remote_repository",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.192
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_scratchpad_view_loads_scratchpads",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.727
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_tab_cycles_through_elements",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.174
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_switching_views_with_s_key",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.186
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_sunday_start",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.258
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_first_line_section",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.257
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_cli_sunday_start_flag",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.355
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_tui_basic_start_and_quit",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 1.635
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_calendar_event_style",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.336
+      }
+    },
+    {
+      "name": "tests.test_config.test_ansi16_empty_argument",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_calendar_month_columns",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.354
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_markdown_theme",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.288
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_untracked_files_are_staged",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_file_deletion_tracked_in_commit",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_push_reaches_remote_repository",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "tests.test_annual_log_data.test_annual_data_mixed_content_logs",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.867
+      }
+    },
+    {
+      "name": "tests.test_annual_log_data.test_annual_data_year_boundary_dates",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.87
+      }
+    },
+    {
+      "name": "tests.test_annual_log_data.test_annual_data_root_section_tags",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.914
+      }
+    },
+    {
+      "name": "tests.test_annual_log_data.test_annual_data_with_tagged_logs",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.938
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_explicitly_disabled",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.027
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_empty_log_directory_shows_zero_entries",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 4.283
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_empty_log_directory",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 4.255
+      }
+    },
+    {
+      "name": "tests.test_config.test_ansi16_empty_argument",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.051
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_cli_log_filename_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 1.641
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_nonexistent_log_directory_creation",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 4.558
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_missing_ssh_key_file",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.117
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_untracked_files_are_staged",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_file_deletion_tracked_in_commit",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_push_reaches_remote_repository",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_cli_log_dir_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 1.507
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_section_heading_symbol",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.199
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_empty_remote_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.021
+      }
+    },
+    {
+      "name": "tests.test_config.test_empty_log_filename_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.022
+      }
+    },
+    {
+      "name": "tests.test_config.test_calendar_event_invalid_key_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.022
+      }
+    },
+    {
+      "name": "tests.test_config.test_invalid_calendar_event_key_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.029
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_empty_branch_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.022
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_non_git_repository",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.118
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_empty_remote_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.12
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_valid_repo_starts_successfully",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.148
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_deeply_nested_logdir",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.15
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_defaults_remote_and_branch",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.15
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_missing_ssh_pub_key_file",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.122
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_scratchpad_view_switching",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.496
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_list_empty",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.567
+      }
+    },
+    {
+      "name": "tests.test_view_controller.test_help_dialog_from_scratchpad_view",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.454
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_tag_menu_populated_from_logs",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.779
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_delete_log_with_prompt",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.602
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_switch_to_scratchpad_view",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.613
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_tui_basic_start_and_quit",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 1.492
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_scratchpad_view_loads_scratchpads",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.575
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_tag_with_additional_info_parsing",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.695
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_section_name_whitespace_trimming",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.733
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_tag_regex_special_characters_in_names",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.75
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_selection_updates_preview",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.746
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_log_file_with_only_whitespace",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.914
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_section_without_hash_space_ignored",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.924
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_multiple_code_blocks_in_single_log",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.931
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_multiple_log_files_in_year",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.942
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_navigate_down_through_three",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.908
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_cli_log_filename_format",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 1.555
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_delete_log_on_empty_date_does_nothing",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 7.047
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_sunday_start",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.033
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_calendar_event_style",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.013
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_first_line_section",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.075
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_calendar_month_columns",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.04
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_cli_log_dir_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 1.558
+      }
+    },
+    {
+      "name": "tests.test_annual_log_data.test_annual_data_dense_logs_tag_count",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.693
+      }
+    },
+    {
+      "name": "tests.test_annual_log_data.test_annual_data_multiple_tags_per_section",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.7
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_markdown_theme",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.171
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_missing_ssh_key_file",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.119
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_quit_with_q_key",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 8.024
+      }
+    },
+    {
+      "name": "tests.test_editor_integration.test_editor_integration_scratchpad_opens_on_enter",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 8.171
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_tui_basic_start_and_quit",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 1.484
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_non_git_repository",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.121
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_empty_remote_name",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.123
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_defaults_remote_and_branch",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.146
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_logdir_equals_repo_root",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_pull_fast_forward_merge",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.13
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_valid_repo_starts_successfully",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.244
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_missing_ssh_pub_key_file",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.124
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_deeply_nested_logdir",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.245
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_section_heading_symbol",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.028
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_logdir_equals_repo_root",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_pull_fast_forward_merge",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.126
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_app_creates_missing_directories",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.97
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_multiple_year_navigation_forward_and_back",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 9.82
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_log_with_no_sections_or_tags",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.518
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_scratchpad_view_loads_scratchpads",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.525
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_cli_log_dir_path",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_cli_first_line_section",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.048
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_config_with_invalid_ini_syntax",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.123
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_empty_main_branch_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.127
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_missing_ssh_key",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.575
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_empty_remote_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.582
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_missing_repo_root",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.585
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_commit_and_push_on_quit",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.038
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_not_a_repository",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.625
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_logdir_equals_repo_root",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_custom_branch_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.177
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_pull_fast_forward_merge",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.133
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_missing_ssh_key_file",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.127
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_year_change_updates_log_count",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 7.108
+      }
+    },
+    {
+      "name": "tests.test_config.test_empty_log_filename_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.023
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_empty_remote_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.023
+      }
+    },
+    {
+      "name": "tests.test_config.test_calendar_event_invalid_key_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.023
+      }
+    },
+    {
+      "name": "tests.test_config.test_invalid_calendar_event_key_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.023
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_invalid_filename_format_ignored",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.55
+      }
+    },
+    {
+      "name": "tests.test_annual_log_data.test_annual_data_first_line_section_handling",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 7.29
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_empty_branch_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.023
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_sunday_start",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 3.049
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_calendar_event_style",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 3.008
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_calendar_month_columns",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 3.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_first_line_section",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 3.104
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_markdown_theme",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 3.0
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_scratchpad_view_switching",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.208
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_list_empty",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.236
+      }
+    },
+    {
+      "name": "tests.test_view_controller.test_help_dialog_from_scratchpad_view",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.221
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_log_files_across_multiple_years",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 8.021
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_empty_log_name_format_via_cli",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.636
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_default_section_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 1.587
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_calendar_events",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 1.488
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_section_heading_symbol",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.986
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_tag_with_body_content_parsing",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.444
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_tags_case_insensitive_normalization",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.408
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_multiple_year_navigation",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.809
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_empty_section_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.417
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_mixed_valid_and_invalid_tags_in_section",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.426
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_large_log_file_with_many_sections_and_tags",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.416
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_custom_log_filename_format",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.653
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_nested_code_blocks_not_supported",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.663
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_commit_and_push_on_quit",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.038
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_empty_main_branch_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.124
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_custom_branch_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.243
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_cli_first_line_section",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.03
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_selection_updates_preview",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.374
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_ui_show_tag_count",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.06
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_calendar_hide_weekdays",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 3.068
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_navigate_down_through_three",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.702
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_section_menu_populated_from_logs",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.39
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_log_file_unicode_content_parsing",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.516
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_commit_and_push_on_quit",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.036
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_empty_main_branch_name",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.123
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_quit_with_q_key",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 7.788
+      }
+    },
+    {
+      "name": "tests.test_config.test_empty_log_filename_format",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 5.022
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_empty_remote_name",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 5.022
+      }
+    },
+    {
+      "name": "tests.test_config.test_calendar_event_invalid_key_format",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 5.023
+      }
+    },
+    {
+      "name": "tests.test_config.test_invalid_calendar_event_key_format",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 5.032
+      }
+    },
+    {
+      "name": "tests.test_config.test_rgb_negative_values",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_empty_repo_root",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config.test_calendar_event_invalid_date_sscanf",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_custom_branch_name",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.147
+      }
+    },
+    {
+      "name": "tests.test_config.test_empty_log_dir_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config.test_git_empty_branch_name",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 5.021
+      }
+    },
+    {
+      "name": "tests.test_editor_integration.test_editor_integration_scratchpad_opens_on_enter",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 7.904
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_help_screen_f1_key",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.299
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_scratchpad_view_switching",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 5.085
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_list_empty",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 5.091
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_cli_first_line_section",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.857
+      }
+    },
+    {
+      "name": "tests.test_view_controller.test_help_dialog_from_scratchpad_view",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 5.102
+      }
+    },
+    {
+      "name": "tests.test_config.test_empty_log_dir_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_ui_show_tag_count",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.856
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_calendar_hide_weekdays",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 2.855
+      }
+    },
+    {
+      "name": "tests.test_config.test_empty_log_dir_path",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_selection_updates_preview",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 6.238
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_navigate_down_through_three",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 6.355
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_missing_ssh_key",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.588
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_ui_show_tag_count",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.844
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_empty_remote_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.599
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_missing_repo_root",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.619
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_not_a_repository",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.585
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_calendar_hide_weekdays",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 2.849
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_scratchpad_appears_in_list_after_creation",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.059
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_list_with_multiple_files",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.067
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_log_file_unicode_content_parsing",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.236
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_empty_log_name_format_via_cli",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.635
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_quit_with_q_key",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 7.708
+      }
+    },
+    {
+      "name": "tests.test_editor_integration.test_editor_integration_scratchpad_opens_on_enter",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 7.702
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_preview_shows_multiline_markdown",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.244
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_help_screen_f1_key",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.095
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_scratchpad_appears_in_list_after_creation",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.044
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_list_with_multiple_files",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 5.042
+      }
+    },
+    {
+      "name": "tests.test_log_files.test_log_file_unicode_content_parsing",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 6.216
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_empty_remote_name",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 10.586
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_missing_repo_root",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 10.583
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_missing_ssh_key",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 10.659
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_logdir_outside_repo_root",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_delete_confirmation_dialog",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 12.475
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_not_a_repository",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 10.646
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_empty_ssh_key_path",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_scratchpad_appears_in_list_after_creation",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 5.031
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_list_with_multiple_files",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 5.046
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_preview_shows_multiline_markdown",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 6.416
+      }
+    },
+    {
+      "name": "tests.test_cli_options.test_empty_log_name_format_via_cli",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 10.624
+      }
+    },
+    {
+      "name": "tests.test_app_lifecycle.test_help_screen_f1_key",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 10.084
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_preview_shows_multiline_markdown",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 6.182
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_empty_branch_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.583
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_missing_ssh_pub_key",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.584
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_delete_confirmation_dialog",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 12.387
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_empty_branch_name",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.584
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_missing_ssh_pub_key",
+      "branch": "c53fb44809df",
+      "status": "passed",
+      "extra": {
+        "time": 10.574
+      }
+    },
+    {
+      "name": "tests.test_scratchpad_operations.test_scratchpad_delete_confirmation_dialog",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 12.377
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_empty_branch_name",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 10.58
+      }
+    },
+    {
+      "name": "tests.test_git_integration.test_git_missing_ssh_pub_key",
+      "branch": "c53fb44809df",
+      "status": "failure",
+      "extra": {
+        "time": 10.579
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_boolean_flag_rejects_value_with_equals",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_path_with_spaces_is_accepted_for_log_dir_path",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_option_value_formats_work_for_encrypt[<lambda>0]",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_option_value_formats_work_for_encrypt[<lambda>1]",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_options[args3-required argument for option '--log-dir-path' is missing]",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_encrypt_requires_password_when_config_and_logdir_are_valid",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_options[args2-required argument for option '--config' is missing]",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_options[args4-required argument for option '--log-name-format' is missing]",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_option_value_formats_work_for_encrypt[<lambda>2]",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_encrypt_and_decrypt_can_be_combined_and_succeeds",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_options[args1-required argument for option '--config' is missing]",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_extra_positional_argument_is_accepted_and_does_not_break_parsing",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_options[args0-required argument for option '--password' is missing]",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_flag_errors",
+      "branch": "ea0571a30d9c",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env.test_config_flag_overrides_default_config_path_and_is_required",
+      "branch": "c0e6b8d64108",
+      "status": "not_run",
+      "extra": {
+        "error_code": "results_read_failed"
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env.test_default_config_missing_causes_open_error",
+      "branch": "c0e6b8d64108",
+      "status": "not_run",
+      "extra": {
+        "error_code": "results_read_failed"
+      }
+    },
+    {
+      "name": "eval.tests.test_config_env.test_git_repo_root_tilde_is_not_expanded_in_error_message",
+      "branch": "c0e6b8d64108",
+      "status": "not_run",
+      "extra": {
+        "error_code": "results_read_failed"
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--first-line-section]",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_includes_default_config_path_line",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_starts_with_program_banner",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_takes_precedence_over_other_flags",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_mentions_encrypt_decrypt_need_password",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--encrypt]",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--decrypt]",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--password arg]",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_baseline_normalized_matches_fixture",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_mentions_markdown_section_ignoring",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--sunday-start]",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--log-dir-path arg]",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.091
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--log-name-format arg]",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_contains_allowed_options_section",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[-c [ --config ] arg]",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_invalid_flag_with_help_prints_error_and_nonzero",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_contains_help_flag_documentation",
+      "branch": "805bdc557097",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "eval.tests.test_encrypt_decrypt_io.test_encrypt_requires_password_exit1_and_stderr",
+      "branch": "9e0e85b35821",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "eval.tests.test_encrypt_decrypt_io.test_help_to_stdout_exit0",
+      "branch": "9e0e85b35821",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "eval.tests.test_encrypt_decrypt_io.test_encrypt_creates_marker_file_and_prints_banner",
+      "branch": "9e0e85b35821",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "eval.tests.test_encrypt_decrypt_io.test_decrypt_with_wrong_password_still_exit0_but_corrupts_plaintext",
+      "branch": "9e0e85b35821",
+      "status": "passed",
+      "extra": {
+        "time": 0.154
+      }
+    },
+    {
+      "name": "eval.tests.test_encrypt_decrypt_io.test_encrypt_then_decrypt_roundtrip_restores_file_bytes",
+      "branch": "9e0e85b35821",
+      "status": "passed",
+      "extra": {
+        "time": 0.152
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.test_help_has_no_subcommand_listing",
+      "branch": "83733493a0a3",
+      "status": "passed",
+      "extra": {
+        "time": 0.106
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_decrypt_non_encrypted_directory_fails",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_cli_basic.test_invalid_flag_produces_error",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_cli_basic.test_h_flag_displays_help",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.095
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_multiple_files",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "tests.test_cli_basic.test_invalid_flag_mentions_unrecognised",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_without_password_fails",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_decrypt_without_password_fails",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_cli_basic.test_multiple_invalid_flags",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_cli_basic.test_help_contains_version",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_cli_basic.test_help_flag_displays_help",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.1
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_creates_cle_file",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "tests.test_encryption.test_encrypt_already_encrypted_fails",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 0.14
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_log_directory_created_if_not_exists",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 1.275
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_tags_detected_in_logs",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 1.27
+      }
+    },
+    {
+      "name": "tests.test_interactive_tui.test_application_shows_help_text",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 1.274
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_reads_existing_log_files",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 1.273
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_empty_log_directory_shows_no_entries",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 1.268
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_sections_detected_in_logs",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 1.269
+      }
+    },
+    {
+      "name": "tests.test_file_operations.test_multiple_log_files_displayed",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 1.279
+      }
+    },
+    {
+      "name": "tests.test_scratchpad.test_empty_scratchpad_directory",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 1.775
+      }
+    },
+    {
+      "name": "tests.test_scratchpad.test_scratchpad_directory_created",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 1.774
+      }
+    },
+    {
+      "name": "tests.test_interactive_tui.test_scratchpad_toggle_with_s_key",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 1.781
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_many_log_files",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 1.775
+      }
+    },
+    {
+      "name": "tests.test_scratchpad.test_scratchpad_view_toggle",
+      "branch": "ea7baa0a3ecf",
+      "status": "passed",
+      "extra": {
+        "time": 2.281
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_errors.test_help_contains_expected_options",
+      "branch": "fdf188d95a7d",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_errors.test_missing_default_config_errors_when_not_overridden",
+      "branch": "fdf188d95a7d",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_help_and_errors.test_unknown_option_errors",
+      "branch": "fdf188d95a7d",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_rendering.test_tui_basic_start_and_quit",
+      "branch": "fdf188d95a7d",
+      "status": "passed",
+      "extra": {
+        "time": 0.297
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_rendering.test_sunday_start_week_header",
+      "branch": "fdf188d95a7d",
+      "status": "passed",
+      "extra": {
+        "time": 0.301
+      }
+    },
+    {
+      "name": "eval.tests.test_externalized.test_ext_encrypt_requires_password",
+      "branch": "8943ba11f683",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "eval.tests.test_externalized.test_ext_decrypt_requires_password",
+      "branch": "8943ba11f683",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "eval.tests.test_externalized.test_ext_config_file_invalid_theme_exits_nonzero_and_mentions_ansi256",
+      "branch": "8943ba11f683",
+      "status": "passed",
+      "extra": {
+        "time": 0.106
+      }
+    },
+    {
+      "name": "eval.tests.test_externalized.test_ext_cli_help_mentions_config_options",
+      "branch": "8943ba11f683",
+      "status": "passed",
+      "extra": {
+        "time": 0.432
+      }
+    }
+  ],
+  "error_code": null,
+  "error_details": null,
+  "log": [],
+  "solution_branch": "pbconv-internal_realmax-20260913_143214-nikoladucak__caps-log.2c",
+  "test_branches": [
+    "6bbf9eab4e8f",
+    "coverage-test-jeff-coverage_all_70pct__claude-4-5-sonnet-genai_iter5_judge-20260321_082755",
+    "c53fb44809df",
+    "ea0571a30d9c",
+    "c0e6b8d64108",
+    "805bdc557097",
+    "9e0e85b35821",
+    "83733493a0a3",
+    "ea7baa0a3ecf",
+    "fdf188d95a7d",
+    "test-johnby-create_tui_tests__claude-4-5-sonnet-genai-20260306_035453",
+    "8943ba11f683"
+  ],
+  "test_branch_errors": {
+    "c0e6b8d64108": [
+      {
+        "error_code": "results_read_failed",
+        "error_details": "Error response from daemon: Could not find the file /workspace/eval/results.xml in container b9c4ac535651a777624552bb761165218d5ea109a9b5aee568ca7ab61610a759"
+      }
+    ]
+  },
+  "executable_hash": "2f658f3175cea488d60894190efe997590c34777138686a92ca2edffa5c6618c",
+  "warnings": []
+}

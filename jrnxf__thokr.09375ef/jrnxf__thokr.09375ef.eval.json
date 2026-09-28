@@ -1,0 +1,6102 @@
+{
+  "test_results": [
+    {
+      "name": "eval.tests.test_edge_cases.TestFlagParsing.test_multiple_flags_order_1",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestFlagParsing.test_version_with_other_flags",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestFlagParsing.test_equals_syntax_word_count",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSentenceMode.test_sentence_mode_long_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestEdgeCases.test_custom_prompt_single_char",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestTimeLimitOptions.test_time_limit_large_number",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestErrorMessages.test_invalid_word_count_has_help_suggestion",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestOptionInteractions.test_prompt_overrides_language_implied",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestFlagParsing.test_multiple_flags_order_2",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestOptionCombinations.test_custom_prompt_with_word_count",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestErrorMessages.test_tty_error_message",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestOptionInteractions.test_all_text_options_together",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestWordCountOptions.test_word_count_invalid_negative",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestLanguageSelection.test_language_english10k",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestCustomPrompt.test_custom_prompt_special_characters",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSentenceMode.test_sentence_mode_large_number",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_version_long_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestOptionCombinations.test_sentences_with_time_limit",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestEdgeCases.test_very_long_time_limit",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestErrorMessages.test_missing_value_shows_requirement",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestTimeLimitOptions.test_time_limit_long_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestWordCountOptions.test_word_count_long_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestWordCountOptions.test_word_count_invalid_non_numeric",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestEdgeCases.test_sentence_count_one",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestTimeLimitOptions.test_time_limit_missing_value",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestEdgeCases.test_custom_prompt_with_tabs",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestLanguageSelection.test_language_case_sensitive",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_invalid_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestLanguageSelection.test_language_missing_value",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestCustomPrompt.test_custom_prompt_empty_string",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestLanguageSelection.test_language_english_short_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestWordCountOptions.test_word_count_large_number",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestOptionInteractions.test_sentences_overrides_word_count_implied",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestLanguageSelection.test_language_english1k",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestCustomPrompt.test_custom_prompt_missing_value",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestEdgeCases.test_very_large_word_count",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestTimeLimitOptions.test_time_limit_invalid_non_numeric",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestWordCountOptions.test_word_count_short_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestLanguageSelection.test_language_invalid",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestCustomPrompt.test_custom_prompt_unicode",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestOptionCombinations.test_sentences_with_language",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestOptionInteractions.test_time_limit_with_all_options",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSentenceMode.test_sentence_mode_invalid_non_numeric",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestCustomPrompt.test_custom_prompt_long_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestOptionCombinations.test_custom_prompt_with_language",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestEdgeCases.test_custom_prompt_with_newlines",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestFlagParsing.test_equals_syntax_prompt",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestCustomPrompt.test_custom_prompt_long_text",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestOptionCombinations.test_all_options_combined",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestTimeLimitOptions.test_time_limit_short_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUITimedMode.test_tui_with_time_limit",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestLanguageSelection.test_language_english_long_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSentenceMode.test_sentence_mode_missing_value",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestOptionCombinations.test_word_count_with_time_limit",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_unknown_short_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestSentenceMode.test_sentence_mode_short_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_help_long_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_help_short_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestOptionCombinations.test_sentences_with_word_count",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestEdgeCases.test_word_count_one",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_wpm",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestFlagParsing.test_equals_syntax_language",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestErrorMessages.test_invalid_language_shows_valid_options",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_version_short_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestEdgeCases.test_custom_prompt_with_spaces",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestCustomPrompt.test_custom_prompt_short_flag",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestOptionCombinations.test_word_count_with_language",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestOptionInteractions.test_prompt_overrides_word_count_implied",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestEdgeCases.test_custom_prompt_with_numbers",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestFlagParsing.test_help_with_other_flags",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestBasicInvocation.test_no_tty_stdin",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestOptionCombinations.test_custom_prompt_with_time_limit",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic.TestWordCountOptions.test_word_count_missing_value",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.TestEdgeCases.test_time_limit_one_second",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_escape_quits",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.716
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_with_language_option",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.018
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUISentenceMode.test_sentence_mode_with_english",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.017
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_starts_with_default_words",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_with_custom_word_count",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.011
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUISentenceMode.test_sentence_mode_with_english1k",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_typing_shows_progress",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.016
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUISentenceMode.test_sentence_mode_multiple_sentences",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.013
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_with_sentence_mode",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.02
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUITimedMode.test_tui_timed_mode_starts",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.013
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_backspace_functionality",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.072
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_options",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.12
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_accuracy",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.122
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_standard_deviation",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.225
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_typing_completes_test",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.323
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUITimedMode.test_tui_with_time_limit",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.02
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_wpm",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.118
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_escape_quits",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 0.713
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_with_language_option",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUISentenceMode.test_sentence_mode_with_english",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.012
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_starts_with_default_words",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_with_custom_word_count",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUISentenceMode.test_sentence_mode_with_english1k",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.011
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUISentenceMode.test_sentence_mode_multiple_sentences",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.011
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_typing_shows_progress",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.022
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_with_sentence_mode",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUITimedMode.test_tui_timed_mode_starts",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_backspace_functionality",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.07
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_options",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.119
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_accuracy",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.118
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_standard_deviation",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.22
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_typing_completes_test",
+      "branch": "30e1ad7f2bf9",
+      "status": "passed",
+      "extra": {
+        "time": 1.32
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUITimedMode.test_tui_with_time_limit",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.02
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_escape_quits",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 0.714
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_wpm",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.118
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_with_language_option",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUISentenceMode.test_sentence_mode_with_english",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_starts_with_default_words",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_with_custom_word_count",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUISentenceMode.test_sentence_mode_with_english1k",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.012
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUISentenceMode.test_sentence_mode_multiple_sentences",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.011
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_typing_shows_progress",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.021
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIBasic.test_tui_with_sentence_mode",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUITimedMode.test_tui_timed_mode_starts",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_backspace_functionality",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.072
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_options",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.118
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_accuracy",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.118
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIResults.test_results_show_standard_deviation",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.226
+      }
+    },
+    {
+      "name": "eval.tests.test_tui.TestTUIInteraction.test_tui_typing_completes_test",
+      "branch": "30e1ad7f2bf9",
+      "status": "failure",
+      "extra": {
+        "time": 1.322
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_functionality.test_help_short_flag",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_functionality.test_help_shows_default_values",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_invalid_time_limit_non_numeric",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_functionality.test_help_shows_possible_languages",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_combined_flags_with_help",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_missing_word_count_value",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_help_with_invalid_flags_shows_help",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_invalid_flag",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_negative_word_count",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_invalid_combo_produces_error",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_functionality.test_help_shows_all_options",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_missing_prompt_value",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_invalid_sentence_count_non_numeric",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_functionality.test_stdin_must_be_tty",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_functionality.test_help_flag",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_functionality.test_version_short_flag",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_error_message_suggests_help",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_help_shows_default_word_count",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_missing_time_limit_value",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_help_documents_all_language_options",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_missing_language_value",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_version_output_format",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_invalid_word_count_non_numeric",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_version_with_multiple_flags",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_invalid_language",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_functionality.test_version_flag",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_help_output_structure",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_stdin_error_includes_usage",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_error_handling.test_missing_sentence_count_value",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_sentence_and_time",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.109
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_created_after_completion",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.108
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_typing_interaction",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_time_limit",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_completes_test_and_shows_results",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.109
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_language_option",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.108
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_default_starts_and_exits",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.108
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_word_count_option",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.108
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_navigation_keys",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.108
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_has_correct_format",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.108
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_custom_prompt",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.11
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_appends_multiple_tests",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_sentence_mode",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.111
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_header_written_once",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 4.213
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_sentence_and_time",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_created_after_completion",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_typing_interaction",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_time_limit",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_completes_test_and_shows_results",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_language_option",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_default_starts_and_exits",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_word_count_option",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_navigation_keys",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_custom_prompt",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_sentence_mode",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_has_correct_format",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_appends_multiple_tests",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_std_dev_calculation_with_longer_test",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 6.815
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_created_after_completion",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_sentence_and_time",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_typing_interaction",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_time_limit",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_completes_test_and_shows_results",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_language_option",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_default_starts_and_exits",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_word_count_option",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_navigation_keys",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_custom_prompt",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "eval.tests.test_tui_interactive.test_tui_with_sentence_mode",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.107
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_has_correct_format",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.106
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_appends_multiple_tests",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 2.105
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_header_written_once",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 4.211
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_std_dev_calculation_with_longer_test",
+      "branch": "2a583613c55b",
+      "status": "passed",
+      "extra": {
+        "time": 6.812
+      }
+    },
+    {
+      "name": "eval.tests.test_logging.test_log_file_header_written_once",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 4.21
+      }
+    },
+    {
+      "name": "eval.tests.test_additional_behaviors.test_std_dev_calculation_with_longer_test",
+      "branch": "2a583613c55b",
+      "status": "failure",
+      "extra": {
+        "time": 6.812
+      }
+    },
+    {
+      "name": "tests.test_cli.test_prompt_flag_special_characters",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_cli.test_help_flag_long_form",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "tests.test_cli.test_supported_language_flag_case_sensitivity",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_secs_flag_missing_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_words_duplicate_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_words_flag_negative_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "tests.test_cli.test_help_flag_short_form",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_full_sentences_flag_missing_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_words_flag_zero_accepted",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_prompt_flag_long_text",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_supported_language_flag_english",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_secs_flag_non_numeric",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_version_flag_long_form",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_supported_language_flag_english1k",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_words_flag_large_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_prompt_flag_unicode",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_secs_flag_zero_accepted",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_cli.test_full_sentences_flag_non_numeric",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_supported_language_flag_english10k",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_full_sentences_flag_zero_accepted",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_prompt_flag_whitespace",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_words_flag_very_large_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_version_flag_short_form",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_secs_flag_large_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_prompt_equals_syntax",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_full_sentences_flag_large_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_secs_duplicate_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_words_flag_overflow",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_cli.test_no_args_requires_tty",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_supported_language_duplicate_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_full_sentences_equals_syntax",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_words_flag_missing_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_words_long_form",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_prompt_flag_missing_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_prompt_duplicate_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_supported_language_flag_missing_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_words_equals_syntax",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_prompt_flag_empty_string",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_full_sentences_duplicate_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_unknown_long_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_number_of_words_flag_non_numeric",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combo_language_and_words",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_unknown_short_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combo_words_and_sentences",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combo_language_and_sentences",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combo_language_and_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combo_words_and_seconds",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combo_prompt_and_words",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combo_all_flags",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combo_prompt_and_sentences",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combo_prompt_and_seconds",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_combo_sentences_and_seconds",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_tiny_terminal_20_cols",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.514
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_all_incorrect_characters_wpm_zero",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.677
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_two_char_timer_completion_inf_wpm",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.691
+      }
+    },
+    {
+      "name": "tests.test_cli.test_supported_language_flag_missing_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_long_prompt_graph_scaling",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_cli.test_supported_language_flag_missing_value",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_supported_language_flag_invalid_value",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_tiny_terminal_20_cols",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.513
+      }
+    },
+    {
+      "name": "tests.test_language.test_default_word_count_fifteen",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_all_incorrect_characters_wpm_zero",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.688
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_two_char_timer_completion_inf_wpm",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.686
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_partial_completion_graph",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_tiny_terminal_20_cols",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.513
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_long_prompt_graph_scaling",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_all_incorrect_characters_wpm_zero",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.688
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_backspace_at_position_0",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.683
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_two_char_timer_completion_inf_wpm",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.684
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_very_fast_typing_timing_edge_cases",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.457
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_narrow_terminal_30_cols",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.513
+      }
+    },
+    {
+      "name": "tests.test_language.test_default_word_count_fifteen",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_backspace_at_position_0",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.689
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_very_fast_typing_timing_edge_cases",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.458
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_partial_completion_graph",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_narrow_terminal_30_cols",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.513
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_long_prompt_graph_scaling",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_very_fast_typing_timing_edge_cases",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.462
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_backspace_at_position_0",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.699
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_narrow_terminal_30_cols",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.513
+      }
+    },
+    {
+      "name": "tests.test_language.test_default_word_count_fifteen",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_mixed_correct_incorrect_timing",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.463
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_zero_accuracy_graph",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_zero_accuracy_all_incorrect_chars",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.689
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_partial_completion_graph",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_mixed_correct_incorrect_timing",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.461
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_display",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_zero_accuracy_all_incorrect_chars",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.684
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_contains_wpm_label",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_zero_accuracy_graph",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_single_sentence",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.817
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_mixed_correct_incorrect_timing",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.458
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_zero_accuracy_all_incorrect_chars",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.687
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_multiword_graph_rendering",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_mixed_correct_incorrect_accuracy",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.682
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_display",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.814
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_contains_wpm_label",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_zero_accuracy_graph",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_mixed_correct_incorrect_accuracy",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.682
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_single_sentence",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.816
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_fast_typing_instant_completion",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_multiword_graph_rendering",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_contains_wpm_label",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_display",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.813
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_mixed_correct_incorrect_accuracy",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.684
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_reset_with_full_sentences_retry",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.463
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_contains_axis_bounds",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_flag_five_words",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_fast_typing_instant_completion",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_multiword_graph_rendering",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_reset_with_full_sentences_retry",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.449
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_single_sentence",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 2.818
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_perfect_accuracy_short_test",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_contains_axis_bounds",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_reset_with_full_sentences_retry",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.46
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_reset_with_full_sentences_new",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.449
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_fast_typing_instant_completion",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_flag_five_words",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_multiple_sentences",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_reset_with_full_sentences_new",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.447
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_varying_speed_graph_adaptation",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_perfect_accuracy_short_test",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_contains_axis_bounds",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_gap_filling.test_reset_with_full_sentences_new",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.451
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_flag_five_words",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_multiple_sentences",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_legend_shows_controls",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_varying_speed_graph_adaptation",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_perfect_accuracy_short_test",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_overrides_word_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_flag_one_word",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_mixed_accuracy_calculation",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_legend_shows_controls",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_multiple_sentences",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_varying_speed_graph_adaptation",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_overrides_word_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_flag_one_word",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_zero_sentences",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_timed_test_graph_rendering",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_mixed_accuracy_calculation",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_legend_shows_controls",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_stats_line_format",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_overrides_word_flag",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_flag_one_word",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_timed_test_graph_rendering",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_zero_sentences",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_mixed_accuracy_calculation",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_overrides_sentence_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_flag_hundred_words",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_stats_line_format",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_empty_string",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_timed_test_graph_rendering",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_zero_sentences",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_single_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_overrides_sentence_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_graphs.test_graph_stats_line_format",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_flag_hundred_words",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_with_language_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_empty_string",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_append_behavior_multiple_tests",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.849
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_single_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_append_behavior_multiple_tests",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.832
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_overrides_sentence_flag",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_flag_hundred_words",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_with_language_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_empty_string",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_append_behavior_multiple_tests",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.834
+      }
+    },
+    {
+      "name": "tests.test_language.test_language_flag_with_custom_prompt_ignored",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_zero_shows_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.814
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_equals_list_size_english",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_logging.test_directory_creation_when_missing",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.601
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_single_character",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_generation_with_language_flag",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_logging.test_data_accuracy_accuracy_percentage",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.6
+      }
+    },
+    {
+      "name": "tests.test_logging.test_directory_creation_when_missing",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.6
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_very_long",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_language.test_language_flag_with_custom_prompt_ignored",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.814
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_zero_shows_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_equals_list_size_english",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_logging.test_data_accuracy_accuracy_percentage",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.606
+      }
+    },
+    {
+      "name": "tests.test_logging.test_directory_creation_when_missing",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.607
+      }
+    },
+    {
+      "name": "tests.test_logging.test_untimed_test_num_secs_empty",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.595
+      }
+    },
+    {
+      "name": "tests.test_logging.test_data_accuracy_accuracy_percentage",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.605
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_very_long",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_language.test_language_flag_with_custom_prompt_ignored",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_logging.test_date_format_valid_timestamp",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.597
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_zero_shows_results",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.813
+      }
+    },
+    {
+      "name": "tests.test_logging.test_untimed_test_num_secs_empty",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.607
+      }
+    },
+    {
+      "name": "tests.test_language.test_word_count_equals_list_size_english",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_logging.test_std_dev_decimal_precision",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.611
+      }
+    },
+    {
+      "name": "tests.test_language.test_very_large_word_count",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_logging.test_date_format_valid_timestamp",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.603
+      }
+    },
+    {
+      "name": "tests.test_logging.test_untimed_test_num_secs_empty",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.606
+      }
+    },
+    {
+      "name": "tests.test_logging.test_std_dev_decimal_precision",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.641
+      }
+    },
+    {
+      "name": "tests.test_logging.test_data_accuracy_wpm_matches_result_screen",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.648
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_very_long",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_file_creation_on_first_completion",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.461
+      }
+    },
+    {
+      "name": "tests.test_logging.test_date_format_valid_timestamp",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.607
+      }
+    },
+    {
+      "name": "tests.test_logging.test_num_words_flag_recorded_correctly",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.602
+      }
+    },
+    {
+      "name": "tests.test_logging.test_std_dev_decimal_precision",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.604
+      }
+    },
+    {
+      "name": "tests.test_language.test_multiple_language_selections_different_words",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 3.63
+      }
+    },
+    {
+      "name": "tests.test_logging.test_data_accuracy_wpm_matches_result_screen",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.605
+      }
+    },
+    {
+      "name": "tests.test_language.test_very_large_word_count",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_file_creation_on_first_completion",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.455
+      }
+    },
+    {
+      "name": "tests.test_logging.test_different_word_counts_logged_correctly",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.607
+      }
+    },
+    {
+      "name": "tests.test_logging.test_num_words_flag_recorded_correctly",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.606
+      }
+    },
+    {
+      "name": "tests.test_logging.test_data_accuracy_wpm_matches_result_screen",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.615
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_help_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_version_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_no_tty_rejection",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_file_creation_on_first_completion",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.462
+      }
+    },
+    {
+      "name": "tests.test_logging.test_different_word_counts_logged_correctly",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.651
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_header_format",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.644
+      }
+    },
+    {
+      "name": "tests.test_logging.test_num_words_flag_recorded_correctly",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.605
+      }
+    },
+    {
+      "name": "tests.test_language.test_very_large_word_count",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_initial_screen_with_custom_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.814
+      }
+    },
+    {
+      "name": "tests.test_logging.test_elapsed_secs_decimal_precision",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.625
+      }
+    },
+    {
+      "name": "tests.test_logging.test_different_word_counts_logged_correctly",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.606
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_header_format",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.6
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_no_trailing_comma",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.596
+      }
+    },
+    {
+      "name": "tests.test_language.test_multiple_language_selections_different_words",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 3.629
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_count_large",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_logging.test_elapsed_secs_decimal_precision",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.598
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_header_format",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.595
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_no_trailing_comma",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.605
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_data_format_seven_columns",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.601
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_initial_screen_with_custom_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.814
+      }
+    },
+    {
+      "name": "tests.test_logging.test_elapsed_secs_decimal_precision",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.597
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_no_trailing_comma",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.604
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_count_large",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_data_format_seven_columns",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.6
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_header_written_only_once",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.817
+      }
+    },
+    {
+      "name": "tests.test_language.test_multiple_language_selections_different_words",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 3.63
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_initial_screen_with_custom_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_data_format_seven_columns",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.606
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_complete_test_shows_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 3.225
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_header_written_only_once",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.824
+      }
+    },
+    {
+      "name": "tests.test_language.test_sentence_count_large",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.818
+      }
+    },
+    {
+      "name": "tests.test_language.test_default_language_is_english",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_typing_correct_characters",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.814
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_multiple_backspaces",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.119
+      }
+    },
+    {
+      "name": "tests.test_logging.test_csv_header_written_only_once",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.834
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_unicode_characters",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_language.test_default_language_is_english",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_typing_correct_characters",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_complete_test_shows_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 3.225
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_new_test_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.317
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_multiple_backspaces",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.119
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_unicode_characters",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_language.test_default_language_is_english",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_typing_correct_characters",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_new_test_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.317
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_multiple_backspaces",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 2.12
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_unicode_characters",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_multiline_whitespace",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_complete_test_shows_results",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 3.224
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_typing_incorrect_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.421
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_long_prompt_wrapping",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_backspace_removes_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.117
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_new_test_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 2.318
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_accuracy_calculation_with_errors",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 3.224
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_multiline_whitespace",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_typing_incorrect_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.421
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_long_prompt_wrapping",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.814
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_escape_exits_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.015
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_backspace_removes_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.117
+      }
+    },
+    {
+      "name": "tests.test_language.test_custom_prompt_multiline_whitespace",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_accuracy_calculation_with_errors",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 3.224
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_long_prompt_wrapping",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_empty_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_typing_incorrect_character",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 2.421
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_escape_exits_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.015
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_backspace_removes_character",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 2.12
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_backspace_at_start_does_nothing",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_progress_tracking_partial_completion",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.119
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_timed_test_shows_countdown",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_empty_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_escape_exits_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 2.015
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_accuracy_calculation_with_errors",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 3.224
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_backspace_at_start_does_nothing",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_space_character_in_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_progress_tracking_partial_completion",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.118
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_timed_test_shows_countdown",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_empty_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_retry_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.82
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_backspace_at_start_does_nothing",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_single_character_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.817
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_space_character_in_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_progress_tracking_partial_completion",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 2.118
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_timed_test_shows_countdown",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_initial_screen_display",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_typing_multiple_characters",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_single_character_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_retry_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 2.821
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_space_character_in_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_initial_screen_display",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_accuracy_with_positional_matches",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 3.225
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_special_characters_in_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.816
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_typing_multiple_characters",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_single_character_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_initial_screen_display",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_retry_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 2.821
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_multiple_times",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_typing_multiple_characters",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_typing_first_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_special_characters_in_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.814
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_removes_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_accuracy_with_positional_matches",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 3.227
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_left_arrow_restarts_test",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_multiple_times",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_typing_first_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_special_characters_in_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.815
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_removes_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_left_arrow_restarts_test",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_right_arrow_new_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_multiple_times",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_basic.test_accuracy_with_positional_matches",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 3.226
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_typing_first_character",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_removes_character",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_multiple_restarts_in_session",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_left_arrow_restarts_test",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_at_position_zero",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_then_type_different_char",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_right_arrow_new_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_typing_incorrect_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_mixed_correct_incorrect_typing",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_multiple_restarts_in_session",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_at_position_zero",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.514
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_then_type_different_char",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_right_arrow_new_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.514
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_typing_incorrect_character",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_mixed_correct_incorrect_typing",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_mid_word",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.513
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_multiple_restarts_in_session",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_at_position_zero",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_then_type_different_char",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_typing_incorrect_character",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_cursor_consistency_after_backspace_retype",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_screen_structure_and_stats",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_mixed_correct_incorrect_typing",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_rapid_backspace_sequence",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_accuracy_calculation_with_single_error",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.03
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_mid_word",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.514
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_screen_key_r_restarts_with_same_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_screen_structure_and_stats",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.013
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_cursor_consistency_after_backspace_retype",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_accuracy_calculation_with_single_error",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.008
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_rapid_backspace_sequence",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_screen_key_r_restarts_with_same_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.006
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_backspace_mid_word",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_screen_structure_and_stats",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_screen_key_n_generates_new_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.017
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_accuracy_calculation_with_single_error",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.006
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_escape_key_exits_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.732
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_cursor_consistency_after_backspace_retype",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.511
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_screen_key_r_restarts_with_same_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.01
+      }
+    },
+    {
+      "name": "tests.test_tui_navigation.test_rapid_backspace_sequence",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.512
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_wpm_calculation_is_numeric_or_inf",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.012
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_100_percent_accuracy",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.01
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_std_dev_calculation_present_and_numeric",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_accuracy_calculation_with_multiple_errors",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_screen_key_n_generates_new_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.016
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_escape_key_exits_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.743
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_wpm_calculation_is_numeric_or_inf",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.013
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_100_percent_accuracy",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_escape_key_exits_from_results",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.732
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_std_dev_calculation_present_and_numeric",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_screen_key_n_generates_new_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.011
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_accuracy_calculation_with_multiple_errors",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.047
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_word_count_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.016
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_longer_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_wpm_calculation_is_numeric_or_inf",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_100_percent_accuracy",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.012
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_std_dev_calculation_present_and_numeric",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.019
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_accuracy_calculation_with_multiple_errors",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_very_short_single_char_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.044
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_timer_initial_display",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.456
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_graph_has_data_points",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.042
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_word_count_flag",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.012
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_legend_no_tweet_when_browser_unavailable",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_longer_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.018
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_timer_initial_display",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.458
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_very_short_single_char_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.018
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_graph_has_data_points",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_word_count_flag",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.015
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_legend_no_tweet_when_browser_unavailable",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 1.01
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_longer_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.009
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_timer_initial_display",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.459
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_timer_countdown_after_typing_starts",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.528
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_results_show_elapsed_time_in_timed_mode",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.836
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_with_very_short_single_char_prompt",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.008
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_graph_has_data_points",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.013
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_timer_countdown_after_typing_starts",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.526
+      }
+    },
+    {
+      "name": "tests.test_tui_results.test_results_legend_no_tweet_when_browser_unavailable",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 1.014
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_completion_before_timeout",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.849
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_restart_resets_timer",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.53
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_new_prompt_resets_timer",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.529
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_results_show_elapsed_time_in_timed_mode",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.836
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_hard_stop_at_zero_seconds",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 3.27
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_timer_countdown_after_typing_starts",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.531
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_restart_resets_timer",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.53
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_completion_before_timeout",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.835
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_timer_with_1_second",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.457
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_new_prompt_resets_timer",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.531
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_results_show_elapsed_time_in_timed_mode",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.841
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_restart_resets_timer",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.531
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_timer_with_1_second",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 0.459
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_new_prompt_resets_timer",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.536
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_completion_before_timeout",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.837
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_timer_with_1_second",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 0.46
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_hard_stop_at_zero_seconds",
+      "branch": "36a977a6d0ec",
+      "status": "passed",
+      "extra": {
+        "time": 3.237
+      }
+    },
+    {
+      "name": "tests.test_tui_timed.test_hard_stop_at_zero_seconds",
+      "branch": "36a977a6d0ec",
+      "status": "failure",
+      "extra": {
+        "time": 3.239
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_prompt_accepts_strings_including_spaces_and_empty[args3]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_number_of_words_accepts_various_value_syntaxes[args0]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_number_of_words_accepts_various_value_syntaxes[args1]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_rejects_duplicate_single_use_option",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_missing_value_for_value_options[args0-requires a value]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_enum_option_rejects_invalid_choice[args0]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_missing_value_for_value_options[args1-requires a value]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_negative_integer_is_not_accepted_as_value_without_double_dash",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_multiple_valid_options_together_parse[args2]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_integer_options_reject_non_integer[args4]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_unknown_flag_errors[args0]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_unknown_flag_errors[args1]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_integer_options_reject_non_integer[args2]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_missing_value_for_value_options[args4-requires a value]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_missing_value_for_value_options[args7-requires a value]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_missing_value_for_value_options[args8-requires a value]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_prompt_accepts_strings_including_spaces_and_empty[args0]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_enum_option_rejects_invalid_choice[args2]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_integer_options_reject_non_integer[args5]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_enum_option_rejects_invalid_choice[args1]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_missing_value_for_value_options[args9-requires a value]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_double_dash_does_not_enable_positionals_for_this_program",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_supported_language_accepts_valid_choices[args0]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_supported_language_accepts_valid_choices[args2]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_prompt_accepts_strings_including_spaces_and_empty[args2]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_unexpected_positional_argument_errors",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_combined_short_flags_are_not_supported_for_value_options",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_number_of_words_accepts_various_value_syntaxes[args3]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_integer_option_overflow_rejected",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_number_of_words_accepts_various_value_syntaxes[args4]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_missing_value_for_value_options[args5-requires a value]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_missing_value_for_value_options[args3-requires a value]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_number_of_words_accepts_various_value_syntaxes[args2]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_missing_value_for_value_options[args2-requires a value]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_integer_options_reject_non_integer[args0]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_missing_value_for_value_options[args6-requires a value]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_integer_options_reject_non_integer[args1]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_supported_language_accepts_valid_choices[args1]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_multiple_valid_options_together_parse[args0]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_integer_options_reject_non_integer[args3]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_prompt_accepts_strings_including_spaces_and_empty[args1]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_args_parsing.test_multiple_valid_options_together_parse[args1]",
+      "branch": "ef9aa38e32f1",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_flag_description_present[number of sentences to use in test]",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_takes_precedence_over_unknown_flag",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_includes_help_flag_documentation",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_separator_behavior.test_help_after_double_dash_is_not_treated_as_flag",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_includes_short_description",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_number_of_words_mentions_default_15",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_has_usage_section",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_supported_language_lists_possible_values",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_flag_header_present[-w, --number-of-words]",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_flag_description_present[number of seconds to run test]",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_placeholders_are_consistent",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_usage_line_mentions_executable",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_flag_description_present[language to pull words from]",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_includes_version_flag_documentation",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_flag_description_present[number of words to use in test]",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_flag_header_present[-s, --number-of-secs]",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_flag_description_present[custom prompt to use]",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_behavior.test_help_has_options_section",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_flag_header_present[-f, --full-sentences]",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_baseline_smoke.test_help_matches_baseline_except_version",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_flag_header_present[-p, --prompt]",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_flag_header_present[-l, --supported-language]",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_flags_documented.test_supported_language_mentions_default_english",
+      "branch": "0941826b6d59",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestNoSubcommands.test_help_shows_no_subcommands",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestArgumentValidation.test_seconds_requires_number",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestFlagBehavior.test_invalid_language_value",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestUnknownArguments.test_positional_argument_without_flag",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestNoDefaultSubcommand.test_no_args_behavior",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestArgumentValidation.test_flag_without_value",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestArgumentValidation.test_sentence_count_requires_number",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestUnknownArguments.test_multiple_unknown_args",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestUnknownArguments.test_unknown_flag",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestHelpConsistency.test_help_format_is_standard",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestArgumentValidation.test_word_count_requires_number",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestUnknownArguments.test_common_subcommand_names_are_rejected",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestNoSubcommands.test_short_help_flag",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestNoSubcommands.test_short_version_flag",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestHelpConsistency.test_help_lists_all_main_flags",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommands.TestNoSubcommands.test_version_flag_works",
+      "branch": "1da1c2e41045",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestHelpAndVersion.test_help_short",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestHelpAndVersion.test_version_short",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestEdgeCaseArguments.test_special_chars_custom_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_full_sentences_short",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestHelpAndVersion.test_version_long",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestErrorHandling.test_non_tty_stdin",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestErrorHandling.test_invalid_language",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestEdgeCaseArguments.test_empty_custom_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestEdgeCaseArguments.test_word_count_one",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestEdgeCaseArguments.test_sentences_one",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestErrorHandling.test_negative_word_count",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_full_sentences_long",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_custom_prompt_short",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestEdgeCaseArguments.test_seconds_one",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestHelpAndVersion.test_help_long",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestEdgeCaseArguments.test_word_count_zero",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestEdgeCaseArguments.test_long_custom_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_seconds_short",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_combined_arguments",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_word_count_long",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_custom_prompt_long",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_language_english",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_language_english10k",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestEdgeCaseArguments.test_unicode_custom_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_word_count_short",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestErrorHandling.test_invalid_argument",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestEdgeCaseArguments.test_word_count_large",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestErrorHandling.test_invalid_seconds",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestErrorHandling.test_invalid_word_count",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestEdgeCaseArguments.test_seconds_large",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestErrorHandling.test_negative_seconds",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestEdgeCaseArguments.test_sentences_large",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_seconds_long",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_args.TestValidArguments.test_language_english1k",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestBasicStartup.test_startup_with_sentences",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.542
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestEdgeCases.test_numbers_in_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.551
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestEdgeCases.test_punctuation_in_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.554
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestEdgeCases.test_one_character_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.55
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTypingBehavior.test_type_incorrect_characters",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.547
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestCompletion.test_completion_shows_results",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.545
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTypingBehavior.test_type_correct_characters",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.953
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTypingBehavior.test_backspace_functionality",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.95
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTimeLimitedMode.test_time_limited_mode_expires",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 1.652
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestBasicStartup.test_startup_with_sentences",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.522
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestEdgeCases.test_numbers_in_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.528
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestEdgeCases.test_punctuation_in_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.531
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestEdgeCases.test_one_character_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.531
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTypingBehavior.test_type_incorrect_characters",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.53
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestCompletion.test_completion_shows_results",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.527
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTypingBehavior.test_type_correct_characters",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.93
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTypingBehavior.test_backspace_functionality",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 0.934
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestBasicStartup.test_startup_with_sentences",
+      "branch": "23ef6695e0aa",
+      "status": "failure",
+      "extra": {
+        "time": 0.519
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestEdgeCases.test_numbers_in_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "failure",
+      "extra": {
+        "time": 0.526
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestEdgeCases.test_punctuation_in_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "failure",
+      "extra": {
+        "time": 0.529
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestEdgeCases.test_one_character_prompt",
+      "branch": "23ef6695e0aa",
+      "status": "failure",
+      "extra": {
+        "time": 0.529
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTypingBehavior.test_type_incorrect_characters",
+      "branch": "23ef6695e0aa",
+      "status": "failure",
+      "extra": {
+        "time": 0.53
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestCompletion.test_completion_shows_results",
+      "branch": "23ef6695e0aa",
+      "status": "failure",
+      "extra": {
+        "time": 0.628
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTimeLimitedMode.test_time_limited_mode_expires",
+      "branch": "23ef6695e0aa",
+      "status": "passed",
+      "extra": {
+        "time": 1.526
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTypingBehavior.test_type_correct_characters",
+      "branch": "23ef6695e0aa",
+      "status": "failure",
+      "extra": {
+        "time": 0.932
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTypingBehavior.test_backspace_functionality",
+      "branch": "23ef6695e0aa",
+      "status": "failure",
+      "extra": {
+        "time": 1.035
+      }
+    },
+    {
+      "name": "eval.tests.test_interactive.TestTimeLimitedMode.test_time_limited_mode_expires",
+      "branch": "23ef6695e0aa",
+      "status": "failure",
+      "extra": {
+        "time": 1.53
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_noninteractive.test_invalid_numeric_value[args0-Invalid value \"foo\" for '--number-of-words]",
+      "branch": "7fe6e36d46d1",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_noninteractive.test_help_overrides_other_args",
+      "branch": "7fe6e36d46d1",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_noninteractive.test_invalid_numeric_value[args1-Invalid value \"foo\" for '--number-of-secs]",
+      "branch": "7fe6e36d46d1",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_noninteractive.test_help_exact_output",
+      "branch": "7fe6e36d46d1",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_noninteractive.test_negative_number_is_parsed_as_flaglike_and_errors",
+      "branch": "7fe6e36d46d1",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_noninteractive.test_unknown_flag_error",
+      "branch": "7fe6e36d46d1",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_noninteractive.test_invalid_supported_language_enum",
+      "branch": "7fe6e36d46d1",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_noninteractive.test_version_exact_output",
+      "branch": "7fe6e36d46d1",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_noninteractive.test_requires_tty_stdin",
+      "branch": "7fe6e36d46d1",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    }
+  ],
+  "error_code": null,
+  "error_details": null,
+  "log": [],
+  "solution_branch": "pbconv-internal_realmax-20260913_134958-jrnxf__thokr.09375ef",
+  "test_branches": [
+    "30e1ad7f2bf9",
+    "2a583613c55b",
+    "36a977a6d0ec",
+    "ef9aa38e32f1",
+    "0941826b6d59",
+    "1da1c2e41045",
+    "23ef6695e0aa",
+    "7fe6e36d46d1",
+    "test-johnby-create_tui_tests__gpt-5-2-genai-20260310_150725"
+  ],
+  "test_branch_errors": {},
+  "executable_hash": "018c9c71fd954f4df1fce92f2014d64f4faad70889c45af7ac4917a351298acf",
+  "warnings": []
+}

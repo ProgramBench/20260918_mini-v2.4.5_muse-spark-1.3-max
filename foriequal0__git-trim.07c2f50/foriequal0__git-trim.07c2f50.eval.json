@@ -1,0 +1,5265 @@
+{
+  "test_results": [
+    {
+      "name": "eval.tests.test_basic_invocation.test_version_short_flag",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_flag",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_no_git_repo_error",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_help_short_flag",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_version_flag",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_detach_control.test_no_detach_flag",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.037
+      }
+    },
+    {
+      "name": "eval.tests.test_dry_run.test_dry_run_output_format",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.037
+      }
+    },
+    {
+      "name": "eval.tests.test_bases_configuration.test_bases_flag_single_branch",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.04
+      }
+    },
+    {
+      "name": "eval.tests.test_basic_invocation.test_no_remote_error",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.029
+      }
+    },
+    {
+      "name": "eval.tests.test_bases_configuration.test_bases_empty_uses_default",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "eval.tests.test_delete_ranges.test_delete_merged_with_remote",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "eval.tests.test_output_parsing.test_output_lists_protected_branches",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "eval.tests.test_git_config_integration.test_trim_bases_config",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.051
+      }
+    },
+    {
+      "name": "eval.tests.test_bases_configuration.test_bases_with_nonexistent_branch_succeeds",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "eval.tests.test_protected_branches.test_protected_with_wildcard",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.056
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_concurrent_branch_changes",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.054
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_branch_with_special_characters",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.053
+      }
+    },
+    {
+      "name": "eval.tests.test_delete_ranges.test_delete_invalid_format",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "eval.tests.test_output_parsing.test_output_with_multiple_bases",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "eval.tests.test_protected_branches.test_protected_single_pattern",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "eval.tests.test_bases_configuration.test_bases_with_alias_base",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "eval.tests.test_output_parsing.test_output_shows_branch_types",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.051
+      }
+    },
+    {
+      "name": "eval.tests.test_output_parsing.test_no_delete_output",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_unicode_in_commit_messages",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "eval.tests.test_edge_cases.test_protected_pattern_edge_cases",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "eval.tests.test_output_parsing.test_output_shows_base_branches",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "eval.tests.test_git_config_integration.test_trim_protected_config",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.057
+      }
+    },
+    {
+      "name": "eval.tests.test_dry_run.test_dry_run_flag",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "eval.tests.test_integration_merged_branches.test_protected_branch_not_deleted",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "eval.tests.test_remote_operations.test_wildcard_remote_deletion",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.117
+      }
+    },
+    {
+      "name": "eval.tests.test_actual_deletion.test_dry_run_vs_actual_deletion",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.124
+      }
+    },
+    {
+      "name": "eval.tests.test_integration_merged_branches.test_stray_branch_detection",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "eval.tests.test_integration_merged_branches.test_merged_local_branch_deletion",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "eval.tests.test_integration_merged_branches.test_merged_branch_detected",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.122
+      }
+    },
+    {
+      "name": "eval.tests.test_remote_operations.test_merged_remote_branch_detection",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "eval.tests.test_output_parsing.test_deletion_output_format",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.122
+      }
+    },
+    {
+      "name": "eval.tests.test_remote_operations.test_delete_remote_branch",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "eval.tests.test_actual_deletion.test_actual_merged_branch_deletion",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "eval.tests.test_integration_merged_branches.test_multiple_merged_branches",
+      "branch": "80d1d2869975",
+      "status": "passed",
+      "extra": {
+        "time": 0.181
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_short_flag",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_no_git_repository",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_output_structure",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_version_flag",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_no_base_branches_detected",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.024
+      }
+    },
+    {
+      "name": "tests.test_config_combinations.test_config_update_interval_custom",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.025
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_contains_all_options",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_help_flag",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_conflicting_update_flags",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.03
+      }
+    },
+    {
+      "name": "tests.test_config_combinations.test_invalid_update_interval",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.031
+      }
+    },
+    {
+      "name": "tests.test_config_combinations.test_mixed_config_and_cli",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "tests.test_config_combinations.test_config_delete_multiple",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.033
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_conflicting_confirm_flags",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.03
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_version_short_flag",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_output_verification.test_help_output_to_stdout",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_delete_range_remote",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.036
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_conflicting_detach_flags",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.036
+      }
+    },
+    {
+      "name": "tests.test_output_verification.test_version_output_to_stdout",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_invalid_protected_pattern",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.038
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_delete_flag_combinations",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.041
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_wildcard_remote_in_delete",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.04
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_multiple_protected_patterns",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.039
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_explicit_confirm_flag",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.038
+      }
+    },
+    {
+      "name": "tests.test_config_combinations.test_config_confirm_true",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.041
+      }
+    },
+    {
+      "name": "tests.test_basic_invocation.test_no_remotes_configured",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.031
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_remote_with_special_name",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_protected_with_empty_string",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.041
+      }
+    },
+    {
+      "name": "tests.test_config_combinations.test_delete_range_scope_parsing",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.051
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_protected_pattern_with_wildcard_middle",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_branch_name_with_numbers",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_cli_overrides_git_config",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.056
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_delete_range_diverged",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.054
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_multiple_bases",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_config_combinations.test_config_detach_false",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_output_verification.test_output_with_no_remotes",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.037
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_branch_with_dots",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_output_verification.test_exit_code_on_error",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_base_alias",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_advanced_scenarios.test_detached_head_state",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_config_combinations.test_config_delete_merged_local",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_config_combinations.test_config_update_true",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_delete_range_with_wildcard",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_advanced_scenarios.test_branch_name_with_special_chars",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.079
+      }
+    },
+    {
+      "name": "tests.test_special_cases.test_remote_with_ssh_url",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "tests.test_advanced_scenarios.test_empty_protected_pattern",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.041
+      }
+    },
+    {
+      "name": "tests.test_config_combinations.test_config_bases_multiple",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.052
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_explicit_detach_flag",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.05
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_update_interval_with_explicit_zero",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_empty_bases_behavior",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_multiple_remotes",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.075
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_no_branches_to_delete",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_update_interval_zero",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_conflicting_flags.test_explicit_update_flag",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_advanced_scenarios.test_multiple_delete_ranges",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_invalid_delete_range_format",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_output_verification.test_stderr_for_errors",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.034
+      }
+    },
+    {
+      "name": "tests.test_error_handling.test_git_config_integration",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_advanced_scenarios.test_all_delete_ranges",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_branch_with_commits_ahead",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_output_verification.test_output_shows_branch_classification",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_advanced_scenarios.test_rebase_merge_detection",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.093
+      }
+    },
+    {
+      "name": "tests.test_special_cases.test_stray_with_no_upstream",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.048
+      }
+    },
+    {
+      "name": "tests.test_advanced_scenarios.test_git_config_all_options",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_special_cases.test_remote_with_https_url",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.042
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_branch_name_with_underscore",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_special_cases.test_delete_merged_with_explicit_origin",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_protected_branches_not_deleted",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_very_long_branch_name",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_local_non_tracking_branches",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "tests.test_special_cases.test_remote_delete_range",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_output_verification.test_output_format_consistency",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_protected_pattern_with_wildcard_prefix",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_config_combinations.test_config_protected_multiple",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.056
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_detects_merged_local_branch",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_current_branch_handling",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.107
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_branch_name_with_slash",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.092
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_many_remotes",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.082
+      }
+    },
+    {
+      "name": "tests.test_special_cases.test_unmerged_branch",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_special_cases.test_protected_exact_match",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_output_verification.test_output_shows_protected_branches",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_advanced_scenarios.test_branch_ahead_and_behind",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.107
+      }
+    },
+    {
+      "name": "tests.test_special_cases.test_base_branch_specified",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.071
+      }
+    },
+    {
+      "name": "tests.test_advanced_scenarios.test_diverged_branch_detection",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.12
+      }
+    },
+    {
+      "name": "tests.test_advanced_scenarios.test_squash_merge_detection",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.125
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_detects_stray_branch",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.132
+      }
+    },
+    {
+      "name": "tests.test_output_verification.test_dry_run_shows_what_would_be_deleted",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_special_cases.test_branch_fully_merged",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.098
+      }
+    },
+    {
+      "name": "tests.test_advanced_scenarios.test_remote_branch_deletion",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.118
+      }
+    },
+    {
+      "name": "tests.test_special_cases.test_multiple_commits_on_branch",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.133
+      }
+    },
+    {
+      "name": "tests.test_special_cases.test_local_delete_range",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "tests.test_git_operations.test_remote_tracking_branches",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.147
+      }
+    },
+    {
+      "name": "tests.test_output_verification.test_verbose_output_with_multiple_branches",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.142
+      }
+    },
+    {
+      "name": "tests.test_edge_cases.test_multiple_merged_branches",
+      "branch": "a03959b491c9",
+      "status": "passed",
+      "extra": {
+        "time": 0.184
+      }
+    },
+    {
+      "name": "tests.test_cli.test_short_version_flag",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_cli.test_empty_scope_in_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_config_invalid_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.02
+      }
+    },
+    {
+      "name": "tests.test_cli.test_negative_update_interval",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_delete_remote_with_wildcard",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.022
+      }
+    },
+    {
+      "name": "tests.test_cli.test_delete_stray_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.025
+      }
+    },
+    {
+      "name": "tests.test_cli.test_diverged_delete_range_requires_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_cli.test_unknown_flag_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_error_empty_bases_via_git_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.023
+      }
+    },
+    {
+      "name": "tests.test_cli.test_error_not_in_git_repository",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_help_flag",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_core.test_empty_repository_no_crash",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "tests.test_cli.test_bases_flag_single_value",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.029
+      }
+    },
+    {
+      "name": "tests.test_errors.test_empty_scope_in_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_config_file_no_confirm",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.04
+      }
+    },
+    {
+      "name": "tests.test_cli.test_version_output",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_protected_pattern_with_no_matches",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.041
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_comma_separated_empty_items_skipped",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_git_config_empty_bases",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.04
+      }
+    },
+    {
+      "name": "tests.test_cli.test_conflicting_update_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "tests.test_cli.test_conflicting_detach_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "tests.test_cli.test_update_interval_numeric_value",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.051
+      }
+    },
+    {
+      "name": "tests.test_cli.test_config_invalid_update_interval",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.04
+      }
+    },
+    {
+      "name": "tests.test_cli.test_bases_multiple_comma_separated",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.047
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_all_help_suggestions_present_git_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_error_message_final_line",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_invalid_delete_range_format",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_errors.test_no_remotes_configured",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.025
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_detach_boolean",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_whitespace_in_bases_rejected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_single_remote_no_for_loop_command",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_bases_from_git_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_cli.test_delete_multiple_ranges",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.06
+      }
+    },
+    {
+      "name": "tests.test_errors.test_no_bases_multiple_remotes",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.055
+      }
+    },
+    {
+      "name": "tests.test_cli.test_short_help_flag",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_git_config_empty_with_multiple_remotes",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_cli.test_empty_protected_pattern",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_error_propagation_on_config_read_failure",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_cli.test_merged_remote_requires_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_ref_name_in_bases",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_no_bases_implicit_multiple_remotes",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_errors.test_conflicting_update_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_no_remotes_configured_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.042
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_delete_filter_from_git_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.107
+      }
+    },
+    {
+      "name": "tests.test_cli.test_delete_remote_with_explicit_remote",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_multiple_delete_entries_one_invalid",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.111
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_delete_whitespace_trimmed",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_empty_comma_separated_items_ignored",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_flag_unknown_option",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_negative_update_interval_panics",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.111
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_delete_range_remote_without_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_bases_implicit_value",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.102
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_no_bases_git_config_empty",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.055
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_leading_trailing_commas_in_protected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.117
+      }
+    },
+    {
+      "name": "tests.test_errors.test_conflicting_detach_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_cli.test_help_output",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_invalid_update_interval_format",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "tests.test_cli.test_error_no_remotes_configured",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.03
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_bases_comma_separated_in_single_entry",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.121
+      }
+    },
+    {
+      "name": "tests.test_cli.test_no_bases_implicit_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.052
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_multiple_remotes_default_bases",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.149
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_update_interval_zero_always_updates",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_core.test_base_branch_preserved",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.161
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_delete_range_stray_removes_tracking_gone_upstream",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.166
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_comma_separated_delete_single_entry",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.122
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_bases_args_value",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.109
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_invalid_boolean_rejected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.123
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_implicit_single_remote_no_head",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_delete_filter_multiple_comma_separated_values",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.111
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_error_no_bases_single_remote",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.045
+      }
+    },
+    {
+      "name": "tests.test_cli.test_very_long_branch_names",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_cli.test_base_alias_for_bases",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_cli.test_delete_local_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_protected_from_git_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.131
+      }
+    },
+    {
+      "name": "tests.test_cli.test_delete_merged_with_explicit_remote",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_cli.test_remote_delete_range_requires_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_errors.test_not_in_git_repository",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_update_interval_numeric",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.134
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_stray_branch_preservation_without_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.173
+      }
+    },
+    {
+      "name": "tests.test_core.test_merged_remote_only_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.207
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_remote_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_prompt_survey_on_push_upstream",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_get_merge_none_when_not_set",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.17
+      }
+    },
+    {
+      "name": "tests.test_cli.test_protected_patterns_multiple_globs",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_main_remaining.test_skip_suggestion_merged_star_multiple_remotes",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_multi_remote_for_loop_command_present",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.053
+      }
+    },
+    {
+      "name": "tests.test_cli.test_config_file_no_update",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.081
+      }
+    },
+    {
+      "name": "tests.test_errors.test_no_bases_single_remote",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_all_help_suggestions_present_implicit",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.049
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_orphan_noop",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.18
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_multiple_remotes_push_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.063
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_skip_recent_update",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_push_remote_fallback_to_origin_when_no_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.198
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_version",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_cli.test_config_invalid_bool_value",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.055
+      }
+    },
+    {
+      "name": "tests.test_smoke.test_help",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_cli.test_special_characters_in_branch_names",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_implicit_single_remote_specific_name_in_message",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.046
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_skip_suggestions_non_tracking_and_non_upstream",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.211
+      }
+    },
+    {
+      "name": "tests.test_cli.test_cli_overrides_config_file",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_default_bases_uses_remote_head",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.121
+      }
+    },
+    {
+      "name": "tests.test_errors.test_explicit_empty_bases_from_gitconfig",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.056
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_prompt_survey_for_push_upstream_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.053
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_should_update_missing_fetch_head",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.164
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_should_update_with_zero_interval",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.167
+      }
+    },
+    {
+      "name": "tests.test_cli.test_delete_diverged_with_explicit_remote",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.061
+      }
+    },
+    {
+      "name": "tests.test_core.test_rebase_merge_detection",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.258
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_no_bases_implicit_single_remote",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.042
+      }
+    },
+    {
+      "name": "tests.test_cli.test_config_file_protected_patterns",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_core.test_actual_deletion_not_dry_run",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.268
+      }
+    },
+    {
+      "name": "tests.test_errors.test_bare_repository_not_supported",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.181
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_merged_non_tracking_local_with_delete_range_filter",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.228
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_bases_cli_overrides_git_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.12
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_push_remote_branch_pushremote_overrides_pushdefault",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.271
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_explicit_update_flag_forces_update",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_base_branch_is_itself_merged_remote_tracking",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.268
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_invalid_numeric_rejected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.133
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_detached_head_allows_all_branch_deletion",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.285
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_implicit_three_remotes_generic_message",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.059
+      }
+    },
+    {
+      "name": "tests.test_core.test_config_based_settings",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.295
+      }
+    },
+    {
+      "name": "tests.test_core.test_merged_local_and_remote_basic",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.289
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_non_tracking_local_branch_without_delete_local_flag",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.254
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_default_value_when_empty_git_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.129
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_adjust_not_to_detach_when_already_detached",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.298
+      }
+    },
+    {
+      "name": "tests.test_core.test_remote_non_upstream_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.286
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_comma_separated_with_whitespace",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.127
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_delete_filter_multiple_entries",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.134
+      }
+    },
+    {
+      "name": "tests.test_main_remaining.test_skip_suggestion_merged_local",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.068
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_bases_config_value",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.12
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_non_trackings_merged_non_tracking",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.29
+      }
+    },
+    {
+      "name": "tests.test_small_gaps.test_refspec_empty_remote_list",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.066
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_unknown_delete_keyword",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.14
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_diverged_branch_preservation_without_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.347
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_actual_deletion_with_detached_head_warning",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.314
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_github_flow_accepted",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.331
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_negative_update_interval_panics",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.129
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_github_flow_rejected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.31
+      }
+    },
+    {
+      "name": "tests.test_interactive.test_dry_run_skips_confirmation",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.285
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_protected_multiple_entries_and_comma_separated",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.139
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_comma_separated_delete_one_bad",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.127
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_empty_bases_rejected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.134
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_diverged_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.13
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_feature_to_develop",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.357
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_develop_to_master",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.375
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_delete_range_diverged_flag_accepted",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.146
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_rejected_feature_to_develop",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.343
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_delete_range_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.136
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_multiple_bases_entries_merged",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.126
+      }
+    },
+    {
+      "name": "tests.test_small_gaps.test_refspec_wildcard_prefix_expansion",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.199
+      }
+    },
+    {
+      "name": "tests.test_core.test_non_fast_forward_merge",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.368
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_confirm_boolean",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.146
+      }
+    },
+    {
+      "name": "tests.test_small_gaps.test_exact_refspec_pattern_no_wildcard",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.186
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_update_boolean_false",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.149
+      }
+    },
+    {
+      "name": "tests.test_utils.test_bases_with_whitespace_causes_error",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_merge_style_noff",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.373
+      }
+    },
+    {
+      "name": "tests.test_small_gaps.test_refspec_direction_mismatch_push_only",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.131
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_broken_symbolic_ref_handled",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.132
+      }
+    },
+    {
+      "name": "tests.test_small_gaps.test_refspec_nonmatching_pattern",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.221
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_worktree_preservation_of_merged_branch",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.291
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_skipped_branches_multiple_remotes",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.273
+      }
+    },
+    {
+      "name": "tests.test_skip_suggestions.test_skip_suggestion_single_remote_appears_unreachable",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.19
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_special_characters_in_branch_names",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.184
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_github_flow_accepted_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.398
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_pattern_with_refs_prefix",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.152
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_recent_fetch_head_skips_update",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.07
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_multiple_bases_entries",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.14
+      }
+    },
+    {
+      "name": "tests.test_core.test_diverged_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.435
+      }
+    },
+    {
+      "name": "tests.test_core.test_multiple_branches_same_commit",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.338
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_get_remote_name_none_when_not_set",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.175
+      }
+    },
+    {
+      "name": "tests.test_interactive.test_confirm_default_is_no",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.427
+      }
+    },
+    {
+      "name": "tests.test_skip_suggestions.test_no_skip_suggestion_when_no_skipped_branches",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.207
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_non_heads_remote_preservation",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.302
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_merge_style_squash",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.305
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_worktree_mixed",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.191
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.307
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_get_remote_invalid_remote_name",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.143
+      }
+    },
+    {
+      "name": "tests.test_interactive.test_confirm_with_no_branches_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.118
+      }
+    },
+    {
+      "name": "tests.test_small_gaps.test_refspec_no_matching_refspec_returns_none",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.178
+      }
+    },
+    {
+      "name": "tests.test_interactive.test_confirm_yes_deletes_branches",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.454
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_bases_multiple_comma_separated_values",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.133
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_case_sensitive_matching",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.168
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_multiple_patterns_comma_separated",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.222
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_prefix_wildcard_protects_subdirectory_branches",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.221
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_should_update_with_fetch_prune_disabled",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.193
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_merged_direct_fetch_protected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.373
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_wildcard_prefix_matches_suffix",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.225
+      }
+    },
+    {
+      "name": "tests.test_defensive_paths.test_refspec_with_special_branch_characters",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.503
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_should_not_push_delete_non_heads",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.456
+      }
+    },
+    {
+      "name": "tests.test_skip_suggestions.test_skip_suggestion_merged_local_gone_upstream",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.25
+      }
+    },
+    {
+      "name": "tests.test_core.test_protected_pattern_multiple",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.491
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_wildcard_suffix_protects_branches",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.215
+      }
+    },
+    {
+      "name": "tests.test_core.test_stray_branch_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.259
+      }
+    },
+    {
+      "name": "tests.test_core.test_multiple_remotes_scoped_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.481
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_merged_remote_preservation_without_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.27
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_rejected_feature_to_develop",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.389
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_slash_in_pattern_matches_paths",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.204
+      }
+    },
+    {
+      "name": "tests.test_defensive_paths.test_refspec_unicode_branch_names",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.514
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_rejected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.406
+      }
+    },
+    {
+      "name": "tests.test_skip_suggestions.test_skip_suggestion_merged_local_direct_fetch",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.244
+      }
+    },
+    {
+      "name": "tests.test_small_gaps.test_refspec_expansion_left_side",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.28
+      }
+    },
+    {
+      "name": "tests.test_subprocess.test_git_trim_branch_deletion_dry_run",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.253
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_no_pattern_no_protection",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.25
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_diverged_remote_tracking_base_preservation",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.43
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_should_update_recent_fetch_head",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.192
+      }
+    },
+    {
+      "name": "tests.test_subprocess.test_git_trim_push_delete_dry_run",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.268
+      }
+    },
+    {
+      "name": "tests.test_main_remaining.test_diverged_remote_tracking_classification_output",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.292
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_rejected_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.411
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_merged_non_upstream_remote_tracking_preservation",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.242
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_diverged_remote_tracking_branch_preserved_as_base",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.467
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_non_trackings_merged_non_upstream",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.209
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_overlapping_patterns",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.252
+      }
+    },
+    {
+      "name": "tests.test_core.test_branch_name_with_special_chars",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.552
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_push_remote_uses_pushdefault_when_no_branch_pushremote",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.239
+      }
+    },
+    {
+      "name": "tests.test_core.test_merged_local_only_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.24
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_confirmation_cancelled",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.392
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.455
+      }
+    },
+    {
+      "name": "tests.test_core.test_detach_behavior_with_flag",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.251
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_non_upstream_remote_branch_without_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.245
+      }
+    },
+    {
+      "name": "tests.test_core.test_protected_pattern_simple",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.236
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_feature_to_develop_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.445
+      }
+    },
+    {
+      "name": "tests.test_small_gaps.test_refspec_wildcard_middle_expansion",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.128
+      }
+    },
+    {
+      "name": "tests.test_skip_suggestions.test_skip_suggestion_mixed_tracking_states",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.312
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_modified_and_accepted",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.467
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_protection_prevents_deletion_of_merged_branches",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.337
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_protected_pattern_preserves_merged_branch",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.233
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.447
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_protected_non_upstream_remote",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.329
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_non_heads_remote_ref_preservation",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.266
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_multivalue_non_comma_separated",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.361
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_feature_to_develop",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.476
+      }
+    },
+    {
+      "name": "tests.test_core.test_local_non_tracking_delete_range",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.149
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_github_flow_rejected_but_edited",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.246
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_worktree_preservation_with_merged_branch",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.259
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_github_flow_accepted_but_edited",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.26
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.461
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_merge_style_rebase",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.204
+      }
+    },
+    {
+      "name": "tests.test_defensive_paths.test_refspec_wildcard_at_start_and_end_separately",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.618
+      }
+    },
+    {
+      "name": "tests.test_core.test_base_pattern_matching",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.229
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_feature_to_develop_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.257
+      }
+    },
+    {
+      "name": "tests.test_interactive.test_no_confirm_flag_skips_prompt",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.176
+      }
+    },
+    {
+      "name": "tests.test_core.test_squash_merge_detection",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.254
+      }
+    },
+    {
+      "name": "tests.test_core.test_worktree_branch_preserved",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.294
+      }
+    },
+    {
+      "name": "tests.test_core.test_combined_delete_ranges",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.331
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_develop_to_master_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.261
+      }
+    },
+    {
+      "name": "tests.test_core.test_no_detach_preserves_current_branch",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.146
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_rejected_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.207
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_merge_style_mixed",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.356
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_github_flow_accepted_but_forgot_to_delete_and_edited",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.222
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_multiple_remotes_with_scoped_delete_filter",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.301
+      }
+    },
+    {
+      "name": "tests.test_utils.test_protected_pattern_stored_in_git_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.105
+      }
+    },
+    {
+      "name": "tests.test_core.test_wildcard_remote_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.164
+      }
+    },
+    {
+      "name": "tests.test_defensive_paths.test_refspec_with_nested_path_components",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.354
+      }
+    },
+    {
+      "name": "tests.test_defensive_paths.test_refspec_empty_wildcard_match",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.196
+      }
+    },
+    {
+      "name": "tests.test_defensive_paths.test_refspec_long_branch_names",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.177
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_mixed",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.214
+      }
+    },
+    {
+      "name": "tests.test_core.test_deeply_nested_merge_history",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.156
+      }
+    },
+    {
+      "name": "tests.test_interactive.test_confirm_no_cancels_deletion",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.302
+      }
+    },
+    {
+      "name": "tests.test_defensive_paths.test_refspec_case_sensitivity",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.164
+      }
+    },
+    {
+      "name": "tests.test_cli.test_conflicting_detach_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_conflicting_update_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_ref_name_in_bases",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_errors.test_conflicting_update_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_conflicting_detach_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_implicit_single_remote_no_head",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_error_no_bases_single_remote",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_prompt_survey_on_push_upstream",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_multiple_remotes_push_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_skip_recent_update",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_remote_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_prompt_survey_for_push_upstream_config",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_implicit_three_remotes_generic_message",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "tests.test_errors.test_bare_repository_not_supported",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_main_remaining.test_skip_suggestion_merged_local",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_diverged_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.032
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_delete_range_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.033
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_multiple_bases_entries_merged",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "tests.test_small_gaps.test_refspec_direction_mismatch_push_only",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_recent_fetch_head_skips_update",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_broken_symbolic_ref_handled",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_multiple_bases_entries",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.038
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_skipped_branches_multiple_remotes",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_get_remote_invalid_remote_name",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.038
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_worktree_preservation_of_merged_branch",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_bases_multiple_comma_separated_values",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.032
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_non_heads_remote_preservation",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.085
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_merge_style_squash",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.083
+      }
+    },
+    {
+      "name": "tests.test_skip_suggestions.test_skip_suggestion_merged_local_gone_upstream",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.064
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_skip_suggestions.test_skip_suggestion_merged_local_direct_fetch",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.067
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_merged_direct_fetch_protected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.111
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_should_update_recent_fetch_head",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.077
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_rejected_feature_to_develop",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_rejected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.131
+      }
+    },
+    {
+      "name": "tests.test_skip_suggestions.test_skip_suggestion_mixed_tracking_states",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.101
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_rejected_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.124
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_diverged_remote_tracking_base_preservation",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.139
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_protected_non_upstream_remote",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.117
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_diverged_remote_tracking_branch_preserved_as_base",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.152
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_worktree_preservation_with_merged_branch",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.146
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_multivalue_non_comma_separated",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.131
+      }
+    },
+    {
+      "name": "tests.test_core.test_squash_merge_detection",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_core.test_worktree_branch_preserved",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.105
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_feature_to_develop_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.155
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.147
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_modified_and_accepted",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.153
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_rejected_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.088
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_feature_to_develop",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.146
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.141
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_merge_style_mixed",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.125
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_multiple_remotes_with_scoped_delete_filter",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.136
+      }
+    },
+    {
+      "name": "tests.test_cli.test_conflicting_detach_flags",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_invalid_delete_range_format",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_cli.test_conflicting_update_flags",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_cli.test_conflicting_confirm_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_ref_name_in_bases",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_conflicting_update_flags",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_update_interval_non_numeric",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_conflicting_confirm_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_conflicting_detach_flags",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_version_flag",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.001
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_implicit_single_remote_no_head",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_error_no_bases_single_remote",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_error_no_bases_multiple_remotes",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_implicit_multiple_remotes_no_heads",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_prompt_survey_on_push_upstream",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_multiple_remotes_push_config",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_skip_recent_update",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.018
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_prompt_survey_for_push_upstream_config",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_remote_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.036
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_remote_push_config_survey_prompt",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_explicit_update_flag_forces_fetch",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_small_gaps.test_refspec_wildcard_suffix_expansion",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.044
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_merged_remote_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.033
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_old_fetch_head_with_prune_enabled",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.072
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_implicit_three_remotes_generic_message",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "tests.test_main_remaining.test_skip_suggestion_merged_local",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.019
+      }
+    },
+    {
+      "name": "tests.test_errors.test_bare_repository_not_supported",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.062
+      }
+    },
+    {
+      "name": "tests.test_errors.test_invalid_delete_range_format",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_diverged_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.034
+      }
+    },
+    {
+      "name": "tests.test_subprocess.test_merged_branch_detection_with_ff_merge",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_delete_range_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.036
+      }
+    },
+    {
+      "name": "tests.test_config.test_config_multiple_bases_entries_merged",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.037
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_recent_fetch_head_skips_update",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.017
+      }
+    },
+    {
+      "name": "tests.test_small_gaps.test_refspec_direction_mismatch_push_only",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.035
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_broken_symbolic_ref_handled",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.034
+      }
+    },
+    {
+      "name": "tests.test_subprocess.test_remote_update_unreachable",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_exact_match_no_wildcard",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.058
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_multiple_bases_entries",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.038
+      }
+    },
+    {
+      "name": "tests.test_utils.test_bases_flag_accepts_comma_separated_values",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.051
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_empty_pattern_protects_nothing",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_get_remote_invalid_remote_name",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.037
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_config_bases_multiple_comma_separated_values",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.031
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_skipped_branches_multiple_remotes",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_worktree_preservation_of_merged_branch",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.089
+      }
+    },
+    {
+      "name": "tests.test_skip_suggestions.test_skip_suggestion_merged_local_gone_upstream",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.065
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_skipped_tracking_gone_upstream",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.055
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_non_heads_remote_preservation",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_merge_style_squash",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.084
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.086
+      }
+    },
+    {
+      "name": "tests.test_utils.test_glob_wildcard_in_middle_of_pattern",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.043
+      }
+    },
+    {
+      "name": "tests.test_skip_suggestions.test_skip_suggestion_merged_local_direct_fetch",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_filter_accidential_track",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.038
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_head_preservation_with_no_detach_flag",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_main_errors.test_should_update_recent_fetch_head",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.074
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_merged_direct_fetch_protected",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.11
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_non_tracking_local_branch_classification",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.069
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_hotfix_to_master_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "tests.test_skip_suggestions.test_skip_suggestion_mixed_tracking_states",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_rejected_feature_to_develop",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.121
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_protected_non_upstream_remote",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.116
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_rejected",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.141
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_rejected_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.129
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_worktree_preservation_with_merged_branch",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.106
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_diverged_remote_tracking_base_preservation",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.141
+      }
+    },
+    {
+      "name": "tests.test_core.test_squash_merge_detection",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.107
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_rejected_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "tests.test_core.test_worktree_branch_preserved",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.106
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_diverged_direct_fetch_protected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.148
+      }
+    },
+    {
+      "name": "tests.test_config_edge_cases.test_config_multivalue_non_comma_separated",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.135
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_diverged_remote_tracking_branch_preserved_as_base",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.163
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.159
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.156
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_feature_to_develop_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.158
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_feature_to_develop",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.152
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_modified_and_accepted",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.161
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_hotfix_to_master",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.151
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_merge_style_mixed",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.134
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_merged_direct_fetch_hub_cli_style",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.087
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_accepted",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.145
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_stray_branch_with_delete_range_not_given",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_coverage_push.test_multiple_remotes_with_scoped_delete_filter",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.149
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted_but_forgot_to_delete_and_edited",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.155
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_modified_and_accepted_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.174
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_rejected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.108
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_rejected_but_edited",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.125
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_develop_to_master",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.133
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_hotfix_to_master_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.126
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted_but_edited",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.14
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_develop_to_master_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.149
+      }
+    },
+    {
+      "name": "tests.test_cli.test_conflicting_confirm_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_errors.test_conflicting_confirm_flags",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_error_no_bases_multiple_remotes",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_implicit_multiple_remotes_no_heads",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_remote_push_config_survey_prompt",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_merged_remote_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.033
+      }
+    },
+    {
+      "name": "tests.test_subprocess.test_merged_branch_detection_with_ff_merge",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.106
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_filter_accidential_track",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.037
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_hotfix_to_master_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.08
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_diverged_direct_fetch_protected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.104
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_merged_direct_fetch_hub_cli_style",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.078
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_accepted",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "tests.test_cli.test_conflicting_confirm_flags",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_rejected",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.103
+      }
+    },
+    {
+      "name": "tests.test_errors.test_conflicting_confirm_flags",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted_but_forgot_to_delete_and_edited",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.136
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_modified_and_accepted_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.15
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_rejected_but_edited",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.12
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_develop_to_master",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.138
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_develop_to_master_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.125
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_hotfix_to_master_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.132
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted_but_edited",
+      "branch": "df37316a82f6",
+      "status": "passed",
+      "extra": {
+        "time": 0.136
+      }
+    },
+    {
+      "name": "tests.test_advanced_flows.test_error_no_bases_multiple_remotes",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "tests.test_error_no_bases.test_implicit_multiple_remotes_no_heads",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.015
+      }
+    },
+    {
+      "name": "tests.test_main_gaps.test_remote_push_config_survey_prompt",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.016
+      }
+    },
+    {
+      "name": "tests.test_config_advanced.test_config_merged_remote_empty_scope",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.032
+      }
+    },
+    {
+      "name": "tests.test_subprocess.test_merged_branch_detection_with_ff_merge",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.096
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_filter_accidential_track",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.034
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_simple_git_flow_hotfix_to_master_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_print_summary.test_diverged_direct_fetch_protected",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.107
+      }
+    },
+    {
+      "name": "tests.test_core_edge_cases.test_merged_direct_fetch_hub_cli_style",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.073
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_accepted",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.114
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_rejected",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.099
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted_but_forgot_to_delete_and_edited",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.134
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_rejected_but_edited",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.13
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_hub_cli_checkout_modified_and_accepted_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.138
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_develop_to_master_but_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.129
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_develop_to_master",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.135
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_git_flow_hotfix_to_master_forgot_to_delete",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.131
+      }
+    },
+    {
+      "name": "tests.test_harvest.test_triangular_github_flow_accepted_but_edited",
+      "branch": "df37316a82f6",
+      "status": "failure",
+      "extra": {
+        "time": 0.13
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_update_interval_type_validation[args1-unexpected argument '-1']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_or_unexpected_arguments_error[args1-unexpected argument '-n']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_flags[args3-a value is required for '--protected <PROTECTED>']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_or_unexpected_arguments_error[args2-unexpected argument '--no-update']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_flags[args6-a value is required for '--delete <DELETE>']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_flags[args2-a value is required for '--protected <PROTECTED>']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_combined_short_flags_not_supported_for_value_flag",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_flags[args4-a value is required for '--update-interval <UPDATE_INTERVAL>']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_flags[args0-a value is required for '--bases <BASES>']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_unknown_or_unexpected_arguments_error[args0-unexpected argument '--no-such-flag']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_update_interval_rejects_out_of_range_large_value",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_flags[args1-a value is required for '--bases <BASES>']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_repeated_flags_for_update_interval_are_rejected",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_missing_value_for_value_taking_flags[args5-a value is required for '--delete <DELETE>']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_update_interval_type_validation[args2-invalid value '-1' for '--update-interval <UPDATE_INTERVAL>']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_argparse_validation.test_update_interval_type_validation[args0-invalid value 'abc' for '--update-interval <UPDATE_INTERVAL>']",
+      "branch": "ed1c5cce9580",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_config_handling.test_negative_update_interval_panics_with_message",
+      "branch": "460cfbe4e9d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.094
+      }
+    },
+    {
+      "name": "eval.tests.test_config_handling.test_config_trim_bases_affects_base_marking",
+      "branch": "460cfbe4e9d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.097
+      }
+    },
+    {
+      "name": "eval.tests.test_config_handling.test_config_trim_protected_prevents_deletion_listing",
+      "branch": "460cfbe4e9d2",
+      "status": "passed",
+      "extra": {
+        "time": 0.11
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_baseline_help_short_matches_fixture",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.012
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_mentions_delete_range_values",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_mentions_config_keys",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[-b, --bases]",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[-p, --protected]",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_format_indentation_for_options",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_delete_default_shows_merged_origin",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_contains_opening_description_line",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--update-interval]",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--dry-run]",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_long_contains_project_name_in_backticks",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--no-detach]",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_has_options_section",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--no-confirm]",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[-V, --version]",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_has_usage_line",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_precedence_with_other_flags_shows_help",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_dashdash_then_help_is_error_and_points_to_help",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[-h, --help]",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_short_help_is_a_summary",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_baseline_help_long_matches_fixture",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[-d, --delete]",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_help_documents_flag[--no-update]",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_help_output.test_short_help_and_long_help_differ",
+      "branch": "d4f313db3900",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_help_and_version.test_version_prints_version_and_exits_zero",
+      "branch": "40d5eb846453",
+      "status": "passed",
+      "extra": {
+        "time": 0.01
+      }
+    },
+    {
+      "name": "eval.tests.test_errors.test_invalid_flag_exits_nonzero_and_mentions_unrecognized",
+      "branch": "40d5eb846453",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_help_and_version.test_help_succeeds_and_mentions_usage",
+      "branch": "40d5eb846453",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_errors.test_requires_git_remote_errors_and_exit_1",
+      "branch": "40d5eb846453",
+      "status": "passed",
+      "extra": {
+        "time": 0.038
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNoSubcommands.test_version_flag_works",
+      "branch": "a8673232be36",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNoSubcommands.test_version_long_flag_works",
+      "branch": "a8673232be36",
+      "status": "passed",
+      "extra": {
+        "time": 0.009
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestErrorHandling.test_flag_with_subcommand_like_pattern_fails",
+      "branch": "a8673232be36",
+      "status": "passed",
+      "extra": {
+        "time": 0.007
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestFlagBeforeAfterPositionIrrelevant.test_no_subcommand_flag_ordering_concept",
+      "branch": "a8673232be36",
+      "status": "passed",
+      "extra": {
+        "time": 0.006
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNoSubcommands.test_arbitrary_positional_arg_rejected",
+      "branch": "a8673232be36",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNoSubcommands.test_help_short_flag_works",
+      "branch": "a8673232be36",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNoSubcommands.test_help_shows_no_subcommands",
+      "branch": "a8673232be36",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestDocumentation.test_executable_is_single_command",
+      "branch": "a8673232be36",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestErrorHandling.test_unknown_flag_error",
+      "branch": "a8673232be36",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "eval.tests.test_subcommand_dispatch.TestNoSubcommands.test_multiple_subcommand_like_args_rejected",
+      "branch": "a8673232be36",
+      "status": "passed",
+      "extra": {
+        "time": 0.038
+      }
+    },
+    {
+      "name": "tests.test_basic_interface.TestBasicInterface.test_help_short_flag",
+      "branch": "75c14d1d5dcd",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_exact_output.TestExactOutputs.test_help_output_exact",
+      "branch": "75c14d1d5dcd",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "tests.test_basic_interface.TestBasicInterface.test_version_flag",
+      "branch": "75c14d1d5dcd",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_basic_interface.TestBasicInterface.test_invalid_flag",
+      "branch": "75c14d1d5dcd",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_exact_output.TestExactOutputs.test_version_short_output",
+      "branch": "75c14d1d5dcd",
+      "status": "passed",
+      "extra": {
+        "time": 0.004
+      }
+    },
+    {
+      "name": "tests.test_exact_output.TestErrorMessages.test_invalid_flag_error_message",
+      "branch": "75c14d1d5dcd",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_basic_interface.TestBasicInterface.test_help_flag",
+      "branch": "75c14d1d5dcd",
+      "status": "passed",
+      "extra": {
+        "time": 0.014
+      }
+    },
+    {
+      "name": "tests.test_basic_interface.TestBasicInterface.test_help_output_contains_all_options",
+      "branch": "75c14d1d5dcd",
+      "status": "passed",
+      "extra": {
+        "time": 0.008
+      }
+    },
+    {
+      "name": "tests.test_exact_output.TestExactOutputs.test_version_output_exact",
+      "branch": "75c14d1d5dcd",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "tests.test_basic_interface.TestBasicInterface.test_version_short_flag",
+      "branch": "75c14d1d5dcd",
+      "status": "passed",
+      "extra": {
+        "time": 0.002
+      }
+    },
+    {
+      "name": "tests.test_exact_output.TestExactOutputs.test_help_short_output",
+      "branch": "75c14d1d5dcd",
+      "status": "passed",
+      "extra": {
+        "time": 0.003
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_basics.test_version_exact",
+      "branch": "db00846502d9",
+      "status": "passed",
+      "extra": {
+        "time": 0.005
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_basics.test_help_contains_usage",
+      "branch": "db00846502d9",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_cli_basics.test_unknown_flag_errors",
+      "branch": "db00846502d9",
+      "status": "passed",
+      "extra": {
+        "time": 0.013
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_workflows.test_outside_git_repo_errors",
+      "branch": "db00846502d9",
+      "status": "passed",
+      "extra": {
+        "time": 0.011
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_workflows.test_dry_run_merged_local_deleted_remote_lists_branch",
+      "branch": "db00846502d9",
+      "status": "passed",
+      "extra": {
+        "time": 0.168
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_workflows.test_unicode_branch_name_dry_run_output",
+      "branch": "db00846502d9",
+      "status": "passed",
+      "extra": {
+        "time": 0.185
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_workflows.test_real_delete_no_confirm_actually_deletes_local_branch",
+      "branch": "db00846502d9",
+      "status": "passed",
+      "extra": {
+        "time": 0.181
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_externalized.test_ext_test_delete_filter_multiple_comma_separated_values",
+      "branch": "e7846e834011",
+      "status": "passed",
+      "extra": {
+        "time": 0.115
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_externalized.test_ext_test_bases_implicit_value",
+      "branch": "e7846e834011",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_externalized.test_ext_test_bases_multiple_comma_separated_values",
+      "branch": "e7846e834011",
+      "status": "passed",
+      "extra": {
+        "time": 0.109
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_externalized.test_ext_non_trackings_non_upstreams_test_merged_non_tracking",
+      "branch": "e7846e834011",
+      "status": "passed",
+      "extra": {
+        "time": 0.116
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_externalized.test_ext_test_protected_multiple_comma_separated_values",
+      "branch": "e7846e834011",
+      "status": "passed",
+      "extra": {
+        "time": 0.111
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_externalized.test_ext_simple_github_flow_test_accepted_but_edited",
+      "branch": "e7846e834011",
+      "status": "passed",
+      "extra": {
+        "time": 0.111
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_externalized.test_ext_simple_github_flow_test_accepted_but_forgot_to_delete",
+      "branch": "e7846e834011",
+      "status": "passed",
+      "extra": {
+        "time": 0.118
+      }
+    },
+    {
+      "name": "eval.tests.test_git_trim_externalized.test_ext_simple_github_flow_test_accepted",
+      "branch": "e7846e834011",
+      "status": "passed",
+      "extra": {
+        "time": 0.113
+      }
+    }
+  ],
+  "error_code": null,
+  "error_details": null,
+  "log": [],
+  "solution_branch": "pbconv-internal_realmax-20260914_045513-foriequal0__git-trim.07c",
+  "test_branches": [
+    "80d1d2869975",
+    "a03959b491c9",
+    "df37316a82f6",
+    "ed1c5cce9580",
+    "460cfbe4e9d2",
+    "d4f313db3900",
+    "40d5eb846453",
+    "a8673232be36",
+    "75c14d1d5dcd",
+    "db00846502d9",
+    "test-johnby-create_tui_tests__gpt-5-2-genai-20260310_150242",
+    "e7846e834011"
+  ],
+  "test_branch_errors": {},
+  "executable_hash": "46e6808f1b8f98fad0c12e6d682aedbaea17a3b1b8f5880abd5c44ff8cddc334",
+  "warnings": []
+}
