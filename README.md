@@ -68,7 +68,7 @@ input, $0.002 cached input, and $0.20 output.
 
 ```bash
 git clone <your-submission-repo>
-cd 20260910_mini-v2.4.5_muse-spark-1.3-max
+cd 20260918_mini-v2.4.5_muse-spark-1.3-max
 uvx programbench submit verify .
 uvx programbench submit verify . --tier1
 ```
